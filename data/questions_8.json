@@ -1,0 +1,595 @@
+[
+  {
+    "id": 171,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Cybersecurity Concepts",
+    "question_text": "The organization's security team was caught off guard by a _________ exploit, which targeted a software vulnerability that was unknown to the vendor at the time of the attack.",
+    "options": ["A) zero-day", "B) brute-force", "C) distributed denial-of-service", "D) phishing"],
+    "correct_answer": "A) zero-day",
+    "explanation": "A 'zero-day' exploit refers to a cyber attack that occurs on the same day a weakness is discovered in software, meaning there are 'zero days' for the vendor to fix it.",
+    "tags": ["cybersecurity", "advanced IT", "C1"]
+  },
+  {
+    "id": 172,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Inversion",
+    "question_text": "_________ under any circumstances share your administrative credentials with external contractors, regardless of their clearance level.",
+    "options": ["A) You should not", "B) Should you not", "C) Under no circumstances should you", "D) Not should you"],
+    "correct_answer": "C) Under no circumstances should you",
+    "explanation": "When a sentence begins with a negative adverbial phrase like 'Under no circumstances', it requires subject-auxiliary inversion ('should you').",
+    "tags": ["inversion", "advanced grammar", "C1"]
+  },
+  {
+    "id": 173,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Advanced Collocations",
+    "question_text": "To _________ the risk of data breaches, the company implemented end-to-end encryption across all its communication channels.",
+    "options": ["A) alleviate", "B) mitigate", "C) deteriorate", "D) amplify"],
+    "correct_answer": "B) mitigate",
+    "explanation": "'Mitigate' is the precise professional collocation used with 'risk', meaning to make something less severe, harmful, or painful.",
+    "tags": ["business English", "risk management", "C1 vocabulary"]
+  },
+  {
+    "id": 174,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Inference",
+    "question_text": "Read the excerpt: 'While machine learning algorithms excel at pattern recognition, they remain fundamentally constrained by the biases inherent in their training data.' What can be inferred about these algorithms?",
+    "options": [
+      "A) They are completely objective and free from human error.",
+      "B) Their accuracy is entirely dependent on the quality and neutrality of the input data.",
+      "C) They are incapable of recognizing complex patterns.",
+      "D) They will eventually surpass human intelligence in all domains."
+    ],
+    "correct_answer": "B) Their accuracy is entirely dependent on the quality and neutrality of the input data.",
+    "explanation": "The phrase 'constrained by the biases inherent in their training data' implies that the output is only as good (or unbiased) as the data fed into it.",
+    "tags": ["reading comprehension", "inference", "AI/ML", "C1"]
+  },
+  {
+    "id": 175,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Software Engineering",
+    "question_text": "The development team decided to postpone the new feature rollout in order to address the accumulating _________, which was beginning to slow down the entire codebase.",
+    "options": ["A) technical debt", "B) bandwidth", "C) latency", "D) throughput"],
+    "correct_answer": "A) technical debt",
+    "explanation": "'Technical debt' is a metaphor for the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer.",
+    "tags": ["software development", "Agile", "C1 IT"]
+  },
+  {
+    "id": 176,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Mixed Conditionals",
+    "question_text": "If the lead architect _________ the scalability issues during the design phase, the system _________ experiencing severe downtime right now.",
+    "options": ["A) had identified / wouldn't be", "B) identified / wouldn't have been", "C) would identify / isn't", "D) has identified / won't be"],
+    "correct_answer": "A) had identified / wouldn't be",
+    "explanation": "This is a mixed conditional: a past unreal condition ('had identified' - 3rd conditional) with a present unreal result ('wouldn't be experiencing' - 2nd conditional).",
+    "tags": ["mixed conditionals", "advanced grammar", "C1"]
+  },
+  {
+    "id": 177,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Nuanced Adjectives",
+    "question_text": "The new software update was met with _________ approval from the user base, as it resolved the most critical bugs without introducing new ones.",
+    "options": ["A) ubiquitous", "B) ephemeral", "C) unanimous", "D) detrimental"],
+    "correct_answer": "C) unanimous",
+    "explanation": "'Unanimous' means fully in agreement. In this context, it means all users approved of the update.",
+    "tags": ["advanced vocabulary", "adjectives", "C1"]
+  },
+  {
+    "id": 178,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Author's Tone",
+    "question_text": "Read the sentence: 'Proponents of the new framework herald it as a 'silver bullet' for cybersecurity, yet historical precedents suggest such optimism is largely misplaced.' The author's tone is best described as:",
+    "options": ["A) Enthusiastic", "B) Skeptical", "", "C) Indifferent", "D) Nostalgic"],
+    "correct_answer": "B) Skeptical",
+    "explanation": "The use of 'yet historical precedents suggest such optimism is largely misplaced' clearly indicates doubt and skepticism towards the 'silver bullet' claim.",
+    "tags": ["tone analysis", "critical reading", "C1"]
+  },
+  {
+    "id": 179,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Cloud Architecture",
+    "question_text": "Migrating to a proprietary cloud ecosystem can lead to _________, making it prohibitively expensive and technically challenging to switch to a different provider in the future.",
+    "options": ["A) vendor lock-in", "B) load balancing", "C) horizontal scaling", "D) data anonymization"],
+    "correct_answer": "A) vendor lock-in",
+    "explanation": "'Vendor lock-in' occurs when a customer is dependent on a vendor for products and services and cannot move to another vendor without substantial switching costs.",
+    "tags": ["cloud computing", "business strategy", "C1 IT"]
+  },
+  {
+    "id": 180,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Participle Clauses",
+    "question_text": "_________ by a series of catastrophic server failures, the IT department completely overhauled the disaster recovery protocol.",
+    "options": ["A) Having been prompted", "B) Prompting", "C) To prompt", "D) Being prompted"],
+    "correct_answer": "A) Having been prompted",
+    "explanation": "The perfect passive participle ('Having been prompted') is used to show that one action (being prompted) happened before another past action (overhauled).",
+    "tags": ["participle clauses", "advanced grammar", "C1"]
+  },
+  {
+    "id": 181,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Idioms in Context",
+    "question_text": "Expecting the legacy system to handle a million concurrent users without any infrastructure upgrades is a complete _________; it simply wasn't built for that capacity.",
+    "options": ["A) catch-22", "B) pipe dream", "C) blessing in disguise", "D) double-edged sword"],
+    "correct_answer": "B) pipe dream",
+    "explanation": "A 'pipe dream' is an unattainable or fanciful hope or scheme, which perfectly describes the impossible expectation of the legacy system.",
+    "tags": ["idioms", "advanced vocabulary", "C1"]
+  },
+  {
+    "id": 182,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Rhetorical Purpose",
+    "question_text": "In a technical manual, the author writes: 'It is worth noting that while this method is faster, it sacrifices a degree of data integrity.' What is the primary purpose of this sentence?",
+    "options": [
+      "A) To strongly advocate for the use of this method.",
+      "B) To provide a caveat or warning about a trade-off.",
+      "C) To explain the step-by-step process of the method.",
+      "D) To compare two entirely different software products."
+    ],
+    "correct_answer": "B) To provide a caveat or warning about a trade-off.",
+    "explanation": "The phrase 'It is worth noting that... it sacrifices...' serves as a cautionary statement, highlighting a disadvantage (trade-off) of using the faster method.",
+    "tags": ["rhetorical purpose", "technical writing", "C1"]
+  },
+  {
+    "id": 183,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Data Science",
+    "question_text": "When a machine learning model performs exceptionally well on training data but poorly on unseen test data, it is said to be _________, meaning it has memorized the noise rather than learning the underlying pattern.",
+    "options": ["A) underfitting", "B) overfitting", "C) normalizing", "D) clustering"],
+    "correct_answer": "B) overfitting",
+    "explanation": "'Overfitting' occurs when a model learns the detail and noise in the training data to the extent that it negatively impacts the performance of the model on new data.",
+    "tags": ["data science", "machine learning", "C1 IT"]
+  },
+  {
+    "id": 184,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Cleft Sentences",
+    "question_text": "_________ caused the massive data outage was not a hardware failure, but rather a misconfigured routing table.",
+    "options": ["A) It was", "B) What", "C) That", "D) Which"],
+    "correct_answer": "B) What",
+    "explanation": "This is a 'wh-' cleft sentence (pseudo-cleft). 'What caused the massive data outage' acts as the subject of the sentence, emphasizing the cause.",
+    "tags": ["cleft sentences", "emphasis", "advanced grammar", "C1"]
+  },
+  {
+    "id": 185,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Confusing Words",
+    "question_text": "The new UI design does not _________ the existing brand guidelines; in fact, it actively contradicts them by using unauthorized color palettes.",
+    "options": ["A) compliment", "B) complement", "C) implement", "D) compile"],
+    "correct_answer": "B) complement",
+    "explanation": "'Complement' (with an 'e') means to add to something in a way that enhances or improves it. 'Compliment' (with an 'i') means to give praise.",
+    "tags": ["confusing words", "advanced vocabulary", "C1"]
+  },
+  {
+    "id": 186,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "DevOps",
+    "question_text": "The implementation of a robust CI/CD pipeline is crucial for achieving _________, allowing developers to deploy code changes to production multiple times a day with minimal manual intervention.",
+    "options": ["A) continuous delivery", "B) waterfall development", "C) static analysis", "D) version control"],
+    "correct_answer": "A) continuous delivery",
+    "explanation": "'Continuous delivery' (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time.",
+    "tags": ["DevOps", "CI/CD", "C1 IT"]
+  },
+  {
+    "id": 187,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Subjunctive Mood",
+    "question_text": "The chief information officer insisted that the external audit _________ conducted by an independent third party to ensure absolute impartiality.",
+    "options": ["A) is", "B) was", "C) be", "D) will be"],
+    "correct_answer": "C) be",
+    "explanation": "After verbs of insistence, demand, or recommendation (like 'insisted that'), English uses the subjunctive mood, which requires the base form of the verb ('be').",
+    "tags": ["subjunctive", "advanced grammar", "C1"]
+  },
+  {
+    "id": 188,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Main Idea",
+    "question_text": "Read the paragraph: 'The transition to remote work has democratized access to global talent pools. However, it has also introduced complex challenges regarding asynchronous communication, timezone management, and the erosion of corporate culture.' What is the main idea?",
+    "options": [
+      "A) Remote work is overwhelmingly positive for global businesses.",
+      "B) Corporate culture cannot survive in a remote work environment.",
+      "C) Remote work offers significant advantages but also introduces distinct operational and cultural challenges.",
+      "D) Timezone management is the single biggest hurdle of remote work."
+    ],
+    "correct_answer": "C) Remote work offers significant advantages but also introduces distinct operational and cultural challenges.",
+    "explanation": "The paragraph presents a balanced view, acknowledging the benefit ('democratized access') while detailing the drawbacks ('complex challenges').",
+    "tags": ["reading comprehension", "main idea", "C1"]
+  },
+  {
+    "id": 189,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Advanced Adjectives",
+    "question_text": "In the fast-paced tech industry, the lifespan of a groundbreaking innovation can be surprisingly _________, quickly rendered obsolete by the next major breakthrough.",
+    "options": ["A) perpetual", "B) ephemeral", "C) robust", "D) tangible"],
+    "correct_answer": "B) ephemeral",
+    "explanation": "'Ephemeral' means lasting for a very short time, which perfectly contrasts with 'groundbreaking innovation' being 'quickly rendered obsolete'.",
+    "tags": ["advanced vocabulary", "adjectives", "C1"]
+  },
+  {
+    "id": 190,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Software Maintenance",
+    "question_text": "Rather than adding new features, the engineering team dedicated the entire sprint to _________ the legacy codebase, improving its internal structure without altering its external behavior.",
+    "options": ["A) refactoring", "B) recompiling", "C) deprecating", "D) obfuscating"],
+    "correct_answer": "A) refactoring",
+    "explanation": "'Refactoring' is the process of restructuring existing computer code without changing its external behavior, aimed at improving nonfunctional attributes of the software.",
+    "tags": ["software engineering", "code quality", "C1 IT"]
+  },
+  {
+    "id": 191,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Advanced Modals",
+    "question_text": "The system crashed unexpectedly. The database _________ corrupted during the sudden power outage, although we won't know for sure until the diagnostics are complete.",
+    "options": ["A) must have been", "B) can't have been", "C) might have been", "D) should have been"],
+    "correct_answer": "C) might have been",
+    "explanation": "'Might have been' is used to express a possibility in the past when we are not certain. 'Must have been' would imply certainty, which contradicts 'we won't know for sure'.",
+    "tags": ["modal verbs", "deduction", "C1 grammar"]
+  },
+  {
+    "id": 192,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Phrasal Verbs",
+    "question_text": "The startup managed to _________ a significant round of Series A funding, despite the current economic downturn.",
+    "options": ["A) fall back on", "B) secure", "C) drum up", "D) phase out"],
+    "correct_answer": "C) drum up",
+    "explanation": "To 'drum up' means to try hard to get support, business, or interest in something (like funding or support).",
+    "tags": ["phrasal verbs", "business English", "C1"]
+  },
+  {
+    "id": 193,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Networking",
+    "question_text": "To ensure high availability, the network architects designed a _________ topology, meaning there is no single point of failure and data can be rerouted instantly if a node goes down.",
+    "options": ["A) star", "B) mesh", "C) bus", "D) ring"],
+    "correct_answer": "B) mesh",
+    "explanation": "A 'mesh' network topology is one where each node is connected to every other node, providing multiple paths for data and eliminating single points of failure.",
+    "tags": ["networking", "infrastructure", "C1 IT"]
+  },
+  {
+    "id": 194,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Vocabulary in Context",
+    "question_text": "Read the sentence: 'The CEO's *candid* admission of the company's financial struggles surprised the shareholders, who were accustomed to overly sanitized press releases.' What does 'candid' mean here?",
+    "options": [
+      "A) Deceptive and misleading",
+      "B) Truthful, straightforward, and frank",
+      "C) Vague and ambiguous",
+      "D) Enthusiastic and optimistic"
+    ],
+    "correct_answer": "B) Truthful, straightforward, and frank",
+    "explanation": "'Candid' means truthful and straightforward, which contrasts directly with the 'overly sanitized' (censored/polished) press releases mentioned.",
+    "tags": ["vocabulary in context", "business English", "C1"]
+  },
+  {
+    "id": 195,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Relative Clauses",
+    "question_text": "The new cybersecurity framework, strict adherence to _________ is now mandatory for all departments, was developed in collaboration with leading industry experts.",
+    "options": ["A) that", "B) which", "C) whose", "D) whom"],
+    "correct_answer": "B) which",
+    "explanation": "This is a non-defining relative clause with a preposition ('to'). We must use 'which' to refer to the 'framework'. ('to which' = adherence to the framework).",
+    "tags": ["relative clauses", "prepositions", "C1 grammar"]
+  },
+  {
+    "id": 196,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Word Formation",
+    "question_text": "The _________ of the new software was delayed due to unforeseen compatibility issues with older operating systems.",
+    "options": ["A) deploy", "B) deployment", "C) deployable", "D) deploying"],
+    "correct_answer": "B) deployment",
+    "explanation": "The sentence requires a noun to act as the subject. 'Deployment' is the noun form of the verb 'deploy'.",
+    "tags": ["word formation", "nouns", "C1 vocabulary"]
+  },
+  {
+    "id": 197,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Data Privacy",
+    "question_text": "Under GDPR regulations, organizations must ensure that personal data is _________, meaning it is processed in a manner that ensures appropriate security, including protection against unauthorized processing.",
+    "options": ["A) anonymized", "B) integrity", "C) confidential", "D) monetized"],
+    "correct_answer": "C) confidential", // Wait, GDPR principle is "integrity and confidentiality". Let's adjust the question to be more precise.
+    "question_text": "Under GDPR regulations, personal data must be processed in a manner that ensures appropriate security, including protection against unauthorized or unlawful processing. This principle is known as data _________ and confidentiality.",
+    "options": ["A) integrity", "B) anonymity", "C) portability", "D) minimization"],
+    "correct_answer": "A) integrity",
+    "explanation": "The GDPR principle of 'integrity and confidentiality' requires that data is processed securely, protecting it from unauthorized access, loss, or destruction.",
+    "tags": ["data privacy", "GDPR", "C1 IT"]
+  },
+  {
+    "id": 198,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Future Perfect Continuous",
+    "question_text": "By the end of this fiscal year, the development team _________ on the core algorithm for over 18 months, yet it still requires further optimization.",
+    "options": ["A) will work", "B) will be working", "C) will have been working", "D) are going to work"],
+    "correct_answer": "C) will have been working",
+    "explanation": "The Future Perfect Continuous ('will have been working') is used to emphasize the duration of an action up to a specific point in the future ('By the end of this fiscal year').",
+    "tags": ["tenses", "future perfect continuous", "C1 grammar"]
+  },
+  {
+    "id": 199,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Inference",
+    "question_text": "Read the excerpt: 'The much-touted 'revolutionary' app is essentially a repackaged version of existing technology, wrapped in a sleeker interface but lacking any substantive functional improvements.' The author likely believes that:",
+    "options": [
+      "A) The app's interface is its only redeeming quality.",
+      "B) The app represents a genuine leap forward in technological innovation.",
+      "C) The marketing of the app is disproportionate to its actual technological value.",
+      "D) The existing technology was fundamentally flawed."
+    ],
+    "correct_answer": "C) The marketing of the app is disproportionate to its actual technological value.",
+    "explanation": "Phrases like 'much-touted', 'essentially a repackaged version', and 'lacking any substantive functional improvements' indicate the author thinks the hype (marketing) exceeds the reality.",
+    "tags": ["inference", "critical reading", "C1"]
+  },
+  {
+    "id": 200,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Project Management",
+    "question_text": "During the retrospective meeting, the Scrum Master encouraged the team to focus on _________, identifying what went well and what processes could be improved for the next sprint.",
+    "options": ["A) scope creep", "B) continuous improvement", "C) waterfall planning", "D) resource leveling"],
+    "correct_answer": "B) continuous improvement",
+    "explanation": "In Agile/Scrum, the retrospective is specifically designed for 'continuous improvement' (or Kaizen), where the team reflects on their processes to make them better.",
+    "tags": ["Agile", "Scrum", "C1 IT"]
+  },
+  {
+    "id": 201,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Advanced Verbs",
+    "question_text": "The new policy aims to _________ the bureaucratic red tape that has historically slowed down the procurement process.",
+    "options": ["A) exacerbate", "B) streamline", "C) obfuscate", "D) proliferate"],
+    "correct_answer": "B) streamline",
+    "explanation": "'Streamline' means to make an organization or system more efficient and effective by employing faster or simpler working methods (i.e., reducing red tape).",
+    "tags": ["business English", "advanced verbs", "C1"]
+  },
+  {
+    "id": 202,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Inversion",
+    "question_text": "Rarely _________ such a comprehensive and well-documented API in my ten years of experience as a backend developer.",
+    "options": ["A) I have encountered", "B) have I encountered", "C) I encountered", "D) did I encountered"],
+    "correct_answer": "B) have I encountered",
+    "explanation": "When a sentence begins with a negative or restrictive adverb like 'Rarely', it triggers subject-auxiliary inversion ('have I').",
+    "tags": ["inversion", "advanced grammar", "C1"]
+  },
+  {
+    "id": 203,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Cybersecurity",
+    "question_text": "To prevent _________ attacks, where an adversary intercepts and potentially alters the communication between two parties who believe they are directly communicating with each other, end-to-end encryption is mandatory.",
+    "options": ["A) Man-in-the-Middle (MitM)", "B) SQL Injection", "C) Cross-Site Scripting (XSS)", "D) Ransomware"],
+    "correct_answer": "A) Man-in-the-Middle (MitM)",
+    "explanation": "A 'Man-in-the-Middle' attack involves the attacker secretly relaying and possibly altering the communications between two parties.",
+    "tags": ["cybersecurity", "networking", "C1 IT"]
+  },
+  {
+    "id": 204,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Tone",
+    "question_text": "Read the sentence: 'The committee's decision to postpone the project was not merely cautious; it was an act of profound cowardice in the face of manageable risk.' The tone is:",
+    "options": ["A) Objective and analytical", "B) Scathing and critical", "C) Ambivalent and uncertain", "D) Jubilant and supportive"],
+    "correct_answer": "B) Scathing and critical",
+    "explanation": "The use of strong, judgmental language like 'profound cowardice' indicates a highly critical and scathing tone.",
+    "tags": ["tone analysis", "advanced reading", "C1"]
+  },
+  {
+    "id": 205,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Collocations",
+    "question_text": "The two tech giants decided to _________ forces to develop a unified standard for quantum encryption.",
+    "options": ["A) join", "B) make", "C) take", "D) put"],
+    "correct_answer": "A) join",
+    "explanation": "The fixed idiom/collocation is to 'join forces', meaning to work together to achieve a common goal.",
+    "tags": ["collocations", "idioms", "C1 vocabulary"]
+  },
+  {
+    "id": 206,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Participle Clauses",
+    "question_text": "_________ the severity of the data breach, the company's PR team issued a public apology within hours of the incident.",
+    "options": ["A) Recognizing", "B) Recognized", "C) Having recognized", "D) To recognize"],
+    "correct_answer": "A) Recognizing",
+    "explanation": "The present participle ('Recognizing') is used here to show the reason or cause for the main action (issuing the apology).",
+    "tags": ["participle clauses", "advanced grammar", "C1"]
+  },
+  {
+    "id": 207,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Database Management",
+    "question_text": "To optimize query performance on massive datasets, the database administrator decided to _________ the most frequently accessed columns, allowing the database engine to retrieve data without scanning the entire table.",
+    "options": ["A) normalize", "B) index", "C) encrypt", "D) shard"],
+    "correct_answer": "B) index",
+    "explanation": "Creating an 'index' on specific columns creates a data structure that improves the speed of data retrieval operations on a database table.",
+    "tags": ["databases", "SQL", "C1 IT"]
+  },
+  {
+    "id": 208,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Reference",
+    "question_text": "Read the text: 'Blockchain technology promises decentralized security. However, its scalability remains a contentious issue, as the very mechanisms that ensure its immutability inherently limit its transaction throughput.' What does 'its' refer to in 'limit its transaction throughput'?",
+    "options": [
+      "A) Decentralized security",
+      "B) Blockchain technology",
+      "C) The scalability issue",
+      "D) The mechanism's immutability"
+    ],
+    "correct_answer": "B) Blockchain technology",
+    "explanation": "The pronoun 'its' refers back to the main subject being discussed, which is 'Blockchain technology' and its inherent limitations regarding throughput.",
+    "tags": ["pronoun reference", "reading comprehension", "C1"]
+  },
+  {
+    "id": 209,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Advanced Adjectives",
+    "question_text": "The software's user interface is highly _________, allowing even non-technical users to navigate complex workflows with minimal training.",
+    "options": ["A) convoluted", "B) intuitive", "C) archaic", "D) redundant"],
+    "correct_answer": "B) intuitive",
+    "explanation": "'Intuitive' means easy to use and understand without needing explicit instructions, which matches the description of non-technical users navigating it easily.",
+    "tags": ["UI/UX", "advanced vocabulary", "C1"]
+  },
+  {
+    "id": 210,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Cleft Sentences",
+    "question_text": "It was the sudden spike in server load, rather than a malicious cyber attack, _________ triggered the automated failover sequence.",
+    "options": ["A) which", "B) that", "C) what", "D) who"],
+    "correct_answer": "B) that",
+    "explanation": "This is an 'It-cleft' sentence used for emphasis. The structure is 'It + be + emphasized element + that/who + clause'.",
+    "tags": ["cleft sentences", "emphasis", "C1 grammar"]
+  },
+  {
+    "id": 211,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Software Architecture",
+    "question_text": "Transitioning from a monolithic architecture to a _________ architecture allows teams to develop, deploy, and scale individual services independently.",
+    "options": ["A) waterfall", "B) microservices", "C) legacy", "D) peer-to-peer"],
+    "correct_answer": "B) microservices",
+    "explanation": "'Microservices' architecture is an approach where a single application is composed of many loosely coupled and independently deployable smaller services.",
+    "tags": ["software architecture", "C1 IT"]
+  },
+  {
+    "id": 212,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Word Choice",
+    "question_text": "The manager's feedback was incredibly _________; it provided actionable steps for improvement rather than vague, generalized criticism.",
+    "options": ["A) ambiguous", "B) constructive", "C) detrimental", "D) superficial"],
+    "correct_answer": "B) constructive",
+    "explanation": "'Constructive' feedback is intended to help improve something, providing specific, actionable advice, which contrasts with 'vague, generalized criticism'.",
+    "tags": ["business English", "advanced vocabulary", "C1"]
+  },
+  {
+    "id": 213,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Inference",
+    "question_text": "Read the statement: 'While the initial rollout was plagued by minor bugs, the development team's rapid response and transparent communication ultimately turned a potential PR disaster into a testament to their reliability.' What can be inferred?",
+    "options": [
+      "A) The bugs were intentionally left in the software to test user tolerance.",
+      "B) The company's reputation was permanently damaged by the rollout.",
+      "C) Effective crisis management can sometimes enhance a company's reputation despite initial failures.",
+      "D) The development team is no longer responsible for post-launch support."
+    ],
+    "correct_answer": "C) Effective crisis management can sometimes enhance a company's reputation despite initial failures.",
+    "explanation": "The phrase 'turned a potential PR disaster into a testament to their reliability' implies that their handling of the situation actually improved their standing.",
+    "tags": ["inference", "business context", "C1"]
+  },
+  {
+    "id": 214,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Subjunctive / Advanced Structures",
+    "question_text": "Whatever _________ the outcome of the audit, the company is committed to implementing all recommended security patches immediately.",
+    "options": ["A) is", "B) be", "C) was", "D) will be"],
+    "correct_answer": "B) be",
+    "explanation": "In formal English, after 'whatever', 'whoever', 'wherever', etc., the subjunctive 'be' can be used to mean 'no matter what the outcome is'.",
+    "tags": ["subjunctive", "advanced grammar", "C1"]
+  },
+  {
+    "id": 215,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Testing & QA",
+    "question_text": "Before the final release, the QA team must perform _________ testing to ensure that recent code changes have not adversely affected existing features.",
+    "options": ["A) regression", "B) exploratory", "C) smoke", "D) acceptance"],
+    "correct_answer": "A) regression",
+    "explanation": "'Regression testing' is specifically designed to verify that a recently developed or changed piece of software still performs as expected and hasn't broken existing functionality.",
+    "tags": ["software testing", "QA", "C1 IT"]
+  },
+  {
+    "id": 216,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Idioms",
+    "question_text": "We need to get everyone on the same page before the client meeting; we can't afford to have the design and engineering teams working at _________.",
+    "options": ["A) cross purposes", "B) full capacity", "C) a premium", "D) large"],
+    "correct_answer": "A) cross purposes",
+    "explanation": "To work 'at cross purposes' means that people or groups are working in a way that produces results opposite to what is intended, or they are misunderstanding each other's goals.",
+    "tags": ["idioms", "business English", "C1"]
+  },
+  {
+    "id": 217,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Rhetorical Purpose",
+    "question_text": "In a research paper, the author states: 'It should be acknowledged, however, that the sample size of this study is relatively small, which may limit the generalizability of the findings.' Why does the author include this?",
+    "options": [
+      "A) To discredit the entire research project.",
+      "B) To highlight a limitation and demonstrate academic integrity.",
+      "C) To suggest that further funding is required.",
+      "D) To criticize the methodology of previous studies."
+    ],
+    "correct_answer": "B) To highlight a limitation and demonstrate academic integrity.",
+    "explanation": "Acknowledging limitations (like a small sample size) is a standard academic practice that shows objectivity and intellectual honesty.",
+    "tags": ["rhetorical purpose", "academic English", "C1"]
+  },
+  {
+    "id": 218,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Mixed Conditionals",
+    "question_text": "If we _________ the server migration last weekend, we wouldn't be dealing with this critical latency issue right now.",
+    "options": ["A) had postponed", "B) postponed", "C) would postpone", "D) have postponed"],
+    "correct_answer": "A) had postponed",
+    "explanation": "This is a mixed conditional. The 'if' clause refers to an unreal past action ('had postponed'), and the main clause refers to the present consequence ('wouldn't be dealing').",
+    "tags": ["mixed conditionals", "advanced grammar", "C1"]
+  },
+  {
+    "id": 219,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Emerging Tech",
+    "question_text": "The concept of _________ computing involves processing data closer to where it is being generated (e.g., IoT devices) rather than relying on a centralized cloud server, thereby reducing latency.",
+    "options": ["A) quantum", "B) edge", "C) grid", "D) fog"],
+    "correct_answer": "B) edge",
+    "explanation": "'Edge computing' is a distributed computing paradigm that brings computation and data storage closer to the sources of data (the 'edge' of the network).",
+    "tags": ["emerging technology", "IoT", "C1 IT"]
+  },
+  {
+    "id": 220,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Advanced Verbs",
+    "question_text": "The new regulations will inevitably _________ the way tech companies collect and monetize user data, forcing a complete overhaul of their current business models.",
+    "options": ["A) catalyze", "B) stagnate", "C) alleviate", "D) corroborate"],
+    "correct_answer": "A) catalyze",
+    "explanation": "'Catalyze' means to cause or accelerate a change or action. In this context, the regulations will force (catalyze) a major change in business models.",
+    "tags": ["advanced vocabulary", "business/tech", "C1"]
+  }
+]

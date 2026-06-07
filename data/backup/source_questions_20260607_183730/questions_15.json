@@ -1,0 +1,597 @@
+[
+  {
+    "id": 571,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "API Architecture",
+    "question_text": "In RESTful API design, an operation is considered _________ if making the exact same request multiple times yields the identical result and produces the same side-effects as making it only once.",
+    "options": ["A) asynchronous", "B) idempotent", "C) stateful", "D) polymorphic"],
+    "correct_answer": "B) idempotent",
+    "explanation": "'Idempotent' is a mathematical and computer science term meaning that an operation can be applied multiple times without changing the result beyond the initial application (e.g., HTTP PUT or DELETE).",
+    "tags": ["API design", "distributed systems", "C2 IT"]
+  },
+  {
+    "id": 572,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Cybersecurity Architecture",
+    "question_text": "Moving away from the traditional 'castle-and-moat' security model, the organization adopted a _________ architecture, requiring strict identity verification for every single person and device trying to access resources on its private network.",
+    "options": ["A) perimeter-based", "B) zero-trust", "C) demilitarized", "D) heuristic"],
+    "correct_answer": "B) zero-trust",
+    "explanation": "'Zero-trust' is a security concept that centers on the belief that organizations should not automatically trust anything inside or outside its perimeters, requiring continuous verification.",
+    "tags": ["cybersecurity", "network architecture", "C2 IT"]
+  },
+  {
+    "id": 573,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Data Architecture",
+    "question_text": "To handle the diverse data structures required by modern applications, the architecture employs _________, utilizing relational databases for transactional data and NoSQL document stores for unstructured content.",
+    "options": ["A) polyglot persistence", "B) data normalization", "C) horizontal scaling", "D) ACID compliance"],
+    "correct_answer": "A) polyglot persistence",
+    "explanation": "'Polyglot persistence' refers to the practice of using different data storage technologies to handle different data storage needs within a single application.",
+    "tags": ["data engineering", "architecture", "C2 IT"]
+  },
+  {
+    "id": 574,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Database Consistency Models",
+    "question_text": "In distributed databases, _________ consistency guarantees that if no new updates are made to a given piece of data, eventually all accesses will return the last updated value.",
+    "options": ["A) strict", "B) eventual", "C) strong", "D) causal"],
+    "correct_answer": "B) eventual",
+    "explanation": "'Eventual consistency' is a consistency model used in distributed computing to achieve high availability, guaranteeing that if no new updates are made, all accesses will eventually return the last updated value.",
+    "tags": ["databases", "distributed systems", "C2 IT"]
+  },
+  {
+    "id": 575,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Advanced Cryptography",
+    "question_text": "Unlike a direct cryptographic attack, a _________ attack seeks to compromise a system by analyzing physical implementation data, such as power consumption, electromagnetic leaks, or timing delays.",
+    "options": ["A) man-in-the-middle", "B) side-channel", "C) brute-force", "D) phishing"],
+    "correct_answer": "B) side-channel",
+    "explanation": "A 'side-channel attack' is an attack based on information gained from the physical implementation of a cryptosystem, rather than weaknesses in the algorithm itself.",
+    "tags": ["cryptography", "hardware security", "C2 IT"]
+  },
+  {
+    "id": 576,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Migration Patterns",
+    "question_text": "To safely migrate from a legacy monolith to a microservices architecture without downtime, the team employed the _________ pattern, gradually replacing specific functionalities with new services while the old system still runs.",
+    "options": ["A) strangler fig", "B) blue-green deployment", "C) canary release", "D) circuit breaker"],
+    "correct_answer": "A) strangler fig",
+    "explanation": "The 'Strangler Fig' pattern is a well-known software architecture pattern for migrating a legacy system by gradually replacing specific pieces of functionality with new applications and services.",
+    "tags": ["software architecture", "migration", "C2 IT"]
+  },
+  {
+    "id": 577,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Distributed Systems Theory",
+    "question_text": "According to the _________ Theorem, it is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees: Consistency, Availability, and Partition Tolerance.",
+    "options": ["A) CAP", "B) ACID", "C) BASE", "D) Turing"],
+    "correct_answer": "A) CAP",
+    "explanation": "The CAP Theorem states that a distributed system can only guarantee two of these three properties (Consistency, Availability, Partition Tolerance) at any given time.",
+    "tags": ["distributed systems", "theoretical CS", "C2 IT"]
+  },
+  {
+    "id": 578,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Resilience Patterns",
+    "question_text": "In the context of distributed systems, the _________ pattern ensures that if a downstream service fails or times out, the system immediately returns a fallback response, preventing cascading failures across the entire network.",
+    "options": ["A) circuit breaker", "B) retry", "C) bulkhead", "D) saga"],
+    "correct_answer": "A) circuit breaker",
+    "explanation": "The 'circuit breaker' pattern stops the flow of requests to a failing service, preventing cascading failures and allowing the system to degrade gracefully.",
+    "tags": ["microservices", "resilience", "C2 IT"]
+  },
+  {
+    "id": 579,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Algorithmic Complexity",
+    "question_text": "When analyzing the _________ complexity of an algorithm, computer scientists are primarily concerned with how the runtime or memory requirements grow as the input size approaches infinity.",
+    "options": ["A) empirical", "B) asymptotic", "C) heuristic", "D) stochastic"],
+    "correct_answer": "B) asymptotic",
+    "explanation": "'Asymptotic complexity' (often expressed using Big O notation) describes the behavior of a function as the input size grows towards a limit (usually infinity).",
+    "tags": ["computer science", "algorithms", "C2 IT"]
+  },
+  {
+    "id": 580,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Software Engineering",
+    "question_text": "The development team decided to postpone the new feature rollout in order to address the accumulating _________, which was beginning to slow down the entire codebase and increase bug frequency.",
+    "options": ["A) technical debt", "B) bandwidth", "C) latency", "D) throughput"],
+    "correct_answer": "A) technical debt",
+    "explanation": "'Technical debt' is a metaphor for the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer.",
+    "tags": ["software development", "Agile", "C2 IT"]
+  },
+  {
+    "id": 581,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Software Maintenance",
+    "question_text": "Rather than adding new features, the engineering team dedicated the entire sprint to _________ the legacy codebase, improving its internal structure without altering its external behavior.",
+    "options": ["A) refactoring", "B) recompiling", "C) deprecating", "D) obfuscating"],
+    "correct_answer": "A) refactoring",
+    "explanation": "'Refactoring' is the process of restructuring existing computer code without changing its external behavior, aimed at improving nonfunctional attributes of the software.",
+    "tags": ["software engineering", "code quality", "C2 IT"]
+  },
+  {
+    "id": 582,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "System Monitoring",
+    "question_text": "To proactively identify bottlenecks before they cause outages, the DevOps team implemented a comprehensive _________ pipeline that continuously streams logs, metrics, and traces from all microservices.",
+    "options": ["A) telemetry", "B) cryptography", "C) serialization", "D) virtualization"],
+    "correct_answer": "A) telemetry",
+    "explanation": "'Telemetry' refers to the automated collection and transmission of data (like logs and metrics) from remote or distributed systems to an IT system for monitoring.",
+    "tags": ["DevOps", "monitoring", "C2 IT"]
+  },
+  {
+    "id": 583,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Infrastructure Automation",
+    "question_text": "The concept of _________ involves treating infrastructure configuration as code, allowing teams to version control and automate the provisioning of servers using tools like Terraform or Ansible.",
+    "options": ["A) Infrastructure as Code (IaC)", "B) Continuous Integration", "C) Containerization", "D) Load Balancing"],
+    "correct_answer": "A) Infrastructure as Code (IaC)",
+    "explanation": "Infrastructure as Code (IaC) is a key DevOps practice that allows developers and operations teams to automate the provisioning and management of infrastructure using code.",
+    "tags": ["DevOps", "IaC", "C2 IT"]
+  },
+  {
+    "id": 584,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Concurrency Issues",
+    "question_text": "The application experienced a critical _________ when two concurrent threads attempted to modify the same shared resource simultaneously without proper locking mechanisms, resulting in corrupted data.",
+    "options": ["A) deadlock", "B) race condition", "C) memory leak", "D) stack overflow"],
+    "correct_answer": "B) race condition",
+    "explanation": "A 'race condition' occurs when a software system's behavior is dependent on the sequence or timing of uncontrollable events, like two threads modifying shared data simultaneously.",
+    "tags": ["concurrency", "software bugs", "C2 IT"]
+  },
+  {
+    "id": 585,
+    "category": "IT & Technology",
+    "cefr_level": "C2",
+    "question_type": "Database Scaling",
+    "question_text": "To handle the massive influx of global user data, the database administrators decided to employ _________, horizontally partitioning the data across multiple independent database servers.",
+    "options": ["A) normalization", "B) sharding", "C) replication", "D) virtualization"],
+    "correct_answer": "B) sharding",
+    "explanation": "'Sharding' is a type of database partitioning that separates very large databases into smaller, faster, more easily managed parts called data shards, spread across multiple servers.",
+    "tags": ["database administration", "scaling", "C2 IT"]
+  },
+  {
+    "id": 586,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Negative Inversion",
+    "question_text": "Scarcely _________ the deployment script executed than the monitoring dashboard lit up with critical error alerts.",
+    "options": ["A) has", "B) had", "C) was", "D) did"],
+    "correct_answer": "B) had",
+    "explanation": "The structure 'Scarcely had + subject + past participle ... than ...' is a fixed C2-level inversion used to show that one event happened immediately after another in the past.",
+    "tags": ["inversion", "advanced grammar", "C2"]
+  },
+  {
+    "id": 587,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Mandative Subjunctive",
+    "question_text": "In light of the recent data breach, it is imperative that the database administrator _________ the encryption keys immediately.",
+    "options": ["A) rotates", "B) rotate", "C) will rotate", "D) is rotating"],
+    "correct_answer": "B) rotate",
+    "explanation": "After expressions of urgency or demand like 'it is imperative that', English uses the mandative subjunctive, which requires the base form of the verb ('rotate') regardless of the singular subject.",
+    "tags": ["subjunctive", "formal grammar", "C2"]
+  },
+  {
+    "id": 588,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Inverted Mixed Conditional",
+    "question_text": "_________ the sheer volume of the DDoS attack, the load balancers would have absorbed the traffic without triggering a total system outage.",
+    "options": ["A) If it weren't for", "B) Had it not been for", "C) Should it not be for", "D) Were it not for"],
+    "correct_answer": "B) Had it not been for",
+    "explanation": "This is an inverted third conditional referring to a past reality. 'Had it not been for' means 'If it had not been for', indicating that the volume *was* the reason for the outage.",
+    "tags": ["conditionals", "inversion", "C2 grammar"]
+  },
+  {
+    "id": 589,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Perfect Participle Clause (Passive)",
+    "question_text": "_________ for over a decade, the outdated protocol was finally deprecated in favor of a more robust, TLS 1.3 standard.",
+    "options": ["A) Having been utilized", "B) Utilizing", "C) To be utilized", "D) Being utilized"],
+    "correct_answer": "A) Having been utilized",
+    "explanation": "The perfect passive participle ('Having been utilized') is required here to show that the action (utilizing) happened over a period of time *before* the main past action (was deprecated).",
+    "tags": ["participle clauses", "advanced grammar", "C2"]
+  },
+  {
+    "id": 590,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Wh- Cleft Sentence",
+    "question_text": "_________ the network was ultimately compromised was not a sophisticated zero-day exploit, but rather a simple case of credential stuffing.",
+    "options": ["A) It was how", "B) What compromised", "C) How", "D) That which"],
+    "correct_answer": "B) What compromised",
+    "explanation": "This is a 'wh-' cleft sentence used for extreme emphasis. 'What compromised the network' acts as the subject of the sentence, placing the focus entirely on the cause.",
+    "tags": ["cleft sentences", "emphasis", "C2 grammar"]
+  },
+  {
+    "id": 591,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Subjunctive with 'Lest'",
+    "question_text": "The system architects implemented a robust failover mechanism, _________ the primary server collapse during peak traffic hours.",
+    "options": ["A) lest", "B) unless", "C) provided that", "D) in case of"],
+    "correct_answer": "A) lest",
+    "explanation": "'Lest' is a formal conjunction meaning 'for fear that' or 'to avoid the risk of'. It is followed by a clause (often with 'should' or the subjunctive) and is a hallmark of C2 formal writing.",
+    "tags": ["conjunctions", "formal grammar", "C2"]
+  },
+  {
+    "id": 592,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Advanced Correlative Conjunctions",
+    "question_text": "The new framework is _________ a marginal improvement over the old one; it is, arguably, a complete reimagining of how distributed systems should handle state.",
+    "options": ["A) neither", "B) not only", "C) far from being", "D) rather than"],
+    "correct_answer": "C) far from being",
+    "explanation": "The structure 'far from being X; it is Y' is used to strongly contrast a modest description with a much more significant reality. It emphasizes that it's not just a small improvement, but a massive overhaul.",
+    "tags": ["conjunctions", "emphasis", "C2 grammar"]
+  },
+  {
+    "id": 593,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Ellipsis and Substitution",
+    "question_text": "The newer distributed database is far more scalable than the legacy relational one, if not _________.",
+    "options": ["A) much more", "B) even more so", "C) the most", "D) so much"],
+    "correct_answer": "B) even more so",
+    "explanation": "In advanced English, 'if not more so' or 'if not even more so' is a fixed idiomatic ellipsis used to suggest that the second clause might be even truer or stronger than the first.",
+    "tags": ["ellipsis", "advanced cohesion", "C2"]
+  },
+  {
+    "id": 594,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Future Perfect Continuous in Context",
+    "question_text": "By the time the legacy migration is finally complete next year, the core engineering team _________ on the same monolithic codebase for over fifteen years.",
+    "options": ["A) will work", "B) will have been working", "C) will be working", "D) will have worked"],
+    "correct_answer": "B) will have been working",
+    "explanation": "The Future Perfect Continuous ('will have been working') is used to emphasize the duration of an ongoing action up to a specific point in the future ('By the time... next year').",
+    "tags": ["tenses", "advanced grammar", "C2"]
+  },
+  {
+    "id": 595,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Advanced Concession",
+    "question_text": "_________ the rigorous testing phases, the software still exhibited unexpected behavior when exposed to edge-case inputs in the production environment.",
+    "options": ["A) Albeit", "B) Notwithstanding", "C) Insofar as", "D) By virtue of"],
+    "correct_answer": "B) Notwithstanding",
+    "explanation": "'Notwithstanding' is a formal preposition meaning 'in spite of' or 'despite'. It correctly introduces the concessive noun phrase 'the rigorous testing phases'.",
+    "tags": ["concession", "formal grammar", "C2"]
+  },
+  {
+    "id": 596,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Negative Prepositional Inversion",
+    "question_text": "Under no circumstances _________ the private cryptographic key be stored in plain text on the client-side application.",
+    "options": ["A) should", "B) must", "C) could", "D) would"],
+    "correct_answer": "A) should",
+    "explanation": "'Under no circumstances' triggers inversion. 'Should' is the most appropriate modal verb here to express a strong rule or recommendation in formal technical documentation.",
+    "tags": ["inversion", "modals", "C2 grammar"]
+  },
+  {
+    "id": 597,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Nominalization",
+    "question_text": "The _________ of the new authentication protocol resulted in a marked decrease in unauthorized access attempts across the enterprise network.",
+    "options": ["A) implement", "B) implementation", "C) implementing", "D) implemented"],
+    "correct_answer": "B) implementation",
+    "explanation": "Nominalization (turning a verb into a noun) is a hallmark of C2 academic and formal writing. 'The implementation' acts as the formal subject of the sentence.",
+    "tags": ["academic writing", "word formation", "C2"]
+  },
+  {
+    "id": 598,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Advanced Modals of Deduction (Past)",
+    "question_text": "The database was completely wiped. The attackers _________ had insider access to bypass the external firewalls so seamlessly.",
+    "options": ["A) must have", "B) can't have", "C) should have", "D) would have"],
+    "correct_answer": "A) must have",
+    "explanation": "'Must have + past participle' is used to express a strong logical deduction or near certainty about a past event based on present evidence.",
+    "tags": ["modals of deduction", "past modals", "C2 grammar"]
+  },
+  {
+    "id": 599,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Inversion",
+    "question_text": "Not only _________ the software launch delayed, but it also exceeded the initial budget by 30%.",
+    "options": ["A) the software launch was", "B) was the software launch", "C) the software launch is", "D) is the software launch"],
+    "correct_answer": "B) was the software launch",
+    "explanation": "When a sentence begins with a negative adverbial like 'Not only', it requires subject-auxiliary inversion. Since the context is past tense ('exceeded'), we use 'was + subject'.",
+    "tags": ["inversion", "advanced grammar", "C2"]
+  },
+  {
+    "id": 600,
+    "category": "Grammar",
+    "cefr_level": "C2",
+    "question_type": "Subjunctive Mood",
+    "question_text": "The chief information officer insisted that the external audit _________ conducted by an independent third party to ensure absolute impartiality.",
+    "options": ["A) is", "B) was", "C) be", "D) will be"],
+    "correct_answer": "C) be",
+    "explanation": "After verbs of insistence, demand, or recommendation (like 'insisted that'), English uses the subjunctive mood, which requires the base form of the verb ('be') regardless of the subject.",
+    "tags": ["subjunctive", "advanced grammar", "C2"]
+  },
+  {
+    "id": 601,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Advanced Adjectives",
+    "question_text": "The legacy systems committee remained _________ in their refusal to adopt the new microservices architecture, citing insurmountable migration costs and operational risks.",
+    "options": ["A) ephemeral", "B) intransigent", "C) ubiquitous", "D) malleable"],
+    "correct_answer": "B) intransigent",
+    "explanation": "'Intransigent' means unwilling or refusing to change one's views or to agree about something, perfectly describing a stubborn committee.",
+    "tags": ["advanced vocabulary", "business/IT context", "C2"]
+  },
+  {
+    "id": 602,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Nuanced Adjectives",
+    "question_text": "Containerized environments like Docker are inherently _________; they are spun up for a specific task and destroyed immediately afterward, leaving no persistent state.",
+    "options": ["A) anachronistic", "B) ephemeral", "C) monolithic", "D) pernicious"],
+    "correct_answer": "B) ephemeral",
+    "explanation": "'Ephemeral' means lasting for a very short time. In cloud-native architecture, containers are often described as ephemeral because they are temporary and stateless.",
+    "tags": ["cloud computing", "advanced vocabulary", "C2"]
+  },
+  {
+    "id": 603,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Advanced Adjectives",
+    "question_text": "The discovery of the critical security vulnerability was entirely _________; the team was actually searching for a performance bottleneck when they stumbled upon the exposed API keys.",
+    "options": ["A) serendipitous", "B) fortuitous", "C) catastrophic", "D) methodical"],
+    "correct_answer": "A) serendipitous",
+    "explanation": "'Serendipitous' refers to the occurrence of events by chance in a happy or beneficial way. Finding a security flaw while looking for something else is a classic example of serendipity.",
+    "tags": ["software development", "C2 vocabulary", "IT"]
+  },
+  {
+    "id": 604,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Advanced Character/Behavior Adjectives",
+    "question_text": "The AI model's _________ responses, which constantly agreed with the user's flawed premises without offering any critical correction, raised serious concerns about its utility in academic research.",
+    "options": ["A) sycophantic", "B) idiosyncratic", "C) didactic", "D) laconic"],
+    "correct_answer": "A) sycophantic",
+    "explanation": "'Sycophantic' means behaving or done in an obsequious way in order to gain advantage (flattering, agreeing blindly). This perfectly describes an AI that just agrees with the user.",
+    "tags": ["AI ethics", "advanced vocabulary", "C2"]
+  },
+  {
+    "id": 605,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Nuanced Nouns",
+    "question_text": "The user interface was a _________ of conflicting design patterns, leaving users confused about whether to swipe, click, or hover to complete the action.",
+    "options": ["A) panacea", "B) cacophony", "C) paradigm", "D) monolith"],
+    "correct_answer": "B) cacophony",
+    "explanation": "While 'cacophony' literally means a harsh mixture of sounds, it is frequently used metaphorically in C2 English to describe a confusing, discordant mixture of visual or conceptual elements (like bad UX design).",
+    "tags": ["UX design", "metaphorical vocabulary", "C2"]
+  },
+  {
+    "id": 606,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Advanced Collocations",
+    "question_text": "The transition from on-premise servers to serverless computing represents a fundamental _________ in how developers conceptualize resource allocation and scaling.",
+    "options": ["A) paradigm", "B) pantheon", "C) paragon", "D) paradox"],
+    "correct_answer": "A) paradigm",
+    "explanation": "A 'paradigm shift' or a 'fundamental paradigm' refers to a fundamental change in approach or underlying assumptions. It is the exact academic term for this type of technological evolution.",
+    "tags": ["cloud computing", "academic collocations", "C2"]
+  },
+  {
+    "id": 607,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Advanced Adjectives",
+    "question_text": "With the advent of IoT and smart sensors, computing has become _________; it is no longer confined to desktops and phones but is embedded in the very fabric of our physical environment.",
+    "options": ["A) ubiquitous", "B) esoteric", "C) clandestine", "D) ephemeral"],
+    "correct_answer": "A) ubiquitous",
+    "explanation": "'Ubiquitous' means present, appearing, or found everywhere. This is the exact term used in academia to describe the current era of pervasive computing.",
+    "tags": ["IoT", "advanced vocabulary", "C2"]
+  },
+  {
+    "id": 608,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Nuanced Adjectives",
+    "question_text": "Haskell is a purely functional programming language that, while incredibly powerful for academic research and compiler design, remains somewhat _________ in the broader commercial web development industry.",
+    "options": ["A) ubiquitous", "B) esoteric", "C) pragmatic", "D) mundane"],
+    "correct_answer": "B) esoteric",
+    "explanation": "'Esoteric' means intended for or likely to be understood by only a small number of people with specialized knowledge. It perfectly describes a niche, complex programming language.",
+    "tags": ["programming languages", "advanced vocabulary", "C2"]
+  },
+  {
+    "id": 609,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Nuanced Adjectives",
+    "question_text": "The malware was highly _________; it lay dormant in the system's registry for months, slowly exfiltrating sensitive data without triggering any traditional antivirus alarms.",
+    "options": ["A) pernicious", "B) ephemeral", "C) benign", "D) ostentatious"],
+    "correct_answer": "A) pernicious",
+    "explanation": "'Pernicious' means having a harmful effect, especially in a gradual, subtle, or insidious way. This perfectly describes dormant, stealthy malware.",
+    "tags": ["cybersecurity", "advanced vocabulary", "C2"]
+  },
+  {
+    "id": 610,
+    "category": "Vocabulary",
+    "cefr_level": "C2",
+    "question_type": "Nuanced Adjectives",
+    "question_text": "Attempting to run a modern, cloud-native microservices architecture on a mainframe from the 1980s is a completely _________ endeavor.",
+    "options": ["A) serendipitous", "B) anachronistic", "C) ubiquitous", "D) pragmatic"],
+    "correct_answer": "B) anachronistic",
+    "explanation": "'Anachronistic' means belonging to a period other than the one being portrayed; out of time. Using 1980s tech for modern cloud architecture is completely out of its proper time.",
+    "tags": ["IT infrastructure", "advanced vocabulary", "C2"]
+  },
+  {
+    "id": 611,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Rhetorical Purpose",
+    "question_text": "In a post-mortem analysis, the lead engineer writes: 'To attribute the system failure solely to the unexpected traffic spike is to ignore the glaring architectural debt accumulated over three years of rapid, unrefactored feature bloat.' What is the primary purpose of this statement?",
+    "options": [
+      "A) To apologize to the stakeholders for the downtime.",
+      "B) To shift the blame entirely onto the marketing team.",
+      "C) To emphasize that the root cause is systemic and historical, not merely circumstantial.",
+      "D) To propose an immediate solution to handle traffic spikes."
+    ],
+    "correct_answer": "C) To emphasize that the root cause is systemic and historical, not merely circumstantial.",
+    "explanation": "The engineer uses the rhetorical device of negation to argue that the real problem is long-term 'architectural debt', not just the immediate trigger (traffic spike).",
+    "tags": ["technical writing", "rhetorical purpose", "C2"]
+  },
+  {
+    "id": 612,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Implicit Meaning",
+    "question_text": "Read the sentence: 'The tech giant's assertion that their new algorithm is 'entirely unbiased' is, at best, a profound misunderstanding of how machine learning models inherit the prejudices of their training data.' The author implies that:",
+    "options": [
+      "A) The algorithm is genuinely unbiased due to rigorous testing.",
+      "B) The tech giant is deliberately lying about the algorithm's capabilities.",
+      "C) True objectivity in AI is impossible because human data is inherently flawed.",
+      "D) Machine learning models should be trained on smaller datasets."
+    ],
+    "correct_answer": "C) True objectivity in AI is impossible because human data is inherently flawed.",
+    "explanation": "The phrase 'inherit the prejudices of their training data' implies that since the data is created by humans (who have prejudices), the AI cannot be 'entirely unbiased'.",
+    "tags": ["AI ethics", "implicit meaning", "C2"]
+  },
+  {
+    "id": 613,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Cohesion and Reference",
+    "question_text": "Read the text: 'Quantum cryptography leverages the principles of quantum mechanics to guarantee secure communication. Unlike classical encryption, which relies on computational hardness, its security is rooted in the laws of physics, rendering it theoretically impervious to brute-force attacks.' What does 'its' refer to?",
+    "options": ["A) Classical encryption", "B) Quantum cryptography", "C) Secure communication", "D) Brute-force attacks"],
+    "correct_answer": "B) Quantum cryptography",
+    "explanation": "The pronoun 'its' refers to the subject of the immediate context which possesses the security rooted in physics, which is 'Quantum cryptography'.",
+    "tags": ["reading comprehension", "reference", "C2"]
+  },
+  {
+    "id": 614,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Author's Attitude",
+    "question_text": "Read the excerpt: 'Blockchain enthusiasts frequently deploy the term 'trustless' to describe decentralized networks. Yet, one must ask: trustless for whom, and at what cognitive and financial cost to the end-user?' The author's attitude towards the term 'trustless' is:",
+    "options": [
+      "A) Enthusiastic and accepting.",
+      "B) Dismissive and entirely hostile.",
+      "C) Critical and questioning of its underlying assumptions.",
+      "D) Confused and seeking clarification."
+    ],
+    "correct_answer": "C) Critical and questioning of its underlying assumptions.",
+    "explanation": "By asking 'trustless for whom, and at what cost?', the author is critically deconstructing the marketing buzzword, showing a skeptical and analytical attitude.",
+    "tags": ["blockchain", "tone analysis", "C2"]
+  },
+  {
+    "id": 615,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Inference",
+    "question_text": "Read the text: 'The organization's relentless pursuit of rapid feature deployment has engendered a colossal technical debt. Consequently, the engineering team now spends 70% of their sprint cycles merely patching regressions rather than innovating.' What can be inferred about the organization's current state?",
+    "options": [
+      "A) They have achieved a perfect balance between innovation and maintenance.",
+      "B) Their short-term speed has severely crippled their long-term agility.",
+      "C) They have successfully eliminated all bugs from their codebase.",
+      "D) The engineering team is highly focused on developing new features."
+    ],
+    "correct_answer": "B) Their short-term speed has severely crippled their long-term agility.",
+    "explanation": "The text contrasts 'relentless pursuit of rapid deployment' (short-term speed) with 'colossal technical debt' and 'patching regressions' (crippled agility/innovation).",
+    "tags": ["software engineering", "inference", "C2"]
+  },
+  {
+    "id": 616,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Rhetorical Structure",
+    "question_text": "How does the author build their argument in the following text? 'We are told that AI will liberate us from mundane tasks. Yet, we must ask ourselves: who defines what is mundane? And in our pursuit of efficiency, are we not at risk of stripping the very cognitive friction that leads to profound human breakthroughs?'",
+    "options": [
+      "A) By providing extensive statistical data on AI productivity.",
+      "B) By using a series of rhetorical questions to challenge the underlying premise of the opposition.",
+      "C) By recounting a personal anecdote about workplace automation.",
+      "D) By comparing AI to historical industrial revolutions."
+    ],
+    "correct_answer": "B) By using a series of rhetorical questions to challenge the underlying premise of the opposition.",
+    "explanation": "The author uses 'Yet, we must ask ourselves: who defines...?' and 'are we not at risk...?' to deconstruct the assumption that automating 'mundane' tasks is inherently good.",
+    "tags": ["AI philosophy", "rhetorical structure", "C2"]
+  },
+  {
+    "id": 617,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Vocabulary in Context",
+    "question_text": "Read the sentence: 'The CEO's flagrant disregard for the open-source community's licensing agreements not only resulted in a massive legal battle but also irreparably tarnished the company's reputation.' What does 'flagrant' mean here?",
+    "options": [
+      "A) Subtle and carefully hidden.",
+      "B) Conspicuously or obviously offensive and blatant.",
+      "C) Accidental and unintentional.",
+      "D) Legally sound and justifiable."
+    ],
+    "correct_answer": "B) Conspicuously or obviously offensive and blatant.",
+    "explanation": "'Flagrant' means conspicuously or obviously offensive (e.g., a flagrant violation of the rules). It implies the CEO's actions were bold and unashamed.",
+    "tags": ["business ethics", "vocabulary in context", "C2"]
+  },
+  {
+    "id": 618,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Sociological Inference",
+    "question_text": "Read the text: 'The algorithmic curation of news feeds has inadvertently created echo chambers, wherein individuals are only exposed to information that reinforces their pre-existing beliefs, effectively atrophying their capacity for critical discourse.' What is the broader sociological implication mentioned?",
+    "options": [
+      "A) People are reading more news than ever before.",
+      "B) Algorithms are making people smarter and more critical.",
+      "C) Personalized content is degrading society's ability to engage in balanced, critical debate.",
+      "D) Echo chambers are necessary for a healthy democracy."
+    ],
+    "correct_answer": "C) Personalized content is degrading society's ability to engage in balanced, critical debate.",
+    "explanation": "The phrase 'atrophying their capacity for critical discourse' directly implies that the ability to engage in balanced, critical debate is wasting away or degrading.",
+    "tags": ["social impact of tech", "inference", "C2"]
+  },
+  {
+    "id": 619,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Tone Analysis",
+    "question_text": "Read the excerpt: 'Oh, brilliant. Another 'revolutionary' social media app that promises to connect us all, yet somehow requires access to my entire contact list, location history, and biometric data just to let me post a text update.' The tone is best described as:",
+    "options": [
+      "A) Genuinely enthusiastic.",
+      "B) Deeply sarcastic and critical.",
+      "C) Objectively analytical.",
+      "D) Fearful and anxious."
+    ],
+    "correct_answer": "B) Deeply sarcastic and critical.",
+    "explanation": "The use of 'Oh, brilliant' followed by a description of invasive data collection is a clear example of sarcasm, indicating the author is highly critical of the app's privacy practices.",
+    "tags": ["privacy", "tone analysis", "C2"]
+  },
+  {
+    "id": 620,
+    "category": "Reading Comprehension",
+    "cefr_level": "C2",
+    "question_type": "Author's Purpose",
+    "question_text": "Read the excerpt: 'It should be acknowledged, however, that the sample size of this study is relatively small, which may limit the generalizability of the findings.' Why does the author include this?",
+    "options": [
+      "A) To discredit the entire research project.",
+      "B) To highlight a limitation and demonstrate academic integrity.",
+      "C) To suggest that further funding is required.",
+      "D) To criticize the methodology of previous studies."
+    ],
+    "correct_answer": "B) To highlight a limitation and demonstrate academic integrity.",
+    "explanation": "Acknowledging limitations (like a small sample size) is a standard academic practice that shows objectivity and intellectual honesty.",
+    "tags": ["academic English", "author's purpose", "C2"]
+  }
+]

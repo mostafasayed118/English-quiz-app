@@ -1,0 +1,322 @@
+[
+  {
+    "id": 41,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Vocabulary in Context",
+    "question_text": "The transition from a monolithic architecture to microservices allowed the team to ________ individual components without causing system-wide downtime.",
+    "options": [
+      "A) decommission",
+      "B) deploy",
+      "C) obfuscate",
+      "D) consolidate"
+    ],
+    "correct_answer": "B) deploy",
+    "explanation": "In software engineering, to 'deploy' means to install or release a software component into an environment where it can be executed. The other options do not fit the context of releasing components independently.",
+    "tags": ["software engineering", "microservices", "C1 vocabulary"]
+  },
+  {
+    "id": 42,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Inversion / Conditionals",
+    "question_text": "________ the financial implications, the board would have approved the merger without hesitation.",
+    "options": [
+      "A) Had they known",
+      "B) If they know",
+      "C) Should they know",
+      "D) Were they knowing"
+    ],
+    "correct_answer": "A) Had they known",
+    "explanation": "This is a Third Conditional sentence using inversion. 'Had they known' is the inverted form of 'If they had known', used to express an unreal past condition.",
+    "tags": ["conditionals", "inversion", "B2 grammar"]
+  },
+  {
+    "id": 43,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Word Choice (Legal/Business)",
+    "question_text": "The contract contained several ________ clauses that could be interpreted in multiple ways, leading to potential disputes.",
+    "options": [
+      "A) redundant",
+      "B) ambiguous",
+      "C) explicit",
+      "D) binding"
+    ],
+    "correct_answer": "B) ambiguous",
+    "explanation": "'Ambiguous' means open to more than one interpretation. Clauses that can be interpreted in multiple ways are ambiguous, which often leads to legal disputes.",
+    "tags": ["business English", "legal vocabulary", "C1"]
+  },
+  {
+    "id": 44,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Cybersecurity Concepts",
+    "question_text": "To prevent unauthorized access to sensitive data, the system administrator implemented a ________ authentication protocol requiring both a password and a biometric scan.",
+    "options": [
+      "A) single-factor",
+      "B) multi-factor",
+      "C) legacy",
+      "D) deprecated"
+    ],
+    "correct_answer": "B) multi-factor",
+    "explanation": "'Multi-factor authentication' (MFA) requires two or more verification factors (like a password and a biometric scan) to gain access, significantly enhancing security.",
+    "tags": ["cybersecurity", "authentication", "IT basics"]
+  },
+  {
+    "id": 45,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Inference",
+    "question_text": "Read the sentence: 'While the new environmental policy aims to reduce carbon emissions, critics argue that it places a disproportionate burden on small businesses without offering adequate subsidies.' What can be inferred about the critics' view?",
+    "options": [
+      "A) They believe the policy is environmentally ineffective.",
+      "B) They think the policy is economically unfair to smaller entities.",
+      "C) They support the policy but want more time for implementation.",
+      "D) They believe large corporations should be exempt from the policy."
+    ],
+    "correct_answer": "B) They think the policy is economically unfair to smaller entities.",
+    "explanation": "The phrase 'disproportionate burden on small businesses without offering adequate subsidies' directly implies that the critics view the economic impact on these smaller entities as unfair.",
+    "tags": ["reading comprehension", "inference", "B2"]
+  },
+  {
+    "id": 46,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Subjunctive Mood",
+    "question_text": "The executive committee strongly recommended that the expansion project ________ until further funding is secured.",
+    "options": [
+      "A) is postponed",
+      "B) be postponed",
+      "C) will be postponed",
+      "D) was postponed"
+    ],
+    "correct_answer": "B) be postponed",
+    "explanation": "After verbs of recommendation, suggestion, or demand (like 'recommended'), English uses the subjunctive mood, which requires the base form of the verb ('be') regardless of the subject.",
+    "tags": ["subjunctive", "advanced grammar", "C1"]
+  },
+  {
+    "id": 47,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Networking Fundamentals",
+    "question_text": "The ________ protocol is primarily responsible for routing packets of data across different networks to ensure they reach their final destination.",
+    "options": [
+      "A) TCP",
+      "B) IP",
+      "C) HTTP",
+      "D) FTP"
+    ],
+    "correct_answer": "B) IP",
+    "explanation": "IP (Internet Protocol) is responsible for addressing and routing packets of data so they can travel across networks and arrive at the correct destination.",
+    "tags": ["networking", "protocols", "B1 IT"]
+  },
+  {
+    "id": 48,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Collocations",
+    "question_text": "After years of rigorous testing, the research team was finally able to ________ a major breakthrough in renewable energy storage.",
+    "options": [
+      "A) make",
+      "B) do",
+      "C) take",
+      "D) put"
+    ],
+    "correct_answer": "A) make",
+    "explanation": "The correct collocation in English is to 'make a breakthrough'. We do not use 'do', 'take', or 'put' with 'breakthrough'.",
+    "tags": ["collocations", "academic English", "B2"]
+  },
+  {
+    "id": 49,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Tone and Attitude",
+    "question_text": "Read the excerpt: 'The author's portrayal of the historical event is, to say the least, highly selective, conveniently omitting any evidence that contradicts his central thesis.' The tone of this sentence is:",
+    "options": [
+      "A) Objective",
+      "B) Critical",
+      "C) Nostalgic",
+      "D) Indifferent"
+    ],
+    "correct_answer": "B) Critical",
+    "explanation": "Phrases like 'to say the least', 'highly selective', and 'conveniently omitting' indicate a skeptical and critical tone towards the author's methodology and bias.",
+    "tags": ["tone analysis", "critical thinking", "C1 reading"]
+  },
+  {
+    "id": 50,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Agile Methodology",
+    "question_text": "In Agile software development, a ________ is a time-boxed period, usually lasting one to four weeks, during which a specific set of work is completed and made ready for review.",
+    "options": [
+      "A) milestone",
+      "B) sprint",
+      "C) backlog",
+      "D) stand-up"
+    ],
+    "correct_answer": "B) sprint",
+    "explanation": "In Scrum and Agile frameworks, a 'sprint' is a set period of time during which specific work must be completed and made ready for review.",
+    "tags": ["Agile", "project management", "IT terminology"]
+  },
+  {
+    "id": 51,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Relative Clauses",
+    "question_text": "The new enterprise software, ________ was released last week, has already received numerous patches to fix initial security vulnerabilities.",
+    "options": [
+      "A) that",
+      "B) which",
+      "C) what",
+      "D) it"
+    ],
+    "correct_answer": "B) which",
+    "explanation": "This is a non-defining relative clause (indicated by the commas). In non-defining clauses, we use 'which' for things, not 'that'.",
+    "tags": ["relative clauses", "punctuation", "B2 grammar"]
+  },
+  {
+    "id": 52,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Advanced Adjectives",
+    "question_text": "Despite the ________ nature of the mountain expedition, the team managed to reach the summit ahead of schedule.",
+    "options": [
+      "A) trivial",
+      "B) arduous",
+      "C) mundane",
+      "D) elementary"
+    ],
+    "correct_answer": "B) arduous",
+    "explanation": "'Arduous' means involving or requiring strenuous effort; difficult and tiring. This fits the context of a challenging mountain expedition.",
+    "tags": ["advanced vocabulary", "descriptive adjectives", "C1"]
+  },
+  {
+    "id": 53,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Database Management",
+    "question_text": "A ________ key is a database field that uniquely identifies each record within a table and cannot contain NULL values.",
+    "options": [
+      "A) foreign",
+      "B) primary",
+      "C) secondary",
+      "D) composite"
+    ],
+    "correct_answer": "B) primary",
+    "explanation": "A 'primary key' is a specific choice of a minimal set of attributes (columns) that uniquely specify a tuple (row) in a relation (table).",
+    "tags": ["databases", "SQL", "IT fundamentals"]
+  },
+  {
+    "id": 54,
+    "category": "Reading Comprehension",
+    "cefr_level": "B1",
+    "question_type": "Main Idea",
+    "question_text": "Read the text: 'Remote work offers flexibility and eliminates commuting time, but it can also lead to feelings of isolation and blur the boundaries between personal and professional life.' What is the main idea?",
+    "options": [
+      "A) Remote work is entirely beneficial for employees.",
+      "B) Remote work has both positive and negative aspects.",
+      "C) Commuting is the worst part of traditional office jobs.",
+      "D) Isolation is the only drawback of working from home."
+    ],
+    "correct_answer": "B) Remote work has both positive and negative aspects.",
+    "explanation": "The text explicitly mentions advantages ('flexibility', 'eliminates commuting') and disadvantages ('isolation', 'blur boundaries'), presenting a balanced view.",
+    "tags": ["reading comprehension", "main idea", "B1"]
+  },
+  {
+    "id": 55,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Participle Clauses",
+    "question_text": "________ by the sudden loud noise, the cat darted under the sofa and refused to come out.",
+    "options": [
+      "A) Startling",
+      "B) Startled",
+      "C) To startle",
+      "D) Having startling"
+    ],
+    "correct_answer": "B) Startled",
+    "explanation": "This is a past participle clause used to show a passive meaning or a feeling/reaction. The cat was startled (it felt the shock), so we use the past participle 'Startled'.",
+    "tags": ["participle clauses", "advanced grammar", "C1"]
+  },
+  {
+    "id": 56,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Phrasal Verbs",
+    "question_text": "The crucial board meeting was ________ until next Monday because the CEO was unexpectedly unavailable.",
+    "options": [
+      "A) called off",
+      "B) put off",
+      "C) brought up",
+      "D) looked into"
+    ],
+    "correct_answer": "B) put off",
+    "explanation": "'Put off' means to postpone or delay an event to a later time. 'Called off' means to cancel completely, which contradicts 'until next Monday'.",
+    "tags": ["phrasal verbs", "business English", "B2"]
+  },
+  {
+    "id": 57,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "DevOps Terminology",
+    "question_text": "The practice of automating the integration of code changes from multiple contributors into a single software project is commonly referred to as ________.",
+    "options": [
+      "A) Continuous Integration",
+      "B) Version Control",
+      "C) Code Obfuscation",
+      "D) Load Balancing"
+    ],
+    "correct_answer": "A) Continuous Integration",
+    "explanation": "Continuous Integration (CI) is a DevOps software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests run.",
+    "tags": ["DevOps", "software development", "C1 IT"]
+  },
+  {
+    "id": 58,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Vocabulary in Context",
+    "question_text": "Read the sentence: 'The politician's speech was full of *platitudes*, offering no concrete solutions to the pressing economic crisis.' What does the word 'platitudes' mean in this context?",
+    "options": [
+      "A) Deep philosophical insights",
+      "B) Moral or ethical dilemmas",
+      "C) Superficial or hackneyed statements",
+      "D) Statistical data and charts"
+    ],
+    "correct_answer": "C) Superficial or hackneyed statements",
+    "explanation": "A 'platitude' is a remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful (a cliché or superficial statement).",
+    "tags": ["vocabulary in context", "advanced reading", "C1"]
+  },
+  {
+    "id": 59,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Past Perfect Tense",
+    "question_text": "By the time we finally arrived at the cinema, the movie ________.",
+    "options": [
+      "A) already started",
+      "B) has already started",
+      "C) had already started",
+      "D) was already starting"
+    ],
+    "correct_answer": "C) had already started",
+    "explanation": "The Past Perfect tense ('had started') is used to describe an action that was completed before another action or time in the past ('arrived').",
+    "tags": ["past perfect", "tenses", "B1 grammar"]
+  },
+  {
+    "id": 60,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Hardware Architecture",
+    "question_text": "________ memory is a type of volatile hardware memory that temporarily stores the operating system, applications, and data for quick access by the CPU.",
+    "options": [
+      "A) ROM",
+      "B) RAM",
+      "C) SSD",
+      "D) HDD"
+    ],
+    "correct_answer": "B) RAM",
+    "explanation": "RAM (Random Access Memory) is volatile memory used to store data that is currently or recently being processed by the CPU. It loses its data when power is turned off.",
+    "tags": ["hardware", "computer architecture", "B2 IT"]
+  }
+]

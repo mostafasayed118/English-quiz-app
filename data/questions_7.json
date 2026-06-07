@@ -1,0 +1,597 @@
+[
+  {
+    "id": 121,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Cybersecurity Vocabulary",
+    "question_text": "The company's network was compromised because an employee fell victim to a _________ attack, inadvertently clicking on a malicious link in a deceptive email.",
+    "options": ["A) phishing", "B) routing", "C) spoofing", "D) scripting"],
+    "correct_answer": "A) phishing",
+    "explanation": "'Phishing' is a cyber attack where attackers send fraudulent messages (like emails) designed to trick a person into revealing sensitive information or clicking a malicious link.",
+    "tags": ["cybersecurity", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 122,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Mixed Conditional",
+    "question_text": "If the development team _________ the server update last night, the system _________ right now.",
+    "options": ["A) had applied / wouldn't be crashing", "B) applied / wouldn't crash", "C) has applied / isn't crashing", "D) would apply / hadn't crashed"],
+    "correct_answer": "A) had applied / wouldn't be crashing",
+    "explanation": "This is a mixed conditional. The 'if' clause refers to a past unreal situation (Past Perfect: had applied), and the main clause refers to the present result (would + base verb: wouldn't be crashing).",
+    "tags": ["mixed conditionals", "advanced grammar", "B2"]
+  },
+  {
+    "id": 123,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Advanced Adjectives",
+    "question_text": "The new user interface is highly _________; it allows users to navigate through complex menus without any prior training.",
+    "options": ["A) intuitive", "B) ambiguous", "C) redundant", "D) obsolete"],
+    "correct_answer": "A) intuitive",
+    "explanation": "'Intuitive' means easy to use and understand without needing explicit instructions, which perfectly describes a good user interface.",
+    "tags": ["UI/UX", "adjectives", "B2 vocabulary"]
+  },
+  {
+    "id": 124,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Inference",
+    "question_text": "Read the sentence: 'While the proposed algorithm significantly reduces processing time, its heavy reliance on outdated hardware poses a severe bottleneck.' What can be inferred about the algorithm?",
+    "options": [
+      "A) It is completely useless in modern environments.",
+      "B) Its efficiency is limited by the physical equipment it runs on.",
+      "C) It requires more time to process data than previous versions.",
+      "D) It was designed specifically for outdated hardware."
+    ],
+    "correct_answer": "B) Its efficiency is limited by the physical equipment it runs on.",
+    "explanation": "The phrase 'heavy reliance on outdated hardware poses a severe bottleneck' implies that the algorithm's speed (processing time) is restricted by the old physical equipment.",
+    "tags": ["reading comprehension", "inference", "IT context", "B2"]
+  },
+  {
+    "id": 125,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Modals of Deduction (Past)",
+    "question_text": "The database was deleted at 3 AM, but John was logged out at 2 AM. He _________ have deleted it.",
+    "options": ["A) mustn't", "B) shouldn't", "C) can't", "D) might not"],
+    "correct_answer": "C) can't",
+    "explanation": "We use 'can't have + past participle' to express a strong deduction that something was impossible in the past. Since he was logged out, it's impossible that he deleted it.",
+    "tags": ["modals of deduction", "past modals", "B2 grammar"]
+  },
+  {
+    "id": 126,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Software Development",
+    "question_text": "Before deploying the application to the production environment, the QA team must ensure that all critical bugs have been _________ and resolved.",
+    "options": ["A) compiled", "B) identified", "C) encrypted", "D) migrated"],
+    "correct_answer": "B) identified",
+    "explanation": "In software testing, bugs must first be 'identified' (found/discovered) before they can be resolved and fixed.",
+    "tags": ["software testing", "QA", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 127,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Phrasal Verbs",
+    "question_text": "During the meeting, the project manager decided to _________ the issue of budget cuts, as it was affecting the team's morale.",
+    "options": ["A) bring up", "B) put off", "C) look into", "D) get away with"],
+    "correct_answer": "A) bring up",
+    "explanation": "To 'bring up' a topic means to mention it or introduce it into a conversation or meeting.",
+    "tags": ["phrasal verbs", "business meetings", "B2 vocabulary"]
+  },
+  {
+    "id": 128,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Future Perfect",
+    "question_text": "By the end of this quarter, the engineering team _________ the migration of all legacy systems to the cloud.",
+    "options": ["A) will finish", "B) will be finishing", "C) will have finished", "D) are going to finish"],
+    "correct_answer": "C) will have finished",
+    "explanation": "The Future Perfect tense ('will have + past participle') is used to describe an action that will be completed before a specific point in the future ('By the end of this quarter').",
+    "tags": ["future perfect", "tenses", "B2 grammar"]
+  },
+  {
+    "id": 129,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Networking",
+    "question_text": "To prevent unauthorized access to the internal network, the administrator configured the firewall to _________ all incoming traffic from suspicious IP addresses.",
+    "options": ["A) broadcast", "B) block", "C) route", "D) ping"],
+    "correct_answer": "B) block",
+    "explanation": "Firewalls are used to 'block' (stop/prevent) unauthorized or suspicious network traffic from entering a secure system.",
+    "tags": ["networking", "firewalls", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 130,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Tone and Attitude",
+    "question_text": "Read the excerpt: 'The tech giant claims its new AI model is 'revolutionary,' yet independent tests reveal it merely regurgitates existing data with a slightly faster processing speed.' The author's tone is:",
+    "options": ["A) Enthusiastic", "B) Objective", "C) Skeptical", "D) Indifferent"],
+    "correct_answer": "C) Skeptical",
+    "explanation": "Words like 'claims', 'yet', and 'merely regurgitates' show that the author doubts the company's marketing claims and is skeptical of the AI's true capabilities.",
+    "tags": ["tone analysis", "critical thinking", "B2 reading"]
+  },
+  {
+    "id": 131,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Participle Clauses",
+    "question_text": "_________ the security patch, the system remained vulnerable to the latest malware attack.",
+    "options": ["A) Installing", "B) Having not installed", "C) Not having installed", "D) To install"],
+    "correct_answer": "C) Not having installed",
+    "explanation": "This is a perfect participle clause used to show that one action happened (or didn't happen) before another in the past. The negative form is 'Not having + past participle'.",
+    "tags": ["participle clauses", "advanced grammar", "B2"]
+  },
+  {
+    "id": 132,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Confusing Words",
+    "question_text": "The new data privacy regulations will have a significant _________ on how we collect and store user information.",
+    "options": ["A) affect", "B) effect", "C) effort", "D) afford"],
+    "correct_answer": "B) effect",
+    "explanation": "'Effect' is a noun meaning a result or consequence. 'Affect' is usually a verb. The sentence requires a noun after the adjective 'significant'.",
+    "tags": ["confusing words", "effect vs affect", "B2 vocabulary"]
+  },
+  {
+    "id": 133,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Database Management",
+    "question_text": "The database administrator wrote a complex SQL query to _________ the customer records from the last five years based on their purchase history.",
+    "options": ["A) encrypt", "B) aggregate", "C) delete", "D) compile"],
+    "correct_answer": "B) aggregate",
+    "explanation": "In databases, to 'aggregate' means to combine or gather data (like records) into a summary or compound form, often using functions like SUM or COUNT.",
+    "tags": ["SQL", "databases", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 134,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Inversion",
+    "question_text": "Not only _________ the software launch delayed, but it also exceeded the initial budget by 30%.",
+    "options": ["A) the software launch was", "B) was the software launch", "C) the software launch is", "D) is the software launch"],
+    "correct_answer": "B) was the software launch",
+    "explanation": "When a sentence begins with a negative adverbial like 'Not only', it requires subject-auxiliary inversion. Since the context is past tense ('exceeded'), we use 'was + subject'.",
+    "tags": ["inversion", "advanced grammar", "B2"]
+  },
+  {
+    "id": 135,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Vocabulary in Context",
+    "question_text": "Read the sentence: 'The legacy system is highly *fragile*; any minor modification to the codebase often leads to unexpected system crashes.' What does 'fragile' mean here?",
+    "options": [
+      "A) Easy to break or damage.",
+      "B) Very fast and efficient.",
+      "C) Highly secure and stable.",
+      "D) Difficult to understand."
+    ],
+    "correct_answer": "A) Easy to break or damage.",
+    "explanation": "In a software context, a 'fragile' system is one that is unstable and prone to breaking or crashing when changes are made.",
+    "tags": ["vocabulary in context", "software engineering", "B2"]
+  },
+  {
+    "id": 136,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Gerunds vs. Infinitives",
+    "question_text": "The IT director suggested _________ the old servers, but the financial team refused _________ the necessary budget.",
+    "options": ["A) to replace / to approve", "B) replacing / approving", "C) replacing / to approve", "D) to replace / approving"],
+    "correct_answer": "C) replacing / to approve",
+    "explanation": "The verb 'suggest' is followed by a gerund (-ing). The verb 'refuse' is followed by an infinitive (to + base verb).",
+    "tags": ["gerunds and infinitives", "verb patterns", "B2 grammar"]
+  },
+  {
+    "id": 137,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Business Collocations",
+    "question_text": "After months of negotiation, the two tech startups finally decided to _________ a merger to dominate the market.",
+    "options": ["A) make", "B) do", "C) undergo", "D) put"],
+    "correct_answer": "C) undergo",
+    "explanation": "In business English, companies 'undergo' (experience/go through) a merger, acquisition, or restructuring.",
+    "tags": ["business collocations", "mergers", "B2 vocabulary"]
+  },
+  {
+    "id": 138,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Cloud Computing",
+    "question_text": "By utilizing _________ computing, the startup can scale its server capacity up or down automatically based on real-time user traffic.",
+    "options": ["A) peer-to-peer", "B) cloud", "C) edge", "D) quantum"],
+    "correct_answer": "B) cloud",
+    "explanation": "'Cloud computing' provides on-demand availability of computer system resources, especially data storage and computing power, allowing for automatic scaling.",
+    "tags": ["cloud computing", "scalability", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 139,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Relative Clauses",
+    "question_text": "The new cybersecurity framework, _________ was published last month, provides strict guidelines for handling sensitive user data.",
+    "options": ["A) that", "B) which", "C) what", "D) whose"],
+    "correct_answer": "B) which",
+    "explanation": "This is a non-defining relative clause (indicated by the commas). In non-defining clauses referring to things, we must use 'which', not 'that'.",
+    "tags": ["relative clauses", "punctuation", "B2 grammar"]
+  },
+  {
+    "id": 140,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Short Email / Instructions",
+    "question_text": "Read the email: 'Hi team, the API endpoint for the payment gateway has been deprecated. Please migrate to the v2 endpoints by Friday to avoid service disruption.' What must the developers do?",
+    "options": [
+      "A) Stop using the payment gateway entirely.",
+      "B) Update their code to use the new version of the API.",
+      "C) Restart the server before Friday.",
+      "D) Delete the v2 endpoints from the database."
+    ],
+    "correct_answer": "B) Update their code to use the new version of the API.",
+    "explanation": "The email states the old endpoint is 'deprecated' (no longer supported) and instructs them to 'migrate to the v2 endpoints' to avoid disruption.",
+    "tags": ["reading comprehension", "IT emails", "B2"]
+  },
+  {
+    "id": 141,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Wish / Regret",
+    "question_text": "I wish I _________ the importance of backing up the database before running the migration script.",
+    "options": ["A) realized", "B) had realized", "C) would realize", "D) have realized"],
+    "correct_answer": "B) had realized",
+    "explanation": "We use 'wish + past perfect' (had realized) to express regret about a situation in the past (not realizing it before the migration).",
+    "tags": ["wish clauses", "past perfect", "B2 grammar"]
+  },
+  {
+    "id": 142,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Idioms",
+    "question_text": "If we want to deliver the software on time and within budget, we can't afford to _________ on the testing phase.",
+    "options": ["A) cut corners", "B) break the ice", "C) hit the road", "D) burn the midnight oil"],
+    "correct_answer": "A) cut corners",
+    "explanation": "To 'cut corners' means to do something in the cheapest or easiest way, often by skipping important steps (like thorough testing), which can lead to poor quality.",
+    "tags": ["idioms", "business/project management", "B2 vocabulary"]
+  },
+  {
+    "id": 143,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Data Privacy",
+    "question_text": "Under the new GDPR regulations, companies must obtain explicit _________ from users before collecting and processing their personal data.",
+    "options": ["A) consent", "B) context", "C) content", "D) contact"],
+    "correct_answer": "A) consent",
+    "explanation": "'Consent' means permission or agreement. In data privacy laws like GDPR, user 'consent' is legally required to process personal data.",
+    "tags": ["data privacy", "GDPR", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 144,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Concession",
+    "question_text": "_________ the fact that the software had several minor bugs, the client decided to approve the final release.",
+    "options": ["A) Although", "B) Despite", "C) Even though", "D) Nevertheless"],
+    "correct_answer": "B) Despite",
+    "explanation": "'Despite' is a preposition followed by a noun phrase ('the fact that...'). 'Although' and 'Even though' are conjunctions followed by a full clause.",
+    "tags": ["concession", "despite vs although", "B2 grammar"]
+  },
+  {
+    "id": 145,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Reference",
+    "question_text": "Read the text: 'The new machine learning model processes vast amounts of data in real-time. However, it requires significant computational power, which makes it expensive to deploy.' What does the word 'it' refer to?",
+    "options": [
+      "A) The data",
+      "B) The real-time processing",
+      "C) The machine learning model",
+      "D) The computational power"
+    ],
+    "correct_answer": "C) The machine learning model",
+    "explanation": "The pronoun 'it' refers to the subject of the previous clause that requires computational power to be deployed, which is 'the new machine learning model'.",
+    "tags": ["reading comprehension", "pronoun reference", "B2"]
+  },
+  {
+    "id": 146,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Passive Voice (Advanced)",
+    "question_text": "It is widely _________ that the company's stock prices will recover once the new product line is launched.",
+    "options": ["A) believed", "B) believing", "C) to believe", "D) belief"],
+    "correct_answer": "A) believed",
+    "explanation": "This is an impersonal passive structure: 'It is + past participle + that clause'. Common verbs used here include believed, expected, reported, etc.",
+    "tags": ["passive voice", "impersonal passive", "B2 grammar"]
+  },
+  {
+    "id": 147,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Word Formation",
+    "question_text": "The IT support team is highly _________; they resolve 95% of all user tickets within the first hour of submission.",
+    "options": ["A) rely", "B) reliable", "C) reliance", "D) reliably"],
+    "correct_answer": "B) reliable",
+    "explanation": "The sentence requires an adjective to describe the noun 'IT support team'. 'Reliable' is the adjective form of the verb 'rely'.",
+    "tags": ["word formation", "adjectives", "B2 vocabulary"]
+  },
+  {
+    "id": 148,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Version Control",
+    "question_text": "Before merging your feature branch into the main repository, you must resolve any _________ to prevent breaking the build.",
+    "options": ["A) deployments", "B) conflicts", "C) dependencies", "D) protocols"],
+    "correct_answer": "B) conflicts",
+    "explanation": "In version control systems like Git, when two branches have changes to the same lines of code, they create 'conflicts' that must be resolved before merging.",
+    "tags": ["Git", "version control", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 149,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Reported Speech",
+    "question_text": "The client said that they _________ the proposal and would get back to us with a decision by Monday.",
+    "options": ["A) review", "B) have reviewed", "C) were reviewing", "D) will review"],
+    "correct_answer": "C) were reviewing",
+    "explanation": "In reported speech, when the reporting verb is in the past ('said'), the tense in the reported clause shifts back. Present continuous ('are reviewing') becomes past continuous ('were reviewing').",
+    "tags": ["reported speech", "tense shifting", "B2 grammar"]
+  },
+  {
+    "id": 150,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Main Idea",
+    "question_text": "Read the paragraph: 'Remote work offers unprecedented flexibility, allowing employees to design their own schedules. However, this autonomy often blurs the boundaries between personal and professional life, leading to increased burnout rates.' What is the main idea?",
+    "options": [
+      "A) Remote work is entirely detrimental to employee mental health.",
+      "B) The flexibility of remote work comes with the drawback of potential burnout.",
+      "C) Employees prefer strict schedules over flexible ones.",
+      "D) Burnout is only caused by working in a traditional office."
+    ],
+    "correct_answer": "B) The flexibility of remote work comes with the drawback of potential burnout.",
+    "explanation": "The paragraph presents a balanced view: it acknowledges the benefit (flexibility) but highlights the negative consequence (blurred boundaries and burnout).",
+    "tags": ["reading comprehension", "main idea", "B2"]
+  },
+  {
+    "id": 151,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Future in the Past",
+    "question_text": "We _________ launch the beta version of the app last month, but a critical security flaw forced us to postpone it.",
+    "options": ["A) were going to", "B) will", "C) have to", "D) are going to"],
+    "correct_answer": "A) were going to",
+    "explanation": "'Was/were going to' is used to talk about a past plan or intention that was not fulfilled (indicated by 'but... forced us to postpone').",
+    "tags": ["future in the past", "unfulfilled plans", "B2 grammar"]
+  },
+  {
+    "id": 152,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Advanced Verbs",
+    "question_text": "The startup managed to _________ over $5 million in Series A funding to expand its operations into the European market.",
+    "options": ["A) secure", "B) ensure", "C) assure", "D) insure"],
+    "correct_answer": "A) secure",
+    "explanation": "In business, to 'secure' funding or investment means to successfully obtain or get it.",
+    "tags": ["business vocabulary", "funding", "confusing verbs", "B2"]
+  },
+  {
+    "id": 153,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Frontend vs Backend",
+    "question_text": "While the _________ developer focused on making the website visually appealing and responsive, the _________ developer optimized the database queries.",
+    "options": ["A) backend / frontend", "B) frontend / backend", "C) full-stack / DevOps", "D) UI / UX"],
+    "correct_answer": "B) frontend / backend",
+    "explanation": "'Frontend' developers work on the user interface (visuals, responsiveness), while 'backend' developers work on the server-side logic and databases.",
+    "tags": ["web development", "roles", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 154,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Quantifiers",
+    "question_text": "Despite having _________ evidence of the security breach, the company refused to notify its users.",
+    "options": ["A) a great deal of", "B) a large number of", "C) many", "D) a few"],
+    "correct_answer": "A) a great deal of",
+    "explanation": "'Evidence' is an uncountable noun. 'A great deal of' is used with uncountable nouns. 'Many', 'a large number of', and 'a few' are used with countable nouns.",
+    "tags": ["quantifiers", "uncountable nouns", "B2 grammar"]
+  },
+  {
+    "id": 155,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Vocabulary in Context",
+    "question_text": "Read the sentence: 'The team's *meticulous* approach to code review ensured that no critical errors made it into the final production release.' What does 'meticulous' mean?",
+    "options": [
+      "A) Fast and aggressive",
+      "B) Showing great attention to detail; very careful",
+      "C) Lazy and disorganized",
+      "D) Strict and unforgiving"
+    ],
+    "correct_answer": "B) Showing great attention to detail; very careful",
+    "explanation": "'Meticulous' means showing extreme care about minute details, which aligns with a thorough code review process.",
+    "tags": ["vocabulary in context", "adjectives", "B2"]
+  },
+  {
+    "id": 156,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Subjunctive / Suggest",
+    "question_text": "The lead architect strongly recommended that the new server infrastructure _________ in a geographically diverse location to prevent data loss.",
+    "options": ["A) is hosted", "B) be hosted", "C) will be hosted", "D) was hosted"],
+    "correct_answer": "B) be hosted",
+    "explanation": "After verbs of recommendation, suggestion, or demand (like 'recommended'), English uses the subjunctive mood, which requires the base form of the verb ('be') regardless of the subject.",
+    "tags": ["subjunctive", "advanced grammar", "B2"]
+  },
+  {
+    "id": 157,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Phrasal Verbs",
+    "question_text": "We need to _________ a solution to this latency issue before the client demo tomorrow morning.",
+    "options": ["A) come up with", "B) put up with", "C) get away with", "D) look down on"],
+    "correct_answer": "A) come up with",
+    "explanation": "To 'come up with' means to produce or create something, such as an idea, plan, or solution.",
+    "tags": ["phrasal verbs", "problem-solving", "B2 vocabulary"]
+  },
+  {
+    "id": 158,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Agile Methodology",
+    "question_text": "In Scrum, the _________ is responsible for maximizing the value of the product and managing the product backlog.",
+    "options": ["A) Scrum Master", "B) Product Owner", "C) Development Team", "D) Stakeholder"],
+    "correct_answer": "B) Product Owner",
+    "explanation": "In the Scrum framework, the 'Product Owner' is the role responsible for defining product features and managing the backlog to maximize value.",
+    "tags": ["Agile", "Scrum", "project management", "B2"]
+  },
+  {
+    "id": 159,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Conditionals (Inversion)",
+    "question_text": "_________ the firewall rules been configured correctly, the malicious traffic would have been blocked automatically.",
+    "options": ["A) If", "B) Had", "C) Should", "D) Were"],
+    "correct_answer": "B) Had",
+    "explanation": "This is an inverted third conditional. 'Had the firewall rules been...' is the inverted form of 'If the firewall rules had been...'.",
+    "tags": ["conditionals", "inversion", "B2 grammar"]
+  },
+  {
+    "id": 160,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Inference",
+    "question_text": "Read the sentence: 'Although the open-source project has a massive community of contributors, the lack of dedicated funding has slowed down the release of critical security patches.' What can be inferred?",
+    "options": [
+      "A) Open-source projects are inherently insecure.",
+      "B) The project's security updates are delayed due to financial constraints.",
+      "C) The community of contributors is too small to fix bugs.",
+      "D) The project has been abandoned by its original creators."
+    ],
+    "correct_answer": "B) The project's security updates are delayed due to financial constraints.",
+    "explanation": "The phrase 'lack of dedicated funding has slowed down the release' directly implies that financial constraints are the cause of the delayed security patches.",
+    "tags": ["reading comprehension", "inference", "B2"]
+  },
+  {
+    "id": 161,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Used to / Would",
+    "question_text": "When I first started working in IT, I _________ spend hours manually configuring routers, but now automation handles most of it.",
+    "options": ["A) was used to", "B) would", "C) got used to", "D) am used to"],
+    "correct_answer": "B) would",
+    "explanation": "We use 'would + base verb' to talk about repeated actions or habits in the past that are no longer true. (Note: 'used to' is also correct, but 'was used to' means 'was accustomed to' and requires an -ing verb).",
+    "tags": ["past habits", "would vs used to", "B2 grammar"]
+  },
+  {
+    "id": 162,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Business Collocations",
+    "question_text": "The CEO decided to _________ the underperforming division to focus on the company's core competencies.",
+    "options": ["A) spin off", "B) take over", "C) break down", "D) set up"],
+    "correct_answer": "A) spin off",
+    "explanation": "To 'spin off' a division means to create a new, independent company from a part of an existing company, often done to focus on core business areas.",
+    "tags": ["business collocations", "corporate strategy", "B2 vocabulary"]
+  },
+  {
+    "id": 163,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Malware",
+    "question_text": "The organization's files were encrypted by a _________ attack, and the hackers demanded a ransom in cryptocurrency to restore access.",
+    "options": ["A) spyware", "B) ransomware", "C) adware", "D) rootkit"],
+    "correct_answer": "B) ransomware",
+    "explanation": "'Ransomware' is a type of malware that encrypts a victim's files and demands a ransom payment to decrypt them.",
+    "tags": ["malware", "cybersecurity", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 164,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Cleft Sentences",
+    "question_text": "_________ was the sudden power outage that caused the database corruption, not the software update.",
+    "options": ["A) It", "B) What", "C) There", "D) That"],
+    "correct_answer": "A) It",
+    "explanation": "This is an 'it-cleft' sentence used for emphasis: 'It + be + emphasized element + that/who clause'. Here, it emphasizes 'the sudden power outage'.",
+    "tags": ["cleft sentences", "emphasis", "B2 grammar"]
+  },
+  {
+    "id": 165,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Short Text / Notice",
+    "question_text": "Read the notice: 'NOTICE: Scheduled maintenance will occur on the primary database server this Saturday from 02:00 to 06:00 UTC. Read-only mode will be enabled.' What should users expect?",
+    "options": [
+      "A) They will not be able to access the system at all.",
+      "B) They can view data but cannot create or modify records.",
+      "C) The system will be faster than usual during this time.",
+      "D) They must back up their data before 02:00 UTC."
+    ],
+    "correct_answer": "B) They can view data but cannot create or modify records.",
+    "explanation": "'Read-only mode' means users can read (view) the data, but write operations (create, update, delete) are disabled.",
+    "tags": ["reading comprehension", "IT notices", "B2"]
+  },
+  {
+    "id": 166,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Prepositions with Relative Clauses",
+    "question_text": "The project manager, _________ leadership we successfully delivered the software, is being promoted to Director of Engineering.",
+    "options": ["A) who", "B) whom", "C) whose", "D) which"],
+    "correct_answer": "C) whose",
+    "explanation": "'Whose' is the relative pronoun used to indicate possession. Here, it refers to the project manager's leadership.",
+    "tags": ["relative clauses", "whose", "B2 grammar"]
+  },
+  {
+    "id": 167,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Advanced Adverbs",
+    "question_text": "The new encryption protocol is _________ unbreakable with current computing technology, ensuring maximum data security.",
+    "options": ["A) virtually", "B) virtually", "C) veritably", "D) visually"],
+    "correct_answer": "A) virtually",
+    "explanation": "'Virtually' means 'almost' or 'nearly'. In this context, it means the protocol is almost completely unbreakable.",
+    "tags": ["adverbs", "advanced vocabulary", "B2"]
+  },
+  {
+    "id": 168,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "DevOps",
+    "question_text": "The implementation of CI/CD pipelines has allowed the team to _________ code updates multiple times a day with minimal manual intervention.",
+    "options": ["A) deploy", "B) delay", "C) debug", "D) document"],
+    "correct_answer": "A) deploy",
+    "explanation": "CI/CD (Continuous Integration/Continuous Deployment) pipelines automate the process of testing and 'deploying' (releasing) code to production.",
+    "tags": ["DevOps", "CI/CD", "IT vocabulary", "B2"]
+  },
+  {
+    "id": 169,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Future Continuous",
+    "question_text": "Don't call me at 9 AM tomorrow; I _________ the quarterly financial report with the stakeholders.",
+    "options": ["A) will present", "B) will be presenting", "C) will have presented", "D) am going to present"],
+    "correct_answer": "B) will be presenting",
+    "explanation": "The Future Continuous ('will be + -ing') is used to describe an action that will be in progress at a specific time in the future ('at 9 AM tomorrow').",
+    "tags": ["future continuous", "tenses", "B2 grammar"]
+  },
+  {
+    "id": 170,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Author's Purpose",
+    "question_text": "Read the excerpt: 'To fully grasp the implications of quantum computing, one must first abandon classical binary logic and embrace the probabilistic nature of qubits.' What is the author's primary purpose?",
+    "options": [
+      "A) To explain how to build a quantum computer.",
+      "B) To warn readers about the dangers of quantum computing.",
+      "C) To prepare the reader for a fundamental shift in how computing logic works.",
+      "D) To argue that classical computers are obsolete."
+    ],
+    "correct_answer": "C) To prepare the reader for a fundamental shift in how computing logic works.",
+    "explanation": "The author states that to understand quantum computing, one must 'abandon classical binary logic and embrace... qubits', indicating a need to shift one's fundamental understanding of computing logic.",
+    "tags": ["reading comprehension", "author's purpose", "B2"]
+  }
+]

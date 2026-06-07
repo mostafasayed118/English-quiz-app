@@ -1,0 +1,232 @@
+[
+  {
+    "id": 61,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Verb 'to be'",
+    "question_text": "Hello, my name is Ali and I ___ a student at the university.",
+    "options": ["A) am", "B) is", "C) are", "D) be"],
+    "correct_answer": "A) am",
+    "explanation": "The pronoun 'I' is always paired with the verb 'am' in the present simple tense.",
+    "tags": ["verb to be", "present simple", "A1 grammar", "introductions"]
+  },
+  {
+    "id": 62,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Everyday Objects",
+    "question_text": "Please give me that ___. I need to write a note in my notebook.",
+    "options": ["A) pen", "B) spoon", "C) shoe", "D) plate"],
+    "correct_answer": "A) pen",
+    "explanation": "A 'pen' is the only logical object used for writing a note among the given choices.",
+    "tags": ["everyday objects", "classroom vocabulary", "A1"]
+  },
+  {
+    "id": 63,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Basic Hardware",
+    "question_text": "You can see the picture and the words on the computer ___.",
+    "options": ["A) mouse", "B) screen", "C) keyboard", "D) cable"],
+    "correct_answer": "B) screen",
+    "explanation": "The 'screen' (or monitor) is the hardware component that displays visual output like pictures and words.",
+    "tags": ["IT basics", "hardware", "A1 vocabulary"]
+  },
+  {
+    "id": 64,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Present Simple",
+    "question_text": "My brother ___ in a hospital. He is a doctor.",
+    "options": ["A) work", "B) works", "C) working", "D) to work"],
+    "correct_answer": "B) works",
+    "explanation": "In the present simple tense, we add 's' to the verb when the subject is third-person singular ('My brother' = he).",
+    "tags": ["present simple", "jobs", "third-person singular"]
+  },
+  {
+    "id": 65,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Family Members",
+    "question_text": "My mother's sister is my ___.",
+    "options": ["A) uncle", "B) cousin", "C) aunt", "D) niece"],
+    "correct_answer": "C) aunt",
+    "explanation": "The sister of one's mother or father is called an 'aunt'.",
+    "tags": ["family tree", "relationships", "A1 vocabulary"]
+  },
+  {
+    "id": 66,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Basic Actions",
+    "question_text": "To open the file, please ___ the left button on the mouse.",
+    "options": ["A) click", "B) type", "C) read", "D) listen"],
+    "correct_answer": "A) click",
+    "explanation": "The correct verb for pressing a button on a computer mouse is to 'click'.",
+    "tags": ["IT actions", "verbs", "basic computing"]
+  },
+  {
+    "id": 67,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Irregular Plurals",
+    "question_text": "There are five ___ playing football in the park.",
+    "options": ["A) childs", "B) childrens", "C) children", "D) child"],
+    "correct_answer": "C) children",
+    "explanation": "'Children' is the irregular plural form of 'child'. It does not take an 's' at the end.",
+    "tags": ["plural nouns", "irregular plurals", "A1 grammar"]
+  },
+  {
+    "id": 68,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Clothing & Weather",
+    "question_text": "It is very cold and snowing outside. Please wear your warm ___.",
+    "options": ["A) t-shirt", "B) shorts", "C) coat", "D) sandals"],
+    "correct_answer": "C) coat",
+    "explanation": "A 'coat' is a piece of warm clothing worn over other clothes, especially in cold or snowy weather.",
+    "tags": ["clothing", "weather", "A1 vocabulary"]
+  },
+  {
+    "id": 69,
+    "category": "Reading Comprehension",
+    "cefr_level": "A1",
+    "question_type": "Daily Routine",
+    "question_text": "Read the text: 'Hello, I am Tom. I wake up at 7 AM, eat breakfast, and take the bus to school.' What does Tom do in the morning?",
+    "options": [
+      "A) He goes to sleep.",
+      "B) He goes to school.",
+      "C) He plays football.",
+      "D) He watches TV."
+    ],
+    "correct_answer": "B) He goes to school.",
+    "explanation": "The text explicitly states that after waking up and eating breakfast, Tom 'takes the bus to school'.",
+    "tags": ["reading comprehension", "daily routine", "A1"]
+  },
+  {
+    "id": 70,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Articles (a/an)",
+    "question_text": "She is eating ___ apple and ___ banana for lunch.",
+    "options": ["A) a / an", "B) an / a", "C) an / an", "D) a / a"],
+    "correct_answer": "B) an / a",
+    "explanation": "We use 'an' before words starting with a vowel sound ('apple') and 'a' before words starting with a consonant sound ('banana').",
+    "tags": ["articles", "a and an", "A1 grammar"]
+  },
+  {
+    "id": 71,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Phrasal Verbs (Basic IT)",
+    "question_text": "When you finish using the computer, please ___ it off to save electricity.",
+    "options": ["A) turn", "B) put", "C) get", "D) make"],
+    "correct_answer": "A) turn",
+    "explanation": "The phrasal verb 'turn off' means to stop a machine or device from working. We 'turn off' computers.",
+    "tags": ["IT phrasal verbs", "turn off", "basic actions"]
+  },
+  {
+    "id": 72,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Days of the Week",
+    "question_text": "Today is Monday. Tomorrow will be ___.",
+    "options": ["A) Sunday", "B) Tuesday", "C) Wednesday", "D) Friday"],
+    "correct_answer": "B) Tuesday",
+    "explanation": "The day that comes immediately after Monday is Tuesday.",
+    "tags": ["days of the week", "time", "A1 vocabulary"]
+  },
+  {
+    "id": 73,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Possessive Adjectives",
+    "question_text": "This is my car. Where is ___ car, John?",
+    "options": ["A) you", "B) yours", "C) your", "D) you're"],
+    "correct_answer": "C) your",
+    "explanation": "'Your' is a possessive adjective used before a noun ('car') to show ownership. 'Yours' is a pronoun used without a noun.",
+    "tags": ["possessive adjectives", "pronouns", "A1 grammar"]
+  },
+  {
+    "id": 74,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Food & Drink",
+    "question_text": "I am very thirsty after playing sports. Can I have a glass of ___, please?",
+    "options": ["A) bread", "B) water", "C) rice", "D) cheese"],
+    "correct_answer": "B) water",
+    "explanation": "'Water' is the only drink listed. The other options are solid foods, and you drink water when you are thirsty.",
+    "tags": ["food and drink", "adjectives", "A1 vocabulary"]
+  },
+  {
+    "id": 75,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Internet Basics",
+    "question_text": "I cannot connect to the internet on my phone. What is the Wi-Fi ___?",
+    "options": ["A) password", "B) mouse", "C) screen", "D) printer"],
+    "correct_answer": "A) password",
+    "explanation": "A 'password' is a secret word or phrase required to access a secure system, like a Wi-Fi network.",
+    "tags": ["internet basics", "Wi-Fi", "A1 IT vocabulary"]
+  },
+  {
+    "id": 76,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Prepositions of Place",
+    "question_text": "The keys are ___ the table, next to the door.",
+    "options": ["A) in", "B) under", "C) on", "D) between"],
+    "correct_answer": "C) on",
+    "explanation": "We use the preposition 'on' to indicate that something is resting upon the surface of something else (the table).",
+    "tags": ["prepositions of place", "on", "A1 grammar"]
+  },
+  {
+    "id": 77,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Numbers & Quantities",
+    "question_text": "There are ___ days in a week.",
+    "options": ["A) five", "B) six", "C) seven", "D) eight"],
+    "correct_answer": "C) seven",
+    "explanation": "A standard week consists of seven days (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday).",
+    "tags": ["numbers", "time", "basic facts"]
+  },
+  {
+    "id": 78,
+    "category": "Reading Comprehension",
+    "cefr_level": "A1",
+    "question_type": "Short Messages",
+    "question_text": "Read the message: 'Hi Sarah, I am sick today. I will not come to the English class. See you tomorrow. - Mark' Why is Mark writing this?",
+    "options": [
+      "A) To invite Sarah to a party.",
+      "B) To say he is absent from class.",
+      "C) To ask for homework help.",
+      "D) To say he likes English."
+    ],
+    "correct_answer": "B) To say he is absent from class.",
+    "explanation": "Mark states 'I am sick' and 'I will not come to the English class', which means he is informing Sarah of his absence.",
+    "tags": ["reading comprehension", "emails/messages", "A1"]
+  },
+  {
+    "id": 79,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Modals of Ability",
+    "question_text": "___ you swim? Yes, I can.",
+    "options": ["A) Do", "B) Are", "C) Can", "D) Is"],
+    "correct_answer": "C) Can",
+    "explanation": "The modal verb 'Can' is used to ask about someone's ability to do something. The answer 'Yes, I can' confirms this.",
+    "tags": ["modal verbs", "can", "abilities"]
+  },
+  {
+    "id": 80,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Software Basics",
+    "question_text": "I need to download a new ___ on my phone to play this game.",
+    "options": ["A) app", "B) keyboard", "C) wire", "D) desk"],
+    "correct_answer": "A) app",
+    "explanation": "An 'app' (short for application) is a software program designed to be downloaded and used on a mobile phone or tablet.",
+    "tags": ["software", "mobile phones", "A1 IT vocabulary"]
+  }
+]

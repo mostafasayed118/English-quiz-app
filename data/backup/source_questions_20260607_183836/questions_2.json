@@ -1,0 +1,322 @@
+[
+  {
+    "id": 21,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Vocabulary in Context",
+    "question_text": "The IT department needs to ________ the legacy system to a cloud-based infrastructure to improve scalability.",
+    "options": [
+      "A) migrate",
+      "B) navigate",
+      "C) segregate",
+      "D) integrate"
+    ],
+    "correct_answer": "A) migrate",
+    "explanation": "'Migrate' is the standard technical term for moving data, applications, or systems from one environment (like a legacy on-premise system) to another (like the cloud).",
+    "tags": ["cloud computing", "IT operations", "B2 vocabulary"]
+  },
+  {
+    "id": 22,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Vocabulary in Context",
+    "question_text": "Despite the robust firewall, the network remained ________ to sophisticated phishing attacks targeting employee credentials.",
+    "options": [
+      "A) immune",
+      "B) vulnerable",
+      "C) resilient",
+      "D) obsolete"
+    ],
+    "correct_answer": "B) vulnerable",
+    "explanation": "'Vulnerable' means susceptible to harm or attack. In cybersecurity, a system that can still be breached despite defenses is described as vulnerable.",
+    "tags": ["cybersecurity", "advanced vocabulary", "C1"]
+  },
+  {
+    "id": 23,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Phrasal Verbs",
+    "question_text": "Before installing the new software update, you must ________ your computer to prevent any data loss.",
+    "options": [
+      "A) back up",
+      "B) break down",
+      "C) log out",
+      "D) shut off"
+    ],
+    "correct_answer": "A) back up",
+    "explanation": "To 'back up' means to make a copy of computer data to protect against loss or corruption, which is a crucial step before major updates.",
+    "tags": ["phrasal verbs", "IT basics", "B1"]
+  },
+  {
+    "id": 24,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Vocabulary in Context",
+    "question_text": "The new algorithm significantly reduces latency, thereby ________ the overall user experience during peak traffic hours.",
+    "options": [
+      "A) degrading",
+      "B) optimizing",
+      "C) encrypting",
+      "D) fragmenting"
+    ],
+    "correct_answer": "B) optimizing",
+    "explanation": "'Optimizing' means making the best or most effective use of a situation or resource. Reducing latency improves (optimizes) the user experience.",
+    "tags": ["software engineering", "performance", "C1"]
+  },
+  {
+    "id": 25,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Vocabulary",
+    "question_text": "The developer wrote a ________ to automate the testing process, saving the team several hours of manual work each week.",
+    "options": [
+      "A) script",
+      "B) blueprint",
+      "C) protocol",
+      "D) manual"
+    ],
+    "correct_answer": "A) script",
+    "explanation": "In programming and IT, a 'script' is a small program or sequence of instructions written to automate specific tasks.",
+    "tags": ["software development", "automation", "B2"]
+  },
+  {
+    "id": 26,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Conditionals (Inversion)",
+    "question_text": "Had the project manager ________ the risks earlier, the team could have avoided the delay.",
+    "options": [
+      "A) identify",
+      "B) identified",
+      "C) identifying",
+      "D) identifies"
+    ],
+    "correct_answer": "B) identified",
+    "explanation": "This is a Third Conditional sentence using inversion ('Had + subject + past participle'). The correct form is the past participle 'identified'.",
+    "tags": ["conditionals", "inversion", "B2 grammar"]
+  },
+  {
+    "id": 27,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Inversion",
+    "question_text": "Not only ________ the software update resolve the bug, but it also introduced new features.",
+    "options": [
+      "A) it did",
+      "B) did it",
+      "C) it has",
+      "D) has it"
+    ],
+    "correct_answer": "B) did it",
+    "explanation": "When a sentence begins with a negative adverbial phrase like 'Not only', it requires subject-auxiliary inversion ('did it').",
+    "tags": ["inversion", "advanced grammar", "C1"]
+  },
+  {
+    "id": 28,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Tenses (Future Perfect)",
+    "question_text": "By the time the meeting starts, I ________ the presentation.",
+    "options": [
+      "A) will finish",
+      "B) will have finished",
+      "C) am finishing",
+      "D) have finished"
+    ],
+    "correct_answer": "B) will have finished",
+    "explanation": "The Future Perfect tense ('will have + past participle') is used to describe an action that will be completed before a specific time or event in the future.",
+    "tags": ["future perfect", "tenses", "B1"]
+  },
+  {
+    "id": 29,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Subject-Verb Agreement",
+    "question_text": "The CEO, along with her executive team, ________ to announce the merger tomorrow morning.",
+    "options": [
+      "A) are planning",
+      "B) is planning",
+      "C) were planning",
+      "D) have planned"
+    ],
+    "correct_answer": "B) is planning",
+    "explanation": "The true subject is 'The CEO' (singular). Phrases like 'along with', 'as well as', or 'together with' do not change the grammatical number of the subject.",
+    "tags": ["subject-verb agreement", "advanced grammar", "C1"]
+  },
+  {
+    "id": 30,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Wish / Regret",
+    "question_text": "I wish I ________ harder for the certification exam last month.",
+    "options": [
+      "A) studied",
+      "B) had studied",
+      "C) would study",
+      "D) have studied"
+    ],
+    "correct_answer": "B) had studied",
+    "explanation": "'Wish' + past perfect ('had studied') is used to express regret about a situation in the past.",
+    "tags": ["wish clauses", "past perfect", "B2"]
+  },
+  {
+    "id": 31,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Word Choice",
+    "question_text": "The company's new policy is highly ________; it can be easily misunderstood by employees.",
+    "options": [
+      "A) ambiguous",
+      "B) explicit",
+      "C) coherent",
+      "D) succinct"
+    ],
+    "correct_answer": "A) ambiguous",
+    "explanation": "'Ambiguous' means open to more than one interpretation or having a double meaning, which directly leads to being misunderstood.",
+    "tags": ["advanced vocabulary", "business English", "C1"]
+  },
+  {
+    "id": 32,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Word Choice",
+    "question_text": "The manager gave a ________ overview of the project, highlighting only the most essential points.",
+    "options": [
+      "A) comprehensive",
+      "B) meticulous",
+      "C) concise",
+      "D) verbose"
+    ],
+    "correct_answer": "C) concise",
+    "explanation": "'Concise' means giving a lot of information clearly and in a few words, which matches 'highlighting only the most essential points'.",
+    "tags": ["vocabulary", "business communication", "B2"]
+  },
+  {
+    "id": 33,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Word Choice",
+    "question_text": "His argument was entirely ________, lacking any substantial evidence or logical reasoning.",
+    "options": [
+      "A) plausible",
+      "B) fallacious",
+      "C) empirical",
+      "D) pragmatic"
+    ],
+    "correct_answer": "B) fallacious",
+    "explanation": "'Fallacious' means based on a mistaken belief or unsound reasoning, perfectly describing an argument without evidence or logic.",
+    "tags": ["advanced vocabulary", "academic English", "C1"]
+  },
+  {
+    "id": 34,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Collocations",
+    "question_text": "The two companies decided to ________ in order to develop a more competitive product.",
+    "options": [
+      "A) collaborate",
+      "B) compete",
+      "C) isolate",
+      "D) deteriorate"
+    ],
+    "correct_answer": "A) collaborate",
+    "explanation": "To 'collaborate' means to work jointly on an activity or project, which is the logical action to develop a competitive product together.",
+    "tags": ["collocations", "business English", "B2"]
+  },
+  {
+    "id": 35,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Word Choice",
+    "question_text": "The sudden market crash had a ________ effect on the startup's funding opportunities.",
+    "options": [
+      "A) negligible",
+      "B) detrimental",
+      "C) beneficial",
+      "D) trivial"
+    ],
+    "correct_answer": "B) detrimental",
+    "explanation": "'Detrimental' means tending to cause harm. A market crash would logically have a harmful (detrimental) effect on funding.",
+    "tags": ["advanced vocabulary", "finance/business", "C1"]
+  },
+  {
+    "id": 36,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Inference",
+    "question_text": "Read the sentence: 'While the initial data was promising, subsequent trials failed to replicate the results.' What can be inferred?",
+    "options": [
+      "A) The initial data was definitely fabricated.",
+      "B) The subsequent trials were poorly designed.",
+      "C) The reliability of the initial findings is now in doubt.",
+      "D) The research project has been completely abandoned."
+    ],
+    "correct_answer": "C) The reliability of the initial findings is now in doubt.",
+    "explanation": "In scientific and academic contexts, the failure to replicate results casts doubt on the validity and reliability of the original findings.",
+    "tags": ["reading comprehension", "inference", "B2"]
+  },
+  {
+    "id": 37,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Rhetorical Purpose",
+    "question_text": "'The author's use of hyperbole serves not to exaggerate for comedic effect, but rather to underscore the severity of the environmental crisis.' What is the author's primary purpose?",
+    "options": [
+      "A) To entertain the reader with exaggerated stories.",
+      "B) To emphasize the critical nature of the environmental issue.",
+      "C) To downplay the seriousness of the crisis.",
+      "D) To provide a purely scientific, objective analysis."
+    ],
+    "correct_answer": "B) To emphasize the critical nature of the environmental issue.",
+    "explanation": "The phrase 'underscore the severity' means to emphasize or highlight how serious and critical the issue is.",
+    "tags": ["reading comprehension", "rhetorical purpose", "C1"]
+  },
+  {
+    "id": 38,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Inference",
+    "question_text": "'Despite the heavy rain, the outdoor concert proceeded as scheduled, much to the delight of the dedicated fans.' What does this imply about the fans?",
+    "options": [
+      "A) They were disappointed by the rain.",
+      "B) They were willing to endure bad weather to see the performance.",
+      "C) The concert was moved indoors at the last minute.",
+      "D) They demanded a refund due to the weather."
+    ],
+    "correct_answer": "B) They were willing to endure bad weather to see the performance.",
+    "explanation": "The phrase 'much to the delight of the dedicated fans' implies they were happy the concert continued, showing their dedication and willingness to endure the rain.",
+    "tags": ["reading comprehension", "inference", "B2"]
+  },
+  {
+    "id": 39,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Vocabulary in Context",
+    "question_text": "'The committee's decision was met with widespread acclaim, a rare occurrence in an organization typically characterized by internal discord.' What does 'internal discord' suggest about the organization?",
+    "options": [
+      "A) It is highly efficient and unified.",
+      "B) It frequently experiences disagreements and conflict among its members.",
+      "C) It is a newly formed organization with no history.",
+      "D) It is completely transparent in its decision-making."
+    ],
+    "correct_answer": "B) It frequently experiences disagreements and conflict among its members.",
+    "explanation": "'Discord' means disagreement between people. 'Internal discord' specifically refers to conflict happening within the organization itself.",
+    "tags": ["reading comprehension", "vocabulary in context", "C1"]
+  },
+  {
+    "id": 40,
+    "category": "Reading Comprehension",
+    "cefr_level": "B1",
+    "question_type": "Cause and Effect",
+    "question_text": "'John forgot his umbrella, so he got completely soaked on his way to work.' What is the cause of John getting soaked?",
+    "options": [
+      "A) He went to work.",
+      "B) He forgot his umbrella.",
+      "C) The bus was late.",
+      "D) He walked too slowly."
+    ],
+    "correct_answer": "B) He forgot his umbrella.",
+    "explanation": "The conjunction 'so' indicates a cause-and-effect relationship. Forgetting the umbrella is the direct cause of him getting soaked in the rain.",
+    "tags": ["reading comprehension", "cause and effect", "B1"]
+  }
+]

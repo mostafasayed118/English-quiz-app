@@ -1,0 +1,322 @@
+[
+  {
+    "id": 101,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Present Perfect vs. Past Simple",
+    "question_text": "I ___ this software update three times already, but it still isn't working properly.",
+    "options": [
+      "A) installed",
+      "B) have installed",
+      "C) am installing",
+      "D) install"
+    ],
+    "correct_answer": "B) have installed",
+    "explanation": "We use the Present Perfect ('have installed') to talk about an action that happened at an unspecified time in the past and has a result in the present (it still isn't working). The word 'already' is a strong indicator of the Present Perfect.",
+    "tags": ["present perfect", "past simple", "B1 grammar", "software"]
+  },
+  {
+    "id": 102,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Basic Troubleshooting",
+    "question_text": "If your computer freezes and the screen won't respond, you should try ___ it and turning it back on.",
+    "options": [
+      "A) restarting",
+      "B) deleting",
+      "C) downloading",
+      "D) uploading"
+    ],
+    "correct_answer": "A) restarting",
+    "explanation": "'Restarting' means turning a device off and then on again, which is the standard first step in troubleshooting a frozen computer.",
+    "tags": ["IT basics", "troubleshooting", "gerunds", "B1 tech"]
+  },
+  {
+    "id": 103,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Second Conditional",
+    "question_text": "If I ___ the manager, I would approve the budget for the new servers.",
+    "options": [
+      "A) am",
+      "B) was",
+      "C) were",
+      "D) will be"
+    ],
+    "correct_answer": "C) were",
+    "explanation": "In the Second Conditional (used for hypothetical/unreal situations in the present), we use the past simple in the 'if' clause. In formal English and tests, 'were' is used for all subjects (I, he, she, it) instead of 'was'.",
+    "tags": ["conditionals", "second conditional", "subjunctive", "B1 grammar"]
+  },
+  {
+    "id": 104,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Workplace Collocations",
+    "question_text": "We need to ___ a meeting to discuss the project's progress next week.",
+    "options": [
+      "A) make",
+      "B) schedule",
+      "C) do",
+      "D) take"
+    ],
+    "correct_answer": "B) schedule",
+    "explanation": "The correct professional collocation for arranging a meeting for a specific time is to 'schedule' (or 'arrange') a meeting.",
+    "tags": ["collocations", "business English", "meetings", "B1 vocabulary"]
+  },
+  {
+    "id": 105,
+    "category": "Reading Comprehension",
+    "cefr_level": "B1",
+    "question_type": "Short Email / Instructions",
+    "question_text": "Read the email: 'Hi team, the server maintenance is delayed until 8 PM. Please save your work locally.' What should the employees do?",
+    "options": [
+      "A) Stop working immediately.",
+      "B) Save their files on their local hard drives.",
+      "C) Restart the server.",
+      "D) Leave the office at 8 PM."
+    ],
+    "correct_answer": "B) Save their files on their local hard drives.",
+    "explanation": "The instruction 'save your work locally' means to save files directly on the computer's own hard drive rather than on the network/server.",
+    "tags": ["reading comprehension", "emails", "IT context", "B1"]
+  },
+  {
+    "id": 106,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Passive Voice (Past Simple)",
+    "question_text": "The new security policy ___ by the IT department last month.",
+    "options": [
+      "A) wrote",
+      "B) was written",
+      "C) has written",
+      "D) is written"
+    ],
+    "correct_answer": "B) was written",
+    "explanation": "The sentence requires the past simple passive voice because the action happened in the past ('last month') and the subject ('policy') receives the action. The structure is: was/were + past participle (written).",
+    "tags": ["passive voice", "past simple", "B1 grammar"]
+  },
+  {
+    "id": 107,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Cybersecurity Basics",
+    "question_text": "Never share your ___ with anyone, even if they claim to be from technical support.",
+    "options": [
+      "A) username",
+      "B) password",
+      "C) homepage",
+      "D) browser"
+    ],
+    "correct_answer": "B) password",
+    "explanation": "A 'password' is the secret credential used to verify identity. Sharing it compromises security, a fundamental rule in IT awareness.",
+    "tags": ["cybersecurity", "IT basics", "B1 vocabulary"]
+  },
+  {
+    "id": 108,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Modals of Obligation",
+    "question_text": "You ___ wear a safety helmet when entering the construction site. It's the law.",
+    "options": [
+      "A) might",
+      "B) should",
+      "C) must",
+      "D) could"
+    ],
+    "correct_answer": "C) must",
+    "explanation": "We use 'must' to express strong obligation, especially when it is a rule or a law. 'Should' is for advice, while 'might/could' express possibility.",
+    "tags": ["modal verbs", "obligation", "B1 grammar"]
+  },
+  {
+    "id": 109,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Phrasal Verbs",
+    "question_text": "We need to ___ a solution to this network problem before the clients arrive.",
+    "options": [
+      "A) find out",
+      "B) come up with",
+      "C) look after",
+      "D) get over"
+    ],
+    "correct_answer": "B) come up with",
+    "explanation": "The phrasal verb 'come up with' means to produce or create something (like an idea, a plan, or a solution).",
+    "tags": ["phrasal verbs", "problem-solving", "B1 vocabulary"]
+  },
+  {
+    "id": 110,
+    "category": "Reading Comprehension",
+    "cefr_level": "B1",
+    "question_type": "Inference / Opinion",
+    "question_text": "Read the sentence: 'Although the new smartphone has a great camera, its battery life is quite disappointing.' What is the author's overall opinion?",
+    "options": [
+      "A) The phone is perfect.",
+      "B) The phone has a major flaw.",
+      "C) The camera is bad.",
+      "D) The battery is excellent."
+    ],
+    "correct_answer": "B) The phone has a major flaw.",
+    "explanation": "The word 'Although' introduces a contrast. The author likes the camera but uses 'disappointing' to describe the battery, indicating a significant negative aspect (flaw) of the phone.",
+    "tags": ["reading comprehension", "inference", "conjunctions", "B1"]
+  },
+  {
+    "id": 111,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Gerunds vs. Infinitives",
+    "question_text": "The IT manager suggested ___ the old computers instead of repairing them.",
+    "options": [
+      "A) to replace",
+      "B) replace",
+      "C) replacing",
+      "D) to replacing"
+    ],
+    "correct_answer": "C) replacing",
+    "explanation": "The verb 'suggest' is followed by a gerund (verb + -ing), not an infinitive. Therefore, 'suggested replacing' is the correct grammatical structure.",
+    "tags": ["gerunds", "infinitives", "verbs patterns", "B1 grammar"]
+  },
+  {
+    "id": 112,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Cloud Computing / Storage",
+    "question_text": "I always keep a copy of my important documents in the ___ just in case my laptop breaks.",
+    "options": [
+      "A) cloud",
+      "B) screen",
+      "C) mouse",
+      "D) cable"
+    ],
+    "correct_answer": "A) cloud",
+    "explanation": "The 'cloud' refers to remote servers accessed over the internet used for storing and managing data, which protects it if a physical device breaks.",
+    "tags": ["cloud computing", "data backup", "B1 IT vocabulary"]
+  },
+  {
+    "id": 113,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Defining Relative Clauses",
+    "question_text": "That is the employee ___ won the innovation award last year.",
+    "options": [
+      "A) which",
+      "B) who",
+      "C) whose",
+      "D) whom"
+    ],
+    "correct_answer": "B) who",
+    "explanation": "We use the relative pronoun 'who' to refer to people (the employee) as the subject of the relative clause.",
+    "tags": ["relative clauses", "pronouns", "B1 grammar"]
+  },
+  {
+    "id": 114,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Business Collocations",
+    "question_text": "The company decided to ___ a new training program for all new hires.",
+    "options": [
+      "A) launch",
+      "B) make",
+      "C) do",
+      "D) invent"
+    ],
+    "correct_answer": "A) launch",
+    "explanation": "In a business context, we 'launch' (or 'introduce'/'start') a new program, product, or initiative.",
+    "tags": ["collocations", "business English", "B1 vocabulary"]
+  },
+  {
+    "id": 115,
+    "category": "Reading Comprehension",
+    "cefr_level": "B1",
+    "question_type": "Notices and Signs",
+    "question_text": "Read the sign: 'NOTICE: The elevator is out of order. Please use the stairs.' Where would you most likely see this sign?",
+    "options": [
+      "A) In a public park.",
+      "B) In a multi-story building.",
+      "C) At a bus stop.",
+      "D) In a library's book section."
+    ],
+    "correct_answer": "B) In a multi-story building.",
+    "explanation": "Elevators and stairs are features of multi-story buildings. An 'out of order' sign for an elevator would be placed near the elevator doors.",
+    "tags": ["reading comprehension", "signs", "daily life", "B1"]
+  },
+  {
+    "id": 116,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "First Conditional",
+    "question_text": "If the system ___ down again, we will lose all the unsaved data.",
+    "options": [
+      "A) breaks",
+      "B) will break",
+      "C) broke",
+      "D) breaking"
+    ],
+    "correct_answer": "A) breaks",
+    "explanation": "In the First Conditional (used for real/possible future situations), the 'if' clause takes the present simple tense ('breaks'), and the main clause takes the future simple ('will lose').",
+    "tags": ["conditionals", "first conditional", "B1 grammar"]
+  },
+  {
+    "id": 117,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Hardware Components",
+    "question_text": "My laptop's ___ is broken, so I have to use an external one to type my emails.",
+    "options": [
+      "A) monitor",
+      "B) keyboard",
+      "C) battery",
+      "D) speaker"
+    ],
+    "correct_answer": "B) keyboard",
+    "explanation": "The 'keyboard' is the hardware component used for typing. If the built-in one is broken, a user would connect an external (USB or Bluetooth) keyboard.",
+    "tags": ["hardware", "IT vocabulary", "B1 tech"]
+  },
+  {
+    "id": 118,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Adjectives of Emotion",
+    "question_text": "I was really ___ when I realized I had deleted the final report by mistake.",
+    "options": [
+      "A) thrilled",
+      "B) panicked",
+      "C) bored",
+      "D) relaxed"
+    ],
+    "correct_answer": "B) panicked",
+    "explanation": "Deleting an important report by mistake would cause sudden anxiety or fear, which is best described by the word 'panicked'. The other options describe positive or neutral emotions.",
+    "tags": ["adjectives", "emotions", "B1 vocabulary"]
+  },
+  {
+    "id": 119,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Present Perfect Continuous",
+    "question_text": "She ___ on this coding project for six hours, and she still needs more time.",
+    "options": [
+      "A) works",
+      "B) worked",
+      "C) has been working",
+      "D) is working"
+    ],
+    "correct_answer": "C) has been working",
+    "explanation": "The Present Perfect Continuous ('has been working') is used to emphasize the duration of an action that started in the past and is still continuing ('for six hours', 'still needs more time').",
+    "tags": ["present perfect continuous", "tenses", "B1 grammar"]
+  },
+  {
+    "id": 120,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Software Maintenance",
+    "question_text": "Make sure to ___ your antivirus software regularly to protect against new threats.",
+    "options": [
+      "A) delete",
+      "B) update",
+      "C) ignore",
+      "D) uninstall"
+    ],
+    "correct_answer": "B) update",
+    "explanation": "To 'update' software means to install the latest version, which includes new security patches to protect against recently discovered threats.",
+    "tags": ["software", "cybersecurity", "IT actions", "B1 tech"]
+  }
+]

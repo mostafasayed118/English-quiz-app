@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Vocabulary in Context",
+    "question_text": "The IT department implemented a new firewall to protect the network from _________ attacks.",
+    "options": ["A) malicious", "B) beneficial", "C) trivial", "D) obsolete"],
+    "correct_answer": "A) malicious",
+    "explanation": "'Malicious' means intended to do harm, which perfectly describes cyber attacks. The other options are contextually incorrect.",
+    "tags": ["cybersecurity", "networking", "B2 vocabulary"]
+  },
+  {
+    "id": 2,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Reading Comprehension / Inference",
+    "question_text": "Read the sentence: 'While the software update resolved the primary bug, it inadvertently introduced minor latency issues.' What can be inferred about the update?",
+    "options": [
+      "A) It was a complete failure and should be rolled back.",
+      "B) It fixed the main problem but caused a new, less severe issue.",
+      "C) It improved the overall speed of the software significantly.",
+      "D) It had no noticeable effect on the system's performance."
+    ],
+    "correct_answer": "B) It fixed the main problem but caused a new, less severe issue.",
+    "explanation": "'Resolved the primary bug' means the main problem was fixed. 'Inadvertently introduced minor latency issues' means it accidentally caused a small delay problem.",
+    "tags": ["software development", "inference", "C1 reading"]
+  },
+  {
+    "id": 3,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Grammar (Passive Voice)",
+    "question_text": "The new servers _________ by the technical team last weekend.",
+    "options": ["A) were installed", "B) are installing", "C) have installed", "D) was installed"],
+    "correct_answer": "A) were installed",
+    "explanation": "The sentence requires the past simple passive voice because the action happened in the past ('last weekend') and the subject ('servers') is plural.",
+    "tags": ["passive voice", "past simple", "IT operations"]
+  },
+  {
+    "id": 4,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Vocabulary",
+    "question_text": "To ensure data _________, all employees are required to use two-factor authentication.",
+    "options": ["A) integrity", "B) redundancy", "C) bandwidth", "D) interface"],
+    "correct_answer": "A) integrity",
+    "explanation": "Data 'integrity' refers to the accuracy and consistency of data, which is protected by security measures like two-factor authentication.",
+    "tags": ["data security", "authentication", "B2 vocabulary"]
+  },
+  {
+    "id": 5,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Error Identification",
+    "question_text": "Identify the error: 'The developer (A) who's code was reviewed yesterday (B) has been promoted (C) to a senior position (D).'",
+    "options": ["A", "B", "C", "D"],
+    "correct_answer": "A",
+    "explanation": "'Who's' is a contraction for 'who is'. The correct possessive pronoun referring to the developer is 'whose'.",
+    "tags": ["grammar", "pronouns", "software development"]
+  },
+  {
+    "id": 6,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Conditionals",
+    "question_text": "If I _________ enough time, I would have completed the project before the deadline.",
+    "options": ["A) have had", "B) had", "C) would have", "D) have"],
+    "correct_answer": "A) have had",
+    "explanation": "This is a Third Conditional sentence (If + Past Perfect, would have + Past Participle) expressing an unreal situation in the past.",
+    "tags": ["conditionals", "past perfect", "B2 grammar"]
+  },
+  {
+    "id": 7,
+    "category": "Vocabulary",
+    "cefr_level": "C1",
+    "question_type": "Word Choice",
+    "question_text": "The manager's speech was so _________ that it motivated the entire team to exceed their targets.",
+    "options": ["A) mundane", "B) eloquent", "C) ambiguous", "D) tedious"],
+    "correct_answer": "B) eloquent",
+    "explanation": "'Eloquent' means fluent or persuasive in speaking or writing, which fits the context of motivating a team.",
+    "tags": ["advanced vocabulary", "business English", "C1"]
+  },
+  {
+    "id": 8,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Prepositions",
+    "question_text": "She is very good _________ solving complex problems under pressure.",
+    "options": ["A) in", "B) at", "C) on", "D) for"],
+    "correct_answer": "B) at",
+    "explanation": "The correct preposition to use after 'good' when referring to a skill or ability is 'at' (good at doing something).",
+    "tags": ["prepositions", "A2 grammar", "skills"]
+  },
+  {
+    "id": 9,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Main Idea",
+    "question_text": "Read the text: 'Remote work has transformed the modern office. While it offers flexibility, it also presents challenges in team cohesion and communication.' What is the main idea?",
+    "options": [
+      "A) Remote work is entirely negative for businesses.",
+      "B) Remote work has both advantages and disadvantages.",
+      "C) Team cohesion is impossible in a remote setting.",
+      "D) Offices should completely eliminate remote work."
+    ],
+    "correct_answer": "B) Remote work has both advantages and disadvantages.",
+    "explanation": "The text explicitly mentions both a positive aspect ('flexibility') and negative aspects ('challenges in team cohesion'), indicating a balanced view.",
+    "tags": ["reading comprehension", "main idea", "B2"]
+  },
+  {
+    "id": 10,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Reported Speech",
+    "question_text": "Direct: 'I will finish the report tomorrow,' he said. \nReported: He said that he _________ finish the report the next day.",
+    "options": ["A) will", "B) would", "C) can", "D) shall"],
+    "correct_answer": "B) would",
+    "explanation": "In reported speech, 'will' changes to 'would' to maintain the past tense perspective of the reporting verb 'said'.",
+    "tags": ["reported speech", "B1 grammar", "future in the past"]
+  },
+  {
+    "id": 11,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Vocabulary",
+    "question_text": "The system experienced a sudden _________, causing all active user sessions to terminate unexpectedly.",
+    "options": ["A) upgrade", "B) outage", "C) backup", "D) protocol"],
+    "correct_answer": "B) outage",
+    "explanation": "An 'outage' is a period of time when a machine or system is not working or available, which explains the termination of user sessions.",
+    "tags": ["IT infrastructure", "troubleshooting", "B2 vocabulary"]
+  },
+  {
+    "id": 12,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Collocations",
+    "question_text": "The company decided to _________ a new marketing strategy to attract younger demographics.",
+    "options": ["A) make", "B) do", "C) implement", "D) build"],
+    "correct_answer": "C) implement",
+    "explanation": "'Implement' is the correct professional collocation for putting a strategy or plan into effect.",
+    "tags": ["business English", "collocations", "B2"]
+  },
+  {
+    "id": 13,
+    "category": "Grammar",
+    "cefr_level": "C1",
+    "question_type": "Inversion",
+    "question_text": "Not only _________ the software, but he also trained the entire staff on how to use it.",
+    "options": ["A) he developed", "B) did he develop", "C) he did develop", "D) developed he"],
+    "correct_answer": "B) did he develop",
+    "explanation": "When a sentence begins with a negative adverbial phrase like 'Not only', it requires subject-auxiliary inversion ('did he develop').",
+    "tags": ["inversion", "advanced grammar", "C1"]
+  },
+  {
+    "id": 14,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Reading Comprehension / Detail",
+    "question_text": "According to the Agile methodology, what is the primary purpose of a 'daily stand-up' meeting?",
+    "options": [
+      "A) To assign new, long-term projects to team members.",
+      "B) To conduct formal performance reviews of employees.",
+      "C) To briefly synchronize activities and identify any blockers.",
+      "D) To demonstrate the final product to external stakeholders."
+    ],
+    "correct_answer": "C) To briefly synchronize activities and identify any blockers.",
+    "explanation": "In Agile/Scrum, the daily stand-up is a short, time-boxed meeting for the team to synchronize and discuss impediments (blockers).",
+    "tags": ["Agile", "project management", "C1 reading"]
+  },
+  {
+    "id": 15,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Articles",
+    "question_text": "She is _________ honest professional who always delivers _________ high-quality work.",
+    "options": ["A) a / a", "B) an / a", "C) an / Ø (no article)", "D) the / the"],
+    "correct_answer": "C) an / Ø (no article)",
+    "explanation": "'Honest' starts with a vowel sound, so it takes 'an'. 'Work' in this context is an uncountable noun, so it takes no article (zero article).",
+    "tags": ["articles", "B2 grammar", "uncountable nouns"]
+  },
+  {
+    "id": 16,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Antonyms",
+    "question_text": "Choose the word that is OPPOSITE in meaning to 'ancient'.",
+    "options": ["A) historic", "B) modern", "C) traditional", "D) old"],
+    "correct_answer": "B) modern",
+    "explanation": "'Modern' means relating to the present or recent times, which is the direct opposite of 'ancient' (very old).",
+    "tags": ["antonyms", "A2 vocabulary", "basic adjectives"]
+  },
+  {
+    "id": 17,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Grammar (Modals)",
+    "question_text": "You _________ share your password with anyone, as it violates the company's security policy.",
+    "options": ["A) don't have to", "B) mustn't", "C) couldn't", "D) might not"],
+    "correct_answer": "B) mustn't",
+    "explanation": "'Mustn't' expresses a strong prohibition, which is required when talking about violating security policies.",
+    "tags": ["modals", "prohibition", "IT security"]
+  },
+  {
+    "id": 18,
+    "category": "Reading Comprehension",
+    "cefr_level": "C1",
+    "question_type": "Tone / Attitude",
+    "question_text": "Read the excerpt: 'The so-called 'revolutionary' app merely replicates features that have been available for a decade, albeit with a slightly more polished interface.' What is the author's tone?",
+    "options": ["A) Enthusiastic", "B) Objective", "C) Skeptical", "D) Nostalgic"],
+    "correct_answer": "C) Skeptical",
+    "explanation": "The use of 'so-called' and 'merely replicates' indicates doubt and a lack of belief in the app's claimed innovation, showing a skeptical tone.",
+    "tags": ["tone analysis", "C1 reading", "critical thinking"]
+  },
+  {
+    "id": 19,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Tenses",
+    "question_text": "While I _________ the database, the system suddenly crashed.",
+    "options": ["A) updated", "B) was updating", "C) have updated", "D) had updated"],
+    "correct_answer": "B) was updating",
+    "explanation": "The Past Continuous ('was updating') is used for a longer action in the past that was interrupted by a shorter action in the Past Simple ('crashed').",
+    "tags": ["past continuous", "interrupted actions", "B1 grammar"]
+  },
+  {
+    "id": 20,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Vocabulary in Context",
+    "question_text": "The new API allows third-party applications to _________ seamlessly with our existing software ecosystem.",
+    "options": ["A) isolate", "B) integrate", "C) deteriorate", "D) compile"],
+    "correct_answer": "B) integrate",
+    "explanation": "'Integrate' means to combine one thing with another so that they become a whole, which is the primary function of an API in a software ecosystem.",
+    "tags": ["software engineering", "APIs", "B2 vocabulary"]
+  }
+]

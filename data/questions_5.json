@@ -1,0 +1,237 @@
+[
+  {
+    "id": 81,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Past Simple",
+    "question_text": "Yesterday, I ___ to the supermarket to buy some milk and bread.",
+    "options": ["A) go", "B) went", "C) gone", "D) going"],
+    "correct_answer": "B) went",
+    "explanation": "The sentence refers to a completed action in the past ('Yesterday'), so we use the past simple form of the irregular verb 'go', which is 'went'.",
+    "tags": ["past simple", "irregular verbs", "A2 grammar"]
+  },
+  {
+    "id": 82,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Shopping",
+    "question_text": "Excuse me, how much ___ this laptop? I want to buy it for my work.",
+    "options": ["A) are", "B) is", "C) does", "D) has"],
+    "correct_answer": "B) is",
+    "explanation": "When asking about the price of a singular item ('this laptop'), we use the verb 'to be' in the singular form: 'How much is...?'",
+    "tags": ["shopping", "prices", "A2 vocabulary"]
+  },
+  {
+    "id": 83,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Basic Hardware",
+    "question_text": "I can't print my document. Is the printer ___ to the computer?",
+    "options": ["A) connected", "B) broken", "C) deleted", "D) clicked"],
+    "correct_answer": "A) connected",
+    "explanation": "When a device like a printer is not working, the first thing to check is if it is 'connected' (linked via cable or Wi-Fi) to the computer.",
+    "tags": ["IT basics", "troubleshooting", "A2 tech"]
+  },
+  {
+    "id": 84,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Future (Predictions)",
+    "question_text": "Look at those dark clouds! It ___ rain very soon.",
+    "options": ["A) will", "B) is going to", "C) is", "D) rains"],
+    "correct_answer": "B) is going to",
+    "explanation": "We use 'is going to' for predictions based on present evidence (the dark clouds we can see right now).",
+    "tags": ["future forms", "going to", "A2 grammar"]
+  },
+  {
+    "id": 85,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Travel",
+    "question_text": "We need to go to the ___ two hours before our flight to London.",
+    "options": ["A) station", "B) port", "C) airport", "D) garage"],
+    "correct_answer": "C) airport",
+    "explanation": "You go to an 'airport' to catch a flight on an airplane.",
+    "tags": ["travel", "transport", "A2 vocabulary"]
+  },
+  {
+    "id": 86,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Short Email",
+    "question_text": "Read the email: 'Hi Ali, I have a bad headache today. I will work from home. Please send the monthly report to my email.' What does the sender want Ali to do?",
+    "options": [
+      "A) Come to the office.",
+      "B) Send the report.",
+      "C) Buy some medicine.",
+      "D) Call the manager."
+    ],
+    "correct_answer": "B) Send the report.",
+    "explanation": "The email explicitly states: 'Please send the monthly report to my email.'",
+    "tags": ["reading comprehension", "emails", "A2"]
+  },
+  {
+    "id": 87,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Comparatives",
+    "question_text": "My new smartphone is much ___ than my old one; it opens apps instantly.",
+    "options": ["A) fast", "B) faster", "C) fastest", "D) more fast"],
+    "correct_answer": "B) faster",
+    "explanation": "We are comparing two things (new phone vs. old phone), so we use the comparative form. For short adjectives like 'fast', we add '-er'.",
+    "tags": ["comparatives", "adjectives", "A2 grammar"]
+  },
+  {
+    "id": 88,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Basic Actions",
+    "question_text": "Don't forget to ___ your computer before you leave the office to save electricity.",
+    "options": ["A) turn off", "B) turn on", "C) log in", "D) download"],
+    "correct_answer": "A) turn off",
+    "explanation": "To save electricity when leaving, you need to 'turn off' (switch off) the computer.",
+    "tags": ["IT phrasal verbs", "office routines", "A2 tech"]
+  },
+  {
+    "id": 89,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Jobs & Tech",
+    "question_text": "My brother is a ___. He writes code and builds websites for a living.",
+    "options": ["A) doctor", "B) developer", "C) driver", "D) designer"],
+    "correct_answer": "B) developer",
+    "explanation": "A person who writes code and builds websites/software is called a 'developer' (or software developer/web developer).",
+    "tags": ["jobs", "IT vocabulary", "A2"]
+  },
+  {
+    "id": 90,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Present Continuous for Future",
+    "question_text": "I can't meet you at 3 PM. I ___ my manager tomorrow morning at 10 AM.",
+    "options": ["A) meet", "B) met", "C) am meeting", "D) have met"],
+    "correct_answer": "C) am meeting",
+    "explanation": "We use the present continuous ('am meeting') to talk about fixed future arrangements and appointments.",
+    "tags": ["present continuous", "future arrangements", "A2 grammar"]
+  },
+  {
+    "id": 91,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Daily Routine",
+    "question_text": "I usually wake up at 7 AM, take a shower, and ___ my teeth before breakfast.",
+    "options": ["A) wash", "B) brush", "C) clean", "D) comb"],
+    "correct_answer": "B) brush",
+    "explanation": "The correct collocation for cleaning teeth is to 'brush' your teeth.",
+    "tags": ["daily routine", "collocations", "A2 vocabulary"]
+  },
+  {
+    "id": 92,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Modals of Obligation",
+    "question_text": "You ___ wear a seatbelt when you are in a car. It is the law.",
+    "options": ["A) might", "B) should", "C) must", "D) could"],
+    "correct_answer": "C) must",
+    "explanation": "We use 'must' to express strong obligation or rules/laws (like wearing a seatbelt).",
+    "tags": ["modal verbs", "obligation", "A2 grammar"]
+  },
+  {
+    "id": 93,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Internet Basics",
+    "question_text": "If you want to find information on the internet, you can use a ___ engine like Google.",
+    "options": ["A) search", "B) find", "C) look", "D) web"],
+    "correct_answer": "A) search",
+    "explanation": "The correct term for a tool used to find information on the internet is a 'search engine'.",
+    "tags": ["internet", "search engine", "A2 tech"]
+  },
+  {
+    "id": 94,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Signs and Notices",
+    "question_text": "Read the sign: 'WARNING: Do not touch the wires. High voltage.' Where are you most likely to see this sign?",
+    "options": [
+      "A) In a library.",
+      "B) Near electrical equipment.",
+      "C) At a restaurant.",
+      "D) In a swimming pool."
+    ],
+    "correct_answer": "B) Near electrical equipment.",
+    "explanation": "The words 'wires' and 'High voltage' indicate a danger related to electricity, so this sign belongs near electrical equipment.",
+    "tags": ["reading comprehension", "signs", "A2"]
+  },
+  {
+    "id": 95,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Conjunctions",
+    "question_text": "I didn't buy the blue shirt ___ it was too expensive.",
+    "options": ["A) so", "B) but", "C) because", "D) although"],
+    "correct_answer": "C) because",
+    "explanation": "We use 'because' to give a reason. The reason for not buying the shirt is that it was too expensive.",
+    "tags": ["conjunctions", "reasons", "A2 grammar"]
+  },
+  {
+    "id": 96,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Restaurants",
+    "question_text": "We finished our dinner. Can we have the ___, please? We want to pay.",
+    "options": ["A) menu", "B) bill", "C) receipt", "D) order"],
+    "correct_answer": "B) bill",
+    "explanation": "When you finish eating and want to pay at a restaurant, you ask for the 'bill' (or 'check' in American English).",
+    "tags": ["restaurants", "paying", "A2 vocabulary"]
+  },
+  {
+    "id": 97,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Email Fields",
+    "question_text": "When you write a new email, the email address of the person you are sending it to goes in the ___ field.",
+    "options": ["A) Subject", "B) To", "C) CC", "D) From"],
+    "correct_answer": "B) To",
+    "explanation": "The 'To' field is where you enter the primary recipient's email address.",
+    "tags": ["email", "IT vocabulary", "A2 tech"]
+  },
+  {
+    "id": 98,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Past Simple Questions",
+    "question_text": "___ you watch the football match on TV last night?",
+    "options": ["A) Do", "B) Are", "C) Did", "D) Were"],
+    "correct_answer": "C) Did",
+    "explanation": "To form a question in the past simple tense with a main verb ('watch'), we use the auxiliary verb 'Did'.",
+    "tags": ["past simple", "questions", "A2 grammar"]
+  },
+  {
+    "id": 99,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Directions",
+    "question_text": "To get to the bank, go straight and turn left ___ the traffic lights.",
+    "options": ["A) on", "B) in", "C) at", "D) to"],
+    "correct_answer": "C) at",
+    "explanation": "We use the preposition 'at' for specific points or locations, such as 'at the traffic lights' or 'at the corner'.",
+    "tags": ["prepositions", "directions", "A2 vocabulary"]
+  },
+  {
+    "id": 100,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Short Workplace Message",
+    "question_text": "Read the message on the office board: 'Team, the meeting is moved to Room 3. Start time is 2:00 PM instead of 1:00 PM.' What changed?",
+    "options": [
+      "A) Only the time.",
+      "B) Only the room.",
+      "C) The room and the time.",
+      "D) The people in the meeting."
+    ],
+    "correct_answer": "C) The room and the time.",
+    "explanation": "The message states the meeting is in 'Room 3' (room changed) and at '2:00 PM instead of 1:00 PM' (time changed).",
+    "tags": ["reading comprehension", "workplace messages", "A2"]
+  }
+]
