@@ -1,0 +1,23 @@
+============================================================
+  APPEND MERGE REPORT
+============================================================
+Timestamp:        2026-06-08T18:04:14
+Mode:             LIVE
+
+─ Summary ─
+  Existing questions:    736
+  New questions (input): 4
+  Successfully added:    0
+  Duplicates skipped:    4
+  Invalid (rejected):    0
+  Final total:           736
+
+─ Duplicates (first 20) ─
+  • If the system ___ properly yesterday, we ___ dealing with this outage right now.
+  • The shift from on-premise servers to a serverless infrastructure allowed the com
+  • The development team decided to address the technical debt before adding new fea
+  • She has drunk three cups of coffee since morning.
+
+─ Backup ─
+  E:\English\english-quiz-app\data\backup\questions_backup_20260608_180414.json
+============================================================

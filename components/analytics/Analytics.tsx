@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import {
   Bar,
   BarChart,
@@ -9,6 +9,8 @@ import {
   Legend,
   Line,
   LineChart,
+  PieChart,
+  Pie,
   ResponsiveContainer,
   Tooltip,
   XAxis,
@@ -23,8 +25,12 @@ import { useQuizStore } from "@/lib/store";
 import { getAllQuestions, getAllCategories } from "@/lib/questions";
 import { computeAggregate } from "@/lib/stats";
 import { formatDuration, formatPercent } from "@/lib/utils";
-import { Clock, Target, TrendingUp, AlertTriangle, RefreshCw } from "lucide-react";
+import { Clock, Target, TrendingUp, AlertTriangle, RefreshCw, Database, BookOpen, BarChart3, PieChart as PieIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
+import bankStats from "@/data/bank_stats.json";
+import { StatCard } from "@/components/dashboard/StatCard";
+
+const PIE_COLORS = ["#10b981", "#f43f5e", "#f59e0b", "#6366f1", "#8b5cf6", "#06b6d4", "#ec4899", "#84cc16"];
 
 /* -------------------------------------------------------------------------- */
 /*  Category-accuracy chart helpers                                            */
@@ -255,8 +261,53 @@ export function Analytics() {
 
   const hasData = stats.solved > 0;
 
+  // Tab state: "progress" | "bank"
+  const [activeTab, setActiveTab] = useState<"progress" | "bank">("progress");
+
+  // Bank stats data
+  const bankCats = Object.entries(bankStats.categories).map(([name, value]) => ({ name, value }));
+  const bankTotal = bankStats.total_unique_questions;
+  const bankAnswerDist = Object.entries(bankStats.options_distribution).map(([letter, count]) => ({
+    letter,
+    count,
+    pct: Math.round((count / Math.max(bankTotal, 1)) * 100),
+  }));
+
   return (
     <div className="space-y-6">
+      {/* Tab Navigation */}
+      <div className="flex gap-1 p-1 bg-slate-100 dark:bg-slate-800/80 rounded-xl w-fit">
+        <button
+          onClick={() => setActiveTab("progress")}
+          className={cn(
+            "px-4 py-2 rounded-lg text-sm font-medium transition-all duration-150",
+            activeTab === "progress"
+              ? "bg-white dark:bg-slate-700 text-slate-900 dark:text-white shadow-sm"
+              : "text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700/60 hover:text-slate-900 dark:hover:text-white"
+          )}
+        >
+          <TrendingUp className="w-4 h-4 inline mr-1.5" />
+          My Progress
+        </button>
+        <button
+          onClick={() => setActiveTab("bank")}
+          className={cn(
+            "px-4 py-2 rounded-lg text-sm font-medium transition-all duration-150",
+            activeTab === "bank"
+              ? "bg-white dark:bg-slate-700 text-slate-900 dark:text-white shadow-sm"
+              : "text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700/60 hover:text-slate-900 dark:hover:text-white"
+          )}
+        >
+          <Database className="w-4 h-4 inline mr-1.5" />
+          Question Bank
+        </button>
+      </div>
+
+      {/* ═══════════════════════════════════════════════════════════════ */}
+      {/*  TAB: My Progress                                             */}
+      {/* ═══════════════════════════════════════════════════════════════ */}
+      {activeTab === "progress" && (
+        <>
       {/* Hero / empty state */}
       {!hasData && !lastSession && (
         <Card>
@@ -612,6 +663,200 @@ export function Analytics() {
             </div>
           </CardBody>
         </Card>
+      )}
+        </>
+      )}
+
+      {/* ═══════════════════════════════════════════════════════════════ */}
+      {/*  TAB: Question Bank                                           */}
+      {/* ═══════════════════════════════════════════════════════════════ */}
+      {activeTab === "bank" && (
+        <>
+          {/* Hero stats */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <StatCard
+              label="Total Questions"
+              value={bankTotal.toLocaleString()}
+              icon={<BookOpen className="w-4 h-4" />}
+              tone="primary"
+            />
+            <StatCard
+              label="Parsed"
+              value={bankStats.total_parsed.toLocaleString()}
+              icon={<Database className="w-4 h-4" />}
+              tone="neutral"
+              hint="from all source files"
+            />
+            <StatCard
+              label="Duplicates Removed"
+              value={bankStats.duplicates_removed.toLocaleString()}
+              icon={<AlertTriangle className="w-4 h-4" />}
+              tone="amber"
+            />
+            <StatCard
+              label="Categories"
+              value={Object.keys(bankStats.categories).length.toString()}
+              icon={<BarChart3 className="w-4 h-4" />}
+              tone="success"
+            />
+          </div>
+
+          {/* Charts row */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            {/* Category distribution pie */}
+            <Card>
+              <CardHeader>
+                <CardTitle>Questions by Category</CardTitle>
+                <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
+                  Distribution of unique questions across topics.
+                </p>
+              </CardHeader>
+              <CardBody>
+                <div className="h-72">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <PieChart>
+                      <defs>
+                        {bankCats.map((_, i) => (
+                          <linearGradient key={i} id={`bank-pie-${i}`} x1="0" y1="0" x2="1" y2="1">
+                            <stop offset="0%" stopColor={PIE_COLORS[i % PIE_COLORS.length]} stopOpacity={1} />
+                            <stop offset="100%" stopColor={PIE_COLORS[i % PIE_COLORS.length]} stopOpacity={0.7} />
+                          </linearGradient>
+                        ))}
+                      </defs>
+                      <Pie
+                        data={bankCats}
+                        cx="50%"
+                        cy="45%"
+                        innerRadius={50}
+                        outerRadius={90}
+                        paddingAngle={3}
+                        stroke="#fff"
+                        strokeWidth={2}
+                        dataKey="value"
+                        animationDuration={800}
+                      >
+                        {bankCats.map((_, i) => (
+                          <Cell key={i} fill={`url(#bank-pie-${i})`} />
+                        ))}
+                      </Pie>
+                      <Tooltip
+                        contentStyle={{
+                          background: "rgba(15,23,42,0.95)",
+                          border: "1px solid rgba(99,102,241,0.3)",
+                          borderRadius: 12,
+                          color: "white",
+                          fontSize: 12,
+                          padding: "8px 12px",
+                        }}
+                        formatter={(value: number, name: string) => [`${value.toLocaleString()} questions`, name]}
+                      />
+                      <Legend
+                        verticalAlign="bottom"
+                        iconType="circle"
+                        wrapperStyle={{ fontSize: 12, color: "currentColor" }}
+                        formatter={(value: string) => (
+                          <span className="text-slate-700 dark:text-slate-300">{value}</span>
+                        )}
+                      />
+                    </PieChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardBody>
+            </Card>
+
+            {/* Answer distribution bar */}
+            <Card>
+              <CardHeader>
+                <CardTitle>Answer Distribution</CardTitle>
+                <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
+                  How many questions have each letter as the correct answer.
+                </p>
+              </CardHeader>
+              <CardBody>
+                <div className="h-72">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <BarChart data={bankAnswerDist} margin={{ top: 8, right: 16, left: 0, bottom: 8 }}>
+                      <defs>
+                        {bankAnswerDist.map((_, i) => (
+                          <linearGradient key={i} id={`ans-bar-${i}`} x1="0" y1="0" x2="0" y2="1">
+                            <stop offset="0%" stopColor={PIE_COLORS[i % PIE_COLORS.length]} stopOpacity={1} />
+                            <stop offset="100%" stopColor={PIE_COLORS[i % PIE_COLORS.length]} stopOpacity={0.55} />
+                          </linearGradient>
+                        ))}
+                      </defs>
+                      <CartesianGrid strokeDasharray="3 3" stroke="currentColor" className="text-slate-200 dark:text-slate-800" vertical={false} />
+                      <XAxis dataKey="letter" tick={{ fontSize: 13, fill: "currentColor", fontWeight: 700 }} className="text-slate-500 dark:text-slate-400" axisLine={false} tickLine={false} />
+                      <YAxis tick={{ fontSize: 11, fill: "currentColor" }} className="text-slate-500 dark:text-slate-400" axisLine={false} tickLine={false} allowDecimals={false} width={32} />
+                      <Tooltip
+                        contentStyle={{
+                          background: "rgba(15,23,42,0.95)",
+                          border: "1px solid rgba(99,102,241,0.3)",
+                          borderRadius: 12,
+                          color: "white",
+                          fontSize: 12,
+                          padding: "8px 12px",
+                        }}
+                        formatter={(value: number) => [`${value.toLocaleString()} questions`, ""]}
+                      />
+                      <Bar dataKey="count" radius={[8, 8, 0, 0]} animationDuration={800}>
+                        {bankAnswerDist.map((_, i) => (
+                          <Cell key={i} fill={`url(#ans-bar-${i})`} />
+                        ))}
+                      </Bar>
+                    </BarChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardBody>
+            </Card>
+          </div>
+
+          {/* Category breakdown list */}
+          <Card>
+            <CardHeader>
+              <CardTitle>Category Breakdown</CardTitle>
+              <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
+                Full list of categories with question counts.
+              </p>
+            </CardHeader>
+            <CardBody className="p-4">
+              <div className="space-y-1">
+                {bankCats
+                  .sort((a, b) => b.value - a.value)
+                  .map((cat, i) => {
+                    const pct = Math.round((cat.value / bankTotal) * 100);
+                    return (
+                      <div
+                        key={cat.name}
+                        className="group flex items-center gap-3 px-3 py-2.5 rounded-xl transition-all duration-150 hover:bg-slate-100 dark:hover:bg-slate-700/50 cursor-default"
+                      >
+                        <div
+                          className="w-3 h-3 rounded-full shrink-0 transition-transform duration-150 group-hover:scale-125"
+                          style={{ background: PIE_COLORS[i % PIE_COLORS.length] }}
+                        />
+                        <span className="flex-1 text-sm font-medium text-slate-800 dark:text-slate-200 group-hover:text-slate-900 dark:group-hover:text-white transition-colors">
+                          {cat.name}
+                        </span>
+                        <span className="text-sm font-bold text-slate-900 dark:text-white tabular-nums min-w-[2ch] text-right">
+                          {cat.value}
+                        </span>
+                        <span className="text-xs font-medium text-slate-500 dark:text-slate-400 group-hover:text-slate-700 dark:group-hover:text-slate-200 w-12 text-right tabular-nums transition-colors">
+                          {pct}%
+                        </span>
+                      </div>
+                    );
+                  })}
+              </div>
+              <div className="mt-4 pt-3 border-t border-slate-200 dark:border-slate-700 flex items-center justify-between text-sm">
+                <span className="text-slate-500 dark:text-slate-400">
+                  Generated: {bankStats.generated_at}
+                </span>
+                <span className="font-bold text-slate-900 dark:text-white">
+                  {bankTotal.toLocaleString()} total
+                </span>
+              </div>
+            </CardBody>
+          </Card>
+        </>
       )}
     </div>
   );

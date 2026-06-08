@@ -44,29 +44,35 @@ export function StatCard({ label, value, icon, tone = "neutral", hint }: StatCar
     <motion.div
       initial={{ opacity: 0, y: 8 }}
       animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.3 }}
+      whileHover={{ y: -3 }}
+      transition={{ type: "spring", stiffness: 400, damping: 25 }}
       className={cn(
-        "relative overflow-hidden rounded-2xl border p-5 shadow-soft",
+        "group relative overflow-hidden rounded-2xl border p-5",
         "bg-white/80 border-slate-200/70",
         "dark:bg-slate-900/60 dark:border-slate-800/70",
-        "backdrop-blur-sm",
+        "backdrop-blur-sm transition-all duration-200",
+        "hover:border-slate-300 dark:hover:border-slate-600",
+        "hover:shadow-lg hover:shadow-slate-200/50 dark:hover:shadow-slate-900/50",
+        "cursor-default",
       )}
     >
       <div className="flex items-start justify-between">
         <div>
-          <p className="text-xs font-medium uppercase tracking-wide text-slate-500 dark:text-slate-400">
+          <p className="text-xs font-medium uppercase tracking-wide text-slate-500 dark:text-slate-400 group-hover:text-slate-600 dark:group-hover:text-slate-300 transition-colors">
             {label}
           </p>
-          <p className={cn("mt-2 text-3xl font-bold", t.value)}>
+          <p className={cn("mt-2 text-3xl font-bold transition-colors", t.value)}>
             {value}
           </p>
           {hint && (
-            <p className="mt-1 text-xs text-slate-500 dark:text-slate-400">
+            <p className="mt-1 text-xs text-slate-500 dark:text-slate-400 group-hover:text-slate-600 dark:group-hover:text-slate-300 transition-colors">
               {hint}
             </p>
           )}
         </div>
-        <div className={cn("rounded-xl p-2.5", t.iconWrap)}>{icon}</div>
+        <div className={cn("rounded-xl p-2.5 transition-transform duration-200 group-hover:scale-110", t.iconWrap)}>
+          {icon}
+        </div>
       </div>
     </motion.div>
   );

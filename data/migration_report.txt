@@ -1,18 +1,18 @@
 ============================================================
   Question-bank consolidation report
 ============================================================
-Timestamp:           2026-06-07T16:39:09.951Z
+Timestamp:           2026-06-08T16:01:39.515Z
 
 ─ Files ─
-  Source files read:           15
+  Source files read:           21
   Source files skipped:        0
 
 ─ Entries ─
-  Read from disk:              570
+  Read from disk:              862
   Rejected (invalid):          0
-  Duplicates dropped:          67
-  IDs remapped:                283
-  Kept in output:              503
+  Duplicates dropped:          130
+  IDs remapped:                512
+  Kept in output:              732
 
 ─ Per-file breakdown ─
   questions_1.json             kept=20  rejected=0
@@ -30,12 +30,18 @@ Timestamp:           2026-06-07T16:39:09.951Z
   questions_13.json            kept=50  rejected=0
   questions_14.json            kept=50  rejected=0
   questions_15.json            kept=50  rejected=0
+  questions_16.json            kept=50  rejected=0
+  questions_17.json            kept=50  rejected=0
+  questions_18.json            kept=50  rejected=0
+  questions_19.json            kept=50  rejected=0
+  questions_20.json            kept=50  rejected=0
+  questions_21.json            kept=42  rejected=0
 
 ─ Output ─
   E:\English\english-quiz-app\data\questions.json
 
 ─ Backup of old output ─
-  E:\English\english-quiz-app\data\backup\questions_backup_20260607_183909.json
+  E:\English\english-quiz-app\data\backup\questions_backup_20260608_180139.json
 
 ─ Backup of source files ─
   E:\English\english-quiz-app\data\backup\source_questions_*

@@ -10085,5 +10085,4657 @@
       "business/IT context",
       "C2"
     ]
+  },
+  {
+    "id": 504,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Verb 'to be'",
+    "question_text": "My brother and I ___ students at the same school.",
+    "options": [
+      "A) am",
+      "B) is",
+      "C) are",
+      "D) be"
+    ],
+    "correct_answer": "C) are",
+    "explanation": "The subject 'My brother and I' is plural (we), so we use the verb 'are'.",
+    "tags": [
+      "verb to be",
+      "plurals",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 505,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Food & Drink",
+    "question_text": "I am very thirsty. Can I have a glass of ___, please?",
+    "options": [
+      "A) bread",
+      "B) water",
+      "C) rice",
+      "D) cheese"
+    ],
+    "correct_answer": "B) water",
+    "explanation": "'Water' is a drink, which you need when you are thirsty. The other options are solid foods.",
+    "tags": [
+      "food",
+      "drinks",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 506,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Basic Hardware",
+    "question_text": "To write a letter on the computer, you need to use the ___.",
+    "options": [
+      "A) mouse",
+      "B) screen",
+      "C) keyboard",
+      "D) printer"
+    ],
+    "correct_answer": "C) keyboard",
+    "explanation": "A 'keyboard' is the hardware component with buttons that you use for typing text and letters.",
+    "tags": [
+      "IT basics",
+      "hardware",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 507,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Present Simple",
+    "question_text": "She ___ to music every evening before bed.",
+    "options": [
+      "A) listen",
+      "B) listens",
+      "C) listening",
+      "D) listened"
+    ],
+    "correct_answer": "B) listens",
+    "explanation": "In the present simple tense, we add 's' to the verb when the subject is third-person singular ('She').",
+    "tags": [
+      "present simple",
+      "third-person",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 508,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Family Members",
+    "question_text": "My father's brother is my ___.",
+    "options": [
+      "A) aunt",
+      "B) cousin",
+      "C) uncle",
+      "D) grandfather"
+    ],
+    "correct_answer": "C) uncle",
+    "explanation": "The brother of your father or mother is called your 'uncle'.",
+    "tags": [
+      "family tree",
+      "relationships",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 509,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Basic Actions",
+    "question_text": "Please ___ the 'Save' button so you don't lose your work.",
+    "options": [
+      "A) click",
+      "B) type",
+      "C) read",
+      "D) listen"
+    ],
+    "correct_answer": "A) click",
+    "explanation": "To select a button on a computer screen, you use the mouse to 'click' it.",
+    "tags": [
+      "IT actions",
+      "mouse",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 510,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Articles (a/an)",
+    "question_text": "He wants to eat ___ orange for breakfast.",
+    "options": [
+      "A) a",
+      "B) an",
+      "C) the",
+      "D) some"
+    ],
+    "correct_answer": "B) an",
+    "explanation": "The word 'orange' starts with a vowel sound, so we use the indefinite article 'an'.",
+    "tags": [
+      "articles",
+      "a and an",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 511,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Hardware",
+    "question_text": "I cannot hear the video. Are the ___ turned on?",
+    "options": [
+      "A) speakers",
+      "B) keyboards",
+      "C) mice",
+      "D) screens"
+    ],
+    "correct_answer": "A) speakers",
+    "explanation": "'Speakers' are the hardware components that produce sound so you can hear audio.",
+    "tags": [
+      "hardware",
+      "audio",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 512,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Basic Actions",
+    "question_text": "If you want to see a picture clearly, you can ___ it.",
+    "options": [
+      "A) delete",
+      "B) zoom in",
+      "C) turn off",
+      "D) unplug"
+    ],
+    "correct_answer": "B) zoom in",
+    "explanation": "To make an image or text appear larger on the screen, you 'zoom in'.",
+    "tags": [
+      "IT actions",
+      "screen",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 513,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Transport",
+    "question_text": "I go to work by ___ because it is cheap and eco-friendly.",
+    "options": [
+      "A) bus",
+      "B) bed",
+      "C) house",
+      "D) tree"
+    ],
+    "correct_answer": "A) bus",
+    "explanation": "A 'bus' is a common form of public transportation used to travel around a city.",
+    "tags": [
+      "transport",
+      "travel",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 514,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Past Simple (Irregular)",
+    "question_text": "I ___ my keys yesterday, so I couldn't enter the house.",
+    "options": [
+      "A) lose",
+      "B) lost",
+      "C) losing",
+      "D) loses"
+    ],
+    "correct_answer": "B) lost",
+    "explanation": "The word 'yesterday' indicates the past. The past simple of 'lose' is 'lost'.",
+    "tags": [
+      "past simple",
+      "irregular verbs",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 515,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Past Continuous",
+    "question_text": "While I ___ TV, the phone rang.",
+    "options": [
+      "A) watch",
+      "B) watched",
+      "C) was watching",
+      "D) am watching"
+    ],
+    "correct_answer": "C) was watching",
+    "explanation": "We use the past continuous ('was watching') for a longer action in the past that was interrupted by a shorter action ('rang').",
+    "tags": [
+      "past continuous",
+      "interrupted actions",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 516,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Health",
+    "question_text": "I have a terrible ___. I need to see a dentist immediately.",
+    "options": [
+      "A) headache",
+      "B) stomachache",
+      "C) toothache",
+      "D) backache"
+    ],
+    "correct_answer": "C) toothache",
+    "explanation": "A 'toothache' is a pain in your tooth, which is why you need to see a dentist.",
+    "tags": [
+      "health",
+      "body parts",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 517,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Hardware",
+    "question_text": "My ___ is not working, so I can't print this document.",
+    "options": [
+      "A) printer",
+      "B) mouse",
+      "C) keyboard",
+      "D) screen"
+    ],
+    "correct_answer": "A) printer",
+    "explanation": "A 'printer' is the hardware device used to produce physical copies of documents.",
+    "tags": [
+      "hardware",
+      "printing",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 518,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Future (Predictions)",
+    "question_text": "Look at those dark clouds! It ___ rain soon.",
+    "options": [
+      "A) will",
+      "B) is going to",
+      "C) is",
+      "D) rains"
+    ],
+    "correct_answer": "B) is going to",
+    "explanation": "We use 'is going to' for predictions based on present evidence that we can see right now (the dark clouds).",
+    "tags": [
+      "future forms",
+      "going to",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 519,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Jobs",
+    "question_text": "My sister is a ___. She works in a hospital and helps doctors.",
+    "options": [
+      "A) teacher",
+      "B) nurse",
+      "C) driver",
+      "D) pilot"
+    ],
+    "correct_answer": "B) nurse",
+    "explanation": "A 'nurse' is a healthcare professional who works in a hospital and assists doctors.",
+    "tags": [
+      "jobs",
+      "professions",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 520,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Comparatives",
+    "question_text": "This new laptop is much ___ than my old one.",
+    "options": [
+      "A) fast",
+      "B) faster",
+      "C) fastest",
+      "D) more fast"
+    ],
+    "correct_answer": "B) faster",
+    "explanation": "We use the comparative form ('faster') to compare two things. For short adjectives, we add '-er'.",
+    "tags": [
+      "comparatives",
+      "adjectives",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 521,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Internet Basics",
+    "question_text": "I need to connect to the ___. What is the password?",
+    "options": [
+      "A) Wi-Fi",
+      "B) printer",
+      "C) mouse",
+      "D) keyboard"
+    ],
+    "correct_answer": "A) Wi-Fi",
+    "explanation": "'Wi-Fi' is the wireless network connection that requires a password to access the internet.",
+    "tags": [
+      "internet",
+      "Wi-Fi",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 522,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Modals of Obligation",
+    "question_text": "You ___ wear a uniform at this school. It's a strict rule.",
+    "options": [
+      "A) can",
+      "B) must",
+      "C) might",
+      "D) could"
+    ],
+    "correct_answer": "B) must",
+    "explanation": "We use 'must' to express strong obligation or strict rules.",
+    "tags": [
+      "modal verbs",
+      "obligation",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 523,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Travel",
+    "question_text": "We need to buy our ___ before we go to the airport.",
+    "options": [
+      "A) tickets",
+      "B) menus",
+      "C) receipts",
+      "D) recipes"
+    ],
+    "correct_answer": "A) tickets",
+    "explanation": "'Tickets' are what you need to buy to travel on a plane, train, or bus.",
+    "tags": [
+      "travel",
+      "airport",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 524,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Prepositions of Time",
+    "question_text": "My birthday is ___ July.",
+    "options": [
+      "A) in",
+      "B) on",
+      "C) at",
+      "D) to"
+    ],
+    "correct_answer": "A) in",
+    "explanation": "We use the preposition 'in' for months, years, and seasons.",
+    "tags": [
+      "prepositions of time",
+      "in",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 525,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Software",
+    "question_text": "I need to ___ a new program to edit my photos.",
+    "options": [
+      "A) download",
+      "B) delete",
+      "C) break",
+      "D) wash"
+    ],
+    "correct_answer": "A) download",
+    "explanation": "To 'download' means to get software or files from the internet and save them to your device.",
+    "tags": [
+      "software",
+      "apps",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 526,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Shopping",
+    "question_text": "I want to ___ this shirt, but they don't have my size.",
+    "options": [
+      "A) buy",
+      "B) sell",
+      "C) return",
+      "D) break"
+    ],
+    "correct_answer": "A) buy",
+    "explanation": "To 'buy' means to get something by paying money for it.",
+    "tags": [
+      "shopping",
+      "verbs",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 527,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Conjunctions",
+    "question_text": "I stayed at home ___ it was raining heavily.",
+    "options": [
+      "A) so",
+      "B) but",
+      "C) because",
+      "D) although"
+    ],
+    "correct_answer": "C) because",
+    "explanation": "We use 'because' to give a reason. The reason for staying at home is the heavy rain.",
+    "tags": [
+      "conjunctions",
+      "reasons",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 528,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Short Email",
+    "question_text": "Read the email: 'Hi Tom, the meeting is moved to Room 5. See you at 10 AM.' Where is the meeting?",
+    "options": [
+      "A) Room 1",
+      "B) Room 5",
+      "C) Room 10",
+      "D) Room 15"
+    ],
+    "correct_answer": "B) Room 5",
+    "explanation": "The email explicitly states the location of the meeting is 'Room 5'.",
+    "tags": [
+      "reading comprehension",
+      "emails",
+      "A2"
+    ]
+  },
+  {
+    "id": 529,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Past Simple Questions",
+    "question_text": "___ you finish your homework last night?",
+    "options": [
+      "A) Do",
+      "B) Are",
+      "C) Did",
+      "D) Were"
+    ],
+    "correct_answer": "C) Did",
+    "explanation": "To form a question in the past simple tense with a main verb ('finish'), we use the auxiliary verb 'Did'.",
+    "tags": [
+      "past simple",
+      "questions",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 530,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Food",
+    "question_text": "I am a vegetarian, so I don't eat ___.",
+    "options": [
+      "A) meat",
+      "B) vegetables",
+      "C) fruit",
+      "D) bread"
+    ],
+    "correct_answer": "A) meat",
+    "explanation": "A 'vegetarian' is a person who does not eat meat or fish.",
+    "tags": [
+      "food",
+      "diet",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 531,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Basic Actions",
+    "question_text": "Please ___ the file before you send it to me.",
+    "options": [
+      "A) attach",
+      "B) delete",
+      "C) break",
+      "D) wash"
+    ],
+    "correct_answer": "A) attach",
+    "explanation": "To 'attach' a file means to include it with your email message.",
+    "tags": [
+      "email",
+      "actions",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 532,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Superlatives",
+    "question_text": "This is the ___ book I have ever read.",
+    "options": [
+      "A) good",
+      "B) better",
+      "C) best",
+      "D) most good"
+    ],
+    "correct_answer": "C) best",
+    "explanation": "We use the superlative form ('best') to compare one thing with everything else in its group. The superlative of 'good' is 'best'.",
+    "tags": [
+      "superlatives",
+      "adjectives",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 533,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Weather",
+    "question_text": "It's very ___ today. Let's go to the beach and swim.",
+    "options": [
+      "A) cold",
+      "B) hot",
+      "C) wet",
+      "D) snowy"
+    ],
+    "correct_answer": "B) hot",
+    "explanation": "When it's 'hot', it's a good day to go to the beach and swim.",
+    "tags": [
+      "weather",
+      "adjectives",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 534,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "There is / There are",
+    "question_text": "___ many people at the party last night.",
+    "options": [
+      "A) There was",
+      "B) There were",
+      "C) They was",
+      "D) It were"
+    ],
+    "correct_answer": "B) There were",
+    "explanation": "We use 'There were' for plural nouns ('many people') in the past tense.",
+    "tags": [
+      "there is/are",
+      "plurals",
+      "past tense",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 535,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Troubleshooting",
+    "question_text": "The internet is very slow. Let's ___ the router.",
+    "options": [
+      "A) restart",
+      "B) eat",
+      "C) wash",
+      "D) draw"
+    ],
+    "correct_answer": "A) restart",
+    "explanation": "To 'restart' the router (turn it off and on again) is a common way to fix slow internet.",
+    "tags": [
+      "IT troubleshooting",
+      "verbs",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 536,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Daily Routine",
+    "question_text": "I always ___ my teeth before I go to bed.",
+    "options": [
+      "A) wash",
+      "B) brush",
+      "C) clean",
+      "D) comb"
+    ],
+    "correct_answer": "B) brush",
+    "explanation": "The correct collocation for cleaning teeth is to 'brush' your teeth.",
+    "tags": [
+      "daily routine",
+      "collocations",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 537,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Object Pronouns",
+    "question_text": "I need that book. Can you give ___ to me?",
+    "options": [
+      "A) him",
+      "B) her",
+      "C) it",
+      "D) them"
+    ],
+    "correct_answer": "C) it",
+    "explanation": "'It' is the object pronoun used to replace a singular, non-human noun ('that book').",
+    "tags": [
+      "object pronouns",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 538,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Sign",
+    "question_text": "Read the sign: 'SILENCE. Hospital Zone.' What does it mean?",
+    "options": [
+      "A) You can play music here.",
+      "B) You must not make noise here.",
+      "C) You can shout here.",
+      "D) You must buy a hospital."
+    ],
+    "correct_answer": "B) You must not make noise here.",
+    "explanation": "'SILENCE' means you must be quiet and not make any noise.",
+    "tags": [
+      "reading comprehension",
+      "signs",
+      "A2"
+    ]
+  },
+  {
+    "id": 539,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Clothing",
+    "question_text": "It's raining outside. Don't forget your ___.",
+    "options": [
+      "A) sunglasses",
+      "B) umbrella",
+      "C) swimsuit",
+      "D) shorts"
+    ],
+    "correct_answer": "B) umbrella",
+    "explanation": "An 'umbrella' is used to protect yourself from the rain.",
+    "tags": [
+      "clothing",
+      "accessories",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 540,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Quantifiers",
+    "question_text": "How ___ apples do we need for the pie?",
+    "options": [
+      "A) much",
+      "B) many",
+      "C) a few",
+      "D) a little"
+    ],
+    "correct_answer": "B) many",
+    "explanation": "'Apples' is a countable plural noun, so we use 'many' to ask about the quantity.",
+    "tags": [
+      "quantifiers",
+      "countable nouns",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 541,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Mobile Phones",
+    "question_text": "My phone battery is dead. Do you have a ___ I can use?",
+    "options": [
+      "A) mouse",
+      "B) charger",
+      "C) keyboard",
+      "D) screen"
+    ],
+    "correct_answer": "B) charger",
+    "explanation": "A 'charger' is the device used to put power back into a dead battery.",
+    "tags": [
+      "mobile phones",
+      "accessories",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 542,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Past Simple (Verb 'to be')",
+    "question_text": "The weather ___ very cold yesterday.",
+    "options": [
+      "A) were",
+      "B) is",
+      "C) was",
+      "D) are"
+    ],
+    "correct_answer": "C) was",
+    "explanation": "The subject 'The weather' is singular, and the time is past ('yesterday'), so we use 'was'.",
+    "tags": [
+      "past simple",
+      "verb to be",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 543,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Places in the City",
+    "question_text": "I need to send a letter. Where is the nearest ___?",
+    "options": [
+      "A) bakery",
+      "B) post office",
+      "C) library",
+      "D) cinema"
+    ],
+    "correct_answer": "B) post office",
+    "explanation": "A 'post office' is the place where you go to send letters and packages.",
+    "tags": [
+      "city places",
+      "services",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 544,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Present Continuous for Future",
+    "question_text": "I can't meet you tomorrow. I ___ my dentist at 11 AM.",
+    "options": [
+      "A) see",
+      "B) saw",
+      "C) am seeing",
+      "D) have seen"
+    ],
+    "correct_answer": "C) am seeing",
+    "explanation": "We use the present continuous ('am seeing') to talk about fixed future arrangements and appointments.",
+    "tags": [
+      "present continuous",
+      "future arrangements",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 545,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Short Message",
+    "question_text": "Read the text message: 'Hi Mom, I missed the bus. I will be 20 minutes late.' Why is he late?",
+    "options": [
+      "A) He woke up late.",
+      "B) He missed the bus.",
+      "C) He is walking.",
+      "D) He is eating."
+    ],
+    "correct_answer": "B) He missed the bus.",
+    "explanation": "The message explicitly states the reason for being late is 'I missed the bus'.",
+    "tags": [
+      "reading comprehension",
+      "messages",
+      "A2"
+    ]
+  },
+  {
+    "id": 546,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Feelings",
+    "question_text": "I am very ___ because I passed my driving test!",
+    "options": [
+      "A) sad",
+      "B) happy",
+      "C) angry",
+      "D) tired"
+    ],
+    "correct_answer": "B) happy",
+    "explanation": "Passing a driving test is a positive event, which makes you feel 'happy'.",
+    "tags": [
+      "feelings",
+      "adjectives",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 547,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Used to",
+    "question_text": "I ___ live in London, but now I live in Paris.",
+    "options": [
+      "A) use to",
+      "B) used to",
+      "C) am used to",
+      "D) was used to"
+    ],
+    "correct_answer": "B) used to",
+    "explanation": "'Used to' + base verb is used to talk about past habits or states that are no longer true.",
+    "tags": [
+      "used to",
+      "past habits",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 548,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Email",
+    "question_text": "I sent you an important document. Please check your ___ folder.",
+    "options": [
+      "A) spam",
+      "B) attachments",
+      "C) inbox",
+      "D) trash"
+    ],
+    "correct_answer": "C) inbox",
+    "explanation": "The 'inbox' is the main folder where you receive new emails.",
+    "tags": [
+      "email",
+      "folders",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 549,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Transport",
+    "question_text": "The ___ takes 30 minutes to get to the city center from here.",
+    "options": [
+      "A) train",
+      "B) bed",
+      "C) house",
+      "D) tree"
+    ],
+    "correct_answer": "A) train",
+    "explanation": "A 'train' is a form of public transportation.",
+    "tags": [
+      "transport",
+      "travel",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 550,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Adverbs of Frequency",
+    "question_text": "She ___ goes to the gym; she is very lazy.",
+    "options": [
+      "A) always",
+      "B) never",
+      "C) usually",
+      "D) often"
+    ],
+    "correct_answer": "B) never",
+    "explanation": "The word 'never' means 'at no time'. Since she is lazy, she doesn't go to the gym.",
+    "tags": [
+      "adverbs of frequency",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 551,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Notice",
+    "question_text": "Read the notice: 'CAFE CLOSED FOR RENOVATION. We will reopen on Monday.' When will the cafe open?",
+    "options": [
+      "A) Today",
+      "B) Tomorrow",
+      "C) On Monday",
+      "D) On Friday"
+    ],
+    "correct_answer": "C) On Monday",
+    "explanation": "The notice explicitly states they will reopen 'on Monday'.",
+    "tags": [
+      "reading comprehension",
+      "notices",
+      "A2"
+    ]
+  },
+  {
+    "id": 552,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "House",
+    "question_text": "I am going to cook dinner. I need to go to the ___.",
+    "options": [
+      "A) bedroom",
+      "B) bathroom",
+      "C) kitchen",
+      "D) garage"
+    ],
+    "correct_answer": "C) kitchen",
+    "explanation": "The 'kitchen' is the room in a house where you cook food.",
+    "tags": [
+      "house rooms",
+      "daily life",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 553,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "First Conditional",
+    "question_text": "If it ___ tomorrow, we will stay at home.",
+    "options": [
+      "A) rain",
+      "B) rains",
+      "C) will rain",
+      "D) raining"
+    ],
+    "correct_answer": "B) rains",
+    "explanation": "In the First Conditional, the 'if' clause takes the present simple tense ('rains').",
+    "tags": [
+      "conditionals",
+      "first conditional",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 554,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Time",
+    "question_text": "I have a meeting at a ___ to ten (9:45).",
+    "options": [
+      "A) half",
+      "B) quarter",
+      "C) minute",
+      "D) second"
+    ],
+    "correct_answer": "B) quarter",
+    "explanation": "In telling time, 'a quarter to' means 15 minutes before the hour (9:45).",
+    "tags": [
+      "time",
+      "telling time",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 555,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Possessive Adjectives",
+    "question_text": "Is this ___ jacket, or is it mine?",
+    "options": [
+      "A) you",
+      "B) yours",
+      "C) your",
+      "D) you're"
+    ],
+    "correct_answer": "C) your",
+    "explanation": "'Your' is a possessive adjective used before a noun ('jacket') to show who owns it.",
+    "tags": [
+      "possessive adjectives",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 556,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Short Text",
+    "question_text": "Read the text: 'The museum is open from 9 AM to 5 PM, but it is closed on Mondays.' Can you visit on Monday?",
+    "options": [
+      "A) Yes, in the morning.",
+      "B) Yes, in the afternoon.",
+      "C) No, it is closed.",
+      "D) Yes, at 5 PM."
+    ],
+    "correct_answer": "C) No, it is closed.",
+    "explanation": "The text explicitly states 'it is closed on Mondays'.",
+    "tags": [
+      "reading comprehension",
+      "details",
+      "A2"
+    ]
+  },
+  {
+    "id": 557,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Materials",
+    "question_text": "This ring is made of pure ___. It's very valuable.",
+    "options": [
+      "A) gold",
+      "B) plastic",
+      "C) paper",
+      "D) wood"
+    ],
+    "correct_answer": "A) gold",
+    "explanation": "'Gold' is a precious metal used to make valuable jewelry.",
+    "tags": [
+      "materials",
+      "shopping",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 558,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Modals of Advice",
+    "question_text": "You look very tired. You ___ go to bed early tonight.",
+    "options": [
+      "A) should",
+      "B) must",
+      "C) have to",
+      "D) might"
+    ],
+    "correct_answer": "A) should",
+    "explanation": "We use 'should' to give advice or make a recommendation.",
+    "tags": [
+      "modal verbs",
+      "advice",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 559,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Basic Actions",
+    "question_text": "I don't like this app. I want to ___ it from my phone.",
+    "options": [
+      "A) download",
+      "B) uninstall",
+      "C) click",
+      "D) save"
+    ],
+    "correct_answer": "B) uninstall",
+    "explanation": "To 'uninstall' means to remove a software program or app from your device.",
+    "tags": [
+      "software",
+      "apps",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 560,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Prepositions of Place",
+    "question_text": "The cat is hiding ___ the bed because it's scared.",
+    "options": [
+      "A) on",
+      "B) under",
+      "C) at",
+      "D) to"
+    ],
+    "correct_answer": "B) under",
+    "explanation": "We use 'under' to indicate that something is below or beneath something else (the bed).",
+    "tags": [
+      "prepositions of place",
+      "under",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 561,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Menu / Math",
+    "question_text": "Read the cafe menu: 'Soup: $5. Sandwich: $7. Coffee: $3.' How much is a sandwich and a coffee together?",
+    "options": [
+      "A) $10",
+      "B) $12",
+      "C) $8",
+      "D) $15"
+    ],
+    "correct_answer": "A) $10",
+    "explanation": "A sandwich is $7 and a coffee is $3. 7 + 3 = 10.",
+    "tags": [
+      "reading comprehension",
+      "menus",
+      "A2"
+    ]
+  },
+  {
+    "id": 562,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Vocabulary in Context",
+    "question_text": "The engineering team decided to ___ the legacy on-premise system to a cloud environment to improve scalability.",
+    "options": [
+      "A) migrate",
+      "B) navigate",
+      "C) segregate",
+      "D) obfuscate"
+    ],
+    "correct_answer": "A) migrate",
+    "explanation": "In IT, to 'migrate' means to move data, applications, or systems from one environment (like on-premise) to another (like the cloud).",
+    "tags": [
+      "cloud computing",
+      "IT vocabulary",
+      "B2"
+    ]
+  },
+  {
+    "id": 563,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Systems Architecture",
+    "question_text": "To ensure high availability, the database cluster is configured with a robust ___ mechanism that automatically switches to a backup server if the primary one fails.",
+    "options": [
+      "A) failover",
+      "B) load balancing",
+      "C) caching",
+      "D) throttling"
+    ],
+    "correct_answer": "A) failover",
+    "explanation": "A 'failover' mechanism is a redundancy feature that automatically switches to a standby system upon the failure of the active system.",
+    "tags": [
+      "high availability",
+      "infrastructure",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 564,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Mixed Conditional",
+    "question_text": "If the developers ___ the code properly last week, we ___ this critical bug in production right now.",
+    "options": [
+      "A) had reviewed / wouldn't be facing",
+      "B) reviewed / wouldn't have faced",
+      "C) have reviewed / aren't facing",
+      "D) would review / hadn't faced"
+    ],
+    "correct_answer": "A) had reviewed / wouldn't be facing",
+    "explanation": "This is a mixed conditional: a past unreal condition ('had reviewed') with a present unreal result ('wouldn't be facing').",
+    "tags": [
+      "mixed conditionals",
+      "advanced grammar",
+      "B2"
+    ]
+  },
+  {
+    "id": 565,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Software Design",
+    "question_text": "The new API architecture is highly ___; it allows developers to easily add new features without modifying the core system.",
+    "options": [
+      "A) monolithic",
+      "B) extensible",
+      "C) deprecated",
+      "D) volatile"
+    ],
+    "correct_answer": "B) extensible",
+    "explanation": "'Extensible' means capable of being extended or expanded. In software, an extensible system allows adding new features easily.",
+    "tags": [
+      "API design",
+      "software architecture",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 566,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Inference",
+    "question_text": "Read the email: 'Hi team, the primary database will be undergoing maintenance from 2 AM to 4 AM. Read-only mode will be enabled.' What can users expect during this window?",
+    "options": [
+      "A) They will not be able to access the system at all.",
+      "B) They can view existing data but cannot create or modify records.",
+      "C) The system will be faster than usual for writing data.",
+      "D) They must back up their data before 2 AM."
+    ],
+    "correct_answer": "B) They can view existing data but cannot create or modify records.",
+    "explanation": "'Read-only mode' means users can read (view) the data, but write operations (create, update, delete) are disabled.",
+    "tags": [
+      "reading comprehension",
+      "IT emails",
+      "B2"
+    ]
+  },
+  {
+    "id": 567,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Future Perfect",
+    "question_text": "By the time the external audit starts next Monday, the security team ___ all the critical patches.",
+    "options": [
+      "A) will apply",
+      "B) will be applying",
+      "C) will have applied",
+      "D) are going to apply"
+    ],
+    "correct_answer": "C) will have applied",
+    "explanation": "The Future Perfect ('will have + past participle') is used for an action that will be completed before a specific point in the future ('By the time...').",
+    "tags": [
+      "future perfect",
+      "tenses",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 568,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Troubleshooting",
+    "question_text": "The deployment was delayed due to unexpected ___ issues between the new microservices and the legacy database.",
+    "options": [
+      "A) scalability",
+      "B) compatibility",
+      "C) redundancy",
+      "D) latency"
+    ],
+    "correct_answer": "B) compatibility",
+    "explanation": "'Compatibility' refers to the ability of different systems or software to work together without conflict.",
+    "tags": [
+      "software development",
+      "troubleshooting",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 569,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Participle Clauses",
+    "question_text": "___ by the sudden power outage, the system automatically saved all active user sessions to prevent data loss.",
+    "options": [
+      "A) Triggering",
+      "B) To trigger",
+      "C) Triggered",
+      "D) Having triggering"
+    ],
+    "correct_answer": "C) Triggered",
+    "explanation": "The past participle ('Triggered') is used here to show a passive meaning: the system was triggered by the power outage.",
+    "tags": [
+      "participle clauses",
+      "advanced grammar",
+      "B2"
+    ]
+  },
+  {
+    "id": 570,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Database Management",
+    "question_text": "To optimize query performance on massive datasets, the DBA decided to ___ the most frequently searched columns.",
+    "options": [
+      "A) normalize",
+      "B) index",
+      "C) encrypt",
+      "D) shard"
+    ],
+    "correct_answer": "B) index",
+    "explanation": "Creating an 'index' on specific columns creates a data structure that improves the speed of data retrieval operations.",
+    "tags": [
+      "databases",
+      "SQL",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 571,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Inversion",
+    "question_text": "Not only ___ the cloud migration fail, but it also resulted in significant data loss and downtime.",
+    "options": [
+      "A) the migration did",
+      "B) did the migration",
+      "C) does the migration",
+      "D) the migration does"
+    ],
+    "correct_answer": "B) did the migration",
+    "explanation": "When a sentence begins with a negative adverbial like 'Not only', it requires subject-auxiliary inversion ('did the migration').",
+    "tags": [
+      "inversion",
+      "advanced grammar",
+      "B2"
+    ]
+  },
+  {
+    "id": 572,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Subjunctive Mood",
+    "question_text": "The IT director insisted that the external security audit ___ conducted by an independent third party.",
+    "options": [
+      "A) is",
+      "B) was",
+      "C) be",
+      "D) will be"
+    ],
+    "correct_answer": "C) be",
+    "explanation": "After verbs of insistence or demand (like 'insisted that'), English uses the subjunctive mood, which requires the base form of the verb ('be').",
+    "tags": [
+      "subjunctive",
+      "advanced grammar",
+      "B2"
+    ]
+  },
+  {
+    "id": 573,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Future Continuous",
+    "question_text": "This time next week, I ___ a technical conference in Berlin, so I won't be available for meetings.",
+    "options": [
+      "A) will attend",
+      "B) will be attending",
+      "C) will have attended",
+      "D) am attending"
+    ],
+    "correct_answer": "B) will be attending",
+    "explanation": "The Future Continuous ('will be + -ing') is used for an action that will be in progress at a specific time in the future ('This time next week').",
+    "tags": [
+      "future continuous",
+      "tenses",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 574,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Cleft Sentences",
+    "question_text": "___ caused the system crash was a faulty memory module, not the recent operating system update.",
+    "options": [
+      "A) It",
+      "B) That",
+      "C) What",
+      "D) Which"
+    ],
+    "correct_answer": "C) What",
+    "explanation": "This is a 'wh-' cleft sentence used for emphasis. 'What caused the system crash' acts as the subject, placing focus on the cause.",
+    "tags": [
+      "cleft sentences",
+      "emphasis",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 575,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Quantifiers",
+    "question_text": "Despite having ___ evidence of the security breach, the company refused to notify its affected users.",
+    "options": [
+      "A) a large number of",
+      "B) a great deal of",
+      "C) many",
+      "D) a few"
+    ],
+    "correct_answer": "B) a great deal of",
+    "explanation": "'Evidence' is an uncountable noun. 'A great deal of' is used with uncountable nouns, whereas 'many' and 'a large number of' are for countable nouns.",
+    "tags": [
+      "quantifiers",
+      "uncountable nouns",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 576,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Business Collocations",
+    "question_text": "The executive board decided to ___ a new agile methodology across all development teams.",
+    "options": [
+      "A) make",
+      "B) do",
+      "C) implement",
+      "D) invent"
+    ],
+    "correct_answer": "C) implement",
+    "explanation": "In business and IT, we 'implement' (put into effect) a new strategy, methodology, or system.",
+    "tags": [
+      "business collocations",
+      "agile",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 577,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Phrasal Verbs",
+    "question_text": "We need to ___ a workaround for this latency issue before the client demo tomorrow morning.",
+    "options": [
+      "A) put up with",
+      "B) come up with",
+      "C) get away with",
+      "D) look down on"
+    ],
+    "correct_answer": "B) come up with",
+    "explanation": "To 'come up with' means to produce or create something, such as an idea, plan, or solution.",
+    "tags": [
+      "phrasal verbs",
+      "problem-solving",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 578,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Nuanced Adjectives",
+    "question_text": "The technical documentation was incredibly ___; even a junior developer could understand the complex architecture.",
+    "options": [
+      "A) ambiguous",
+      "B) lucid",
+      "C) redundant",
+      "D) obsolete"
+    ],
+    "correct_answer": "B) lucid",
+    "explanation": "'Lucid' means expressed clearly and easy to understand, which perfectly fits documentation that juniors can grasp.",
+    "tags": [
+      "advanced vocabulary",
+      "technical writing",
+      "B2"
+    ]
+  },
+  {
+    "id": 579,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Confusing Words",
+    "question_text": "The deployment of the new caching layer had a significant ___ on the application's response time.",
+    "options": [
+      "A) affect",
+      "B) effect",
+      "C) effort",
+      "D) afford"
+    ],
+    "correct_answer": "B) effect",
+    "explanation": "'Effect' is a noun meaning a result or consequence. 'Affect' is usually a verb. The sentence requires a noun after 'significant'.",
+    "tags": [
+      "confusing words",
+      "effect vs affect",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 580,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Idioms",
+    "question_text": "When it comes to user data encryption, we cannot afford to cut ___; skipping steps could lead to a massive breach.",
+    "options": [
+      "A) edges",
+      "B) corners",
+      "C) deals",
+      "D) losses"
+    ],
+    "correct_answer": "B) corners",
+    "explanation": "The idiom 'cut corners' means to do something in the cheapest or easiest way, often by skipping important steps or compromising quality.",
+    "tags": [
+      "idioms",
+      "cybersecurity",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 581,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Tone and Attitude",
+    "question_text": "Read the excerpt: 'The vendor claims their new AI model is entirely unbiased, yet independent tests reveal it merely regurgitates the prejudices present in its training data.' The author's tone is:",
+    "options": [
+      "A) Enthusiastic",
+      "B) Objective",
+      "C) Skeptical",
+      "D) Indifferent"
+    ],
+    "correct_answer": "C) Skeptical",
+    "explanation": "Words like 'claims', 'yet', and 'merely regurgitates' show that the author doubts the vendor's claims and is skeptical of the AI's true capabilities.",
+    "tags": [
+      "tone analysis",
+      "critical reading",
+      "B2"
+    ]
+  },
+  {
+    "id": 582,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Detail Extraction",
+    "question_text": "Read the release notes: 'Version 4.2.1 includes a fix for the login timeout issue, improves dashboard loading speed by 20%, and removes the legacy export feature.' What was removed?",
+    "options": [
+      "A) The login timeout fix",
+      "B) The dashboard loading speed",
+      "C) The legacy export feature",
+      "D) The user authentication module"
+    ],
+    "correct_answer": "C) The legacy export feature",
+    "explanation": "The text explicitly states that the update 'removes the legacy export feature'.",
+    "tags": [
+      "reading comprehension",
+      "details",
+      "B2"
+    ]
+  },
+  {
+    "id": 583,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Reference",
+    "question_text": "Read the text: 'Containerization allows developers to package an application with all its dependencies. This ensures it runs consistently across different environments.' What does 'This' refer to?",
+    "options": [
+      "A) The application",
+      "B) The dependencies",
+      "C) Containerization",
+      "D) The environment"
+    ],
+    "correct_answer": "C) Containerization",
+    "explanation": "The pronoun 'This' refers to the entire preceding concept, which is the practice of 'Containerization' packaging the app with dependencies.",
+    "tags": [
+      "reading comprehension",
+      "pronoun reference",
+      "B2"
+    ]
+  },
+  {
+    "id": 584,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Main Idea",
+    "question_text": "Read the paragraph: 'Remote work offers unprecedented flexibility, but it also introduces complex cybersecurity challenges. Employees using unsecured home Wi-Fi networks can inadvertently expose corporate data to malicious actors.' What is the main idea?",
+    "options": [
+      "A) Remote work is entirely detrimental to corporate security.",
+      "B) Home Wi-Fi networks are inherently malicious.",
+      "C) The flexibility of remote work is accompanied by significant security risks.",
+      "D) Employees should not be allowed to work remotely."
+    ],
+    "correct_answer": "C) The flexibility of remote work is accompanied by significant security risks.",
+    "explanation": "The paragraph presents a balanced view: it acknowledges the benefit (flexibility) but highlights the negative consequence (cybersecurity challenges).",
+    "tags": [
+      "reading comprehension",
+      "main idea",
+      "B2"
+    ]
+  },
+  {
+    "id": 585,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "DevOps Concepts",
+    "question_text": "The use of ___ allows developers to package an application with all its dependencies, ensuring it runs identically in development and production.",
+    "options": [
+      "A) virtualization",
+      "B) containerization",
+      "C) orchestration",
+      "D) compilation"
+    ],
+    "correct_answer": "B) containerization",
+    "explanation": "'Containerization' (e.g., using Docker) packages software and its dependencies together so it runs consistently across any environment.",
+    "tags": [
+      "DevOps",
+      "Docker",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 586,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Cybersecurity",
+    "question_text": "To prevent SQL injection attacks, all user inputs must be properly ___ before being executed by the database engine.",
+    "options": [
+      "A) encrypted",
+      "B) sanitized",
+      "C) compressed",
+      "D) serialized"
+    ],
+    "correct_answer": "B) sanitized",
+    "explanation": "In cybersecurity, 'sanitizing' input means cleaning it to remove or escape potentially malicious characters that could alter a SQL query.",
+    "tags": [
+      "cybersecurity",
+      "web security",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 587,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Conditionals (Inverted)",
+    "question_text": "___ the firewall rules been configured correctly, the malicious traffic would have been blocked automatically.",
+    "options": [
+      "A) If",
+      "B) Had",
+      "C) Should",
+      "D) Were"
+    ],
+    "correct_answer": "B) Had",
+    "explanation": "This is an inverted third conditional. 'Had the firewall rules been...' is the formal inversion of 'If the firewall rules had been...'.",
+    "tags": [
+      "conditionals",
+      "inversion",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 588,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Advanced Adverbs",
+    "question_text": "The development team worked ___ to meet the tight deadline, often staying late into the night to resolve critical bugs.",
+    "options": [
+      "A) scarcely",
+      "B) relentlessly",
+      "C) vaguely",
+      "D) randomly"
+    ],
+    "correct_answer": "B) relentlessly",
+    "explanation": "'Relentlessly' means in an unyielding, persistent, and constant manner, which fits the context of working hard to meet a tight deadline.",
+    "tags": [
+      "adverbs",
+      "work ethic",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 589,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Cloud Computing",
+    "question_text": "The transition to a ___ architecture means the company no longer needs to manage or provision the underlying physical servers.",
+    "options": [
+      "A) monolithic",
+      "B) serverless",
+      "C) peer-to-peer",
+      "D) on-premise"
+    ],
+    "correct_answer": "B) serverless",
+    "explanation": "'Serverless' computing is a cloud model where the cloud provider manages the infrastructure, allowing developers to just deploy code.",
+    "tags": [
+      "cloud computing",
+      "architecture",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 590,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Wish / Regret",
+    "question_text": "I wish I ___ the importance of backing up the database before running that migration script.",
+    "options": [
+      "A) realized",
+      "B) had realized",
+      "C) would realize",
+      "D) have realized"
+    ],
+    "correct_answer": "B) had realized",
+    "explanation": "We use 'wish + past perfect' (had realized) to express regret about a situation or mistake in the past.",
+    "tags": [
+      "wish clauses",
+      "past perfect",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 591,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Gerunds vs. Infinitives",
+    "question_text": "The lead architect suggested ___ the old servers instead of trying to repair them one more time.",
+    "options": [
+      "A) to replace",
+      "B) replace",
+      "C) replacing",
+      "D) to replacing"
+    ],
+    "correct_answer": "C) replacing",
+    "explanation": "The verb 'suggest' is followed by a gerund (verb + -ing), not an infinitive. Therefore, 'suggested replacing' is correct.",
+    "tags": [
+      "gerunds",
+      "verb patterns",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 592,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Concession",
+    "question_text": "___ the fact that the software had several minor bugs, the client decided to approve the final release.",
+    "options": [
+      "A) Although",
+      "B) Despite",
+      "C) Even though",
+      "D) Nevertheless"
+    ],
+    "correct_answer": "B) Despite",
+    "explanation": "'Despite' is a preposition followed by a noun phrase ('the fact that...'). 'Although' and 'Even though' must be followed by a full clause.",
+    "tags": [
+      "concession",
+      "despite vs although",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 593,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Relative Clauses",
+    "question_text": "The new cybersecurity framework, ___ was published last month, provides strict guidelines for handling sensitive user data.",
+    "options": [
+      "A) that",
+      "B) which",
+      "C) what",
+      "D) whose"
+    ],
+    "correct_answer": "B) which",
+    "explanation": "This is a non-defining relative clause (indicated by the commas). In non-defining clauses referring to things, we must use 'which', not 'that'.",
+    "tags": [
+      "relative clauses",
+      "punctuation",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 594,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Reported Speech",
+    "question_text": "The client said that they ___ the proposal and would get back to us with a decision by Monday.",
+    "options": [
+      "A) review",
+      "B) have reviewed",
+      "C) were reviewing",
+      "D) will review"
+    ],
+    "correct_answer": "C) were reviewing",
+    "explanation": "In reported speech, when the reporting verb is in the past ('said'), the tense shifts back. Present continuous ('are reviewing') becomes past continuous ('were reviewing').",
+    "tags": [
+      "reported speech",
+      "tense shifting",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 595,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Advanced Verbs",
+    "question_text": "The new data privacy regulations will inevitably ___ the way tech companies collect and monetize user information.",
+    "options": [
+      "A) stagnate",
+      "B) alter",
+      "C) alleviate",
+      "D) corroborate"
+    ],
+    "correct_answer": "B) alter",
+    "explanation": "To 'alter' means to change or make different. The regulations will force a change in how companies handle data.",
+    "tags": [
+      "advanced verbs",
+      "regulations",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 596,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Word Formation",
+    "question_text": "The IT support team is highly ___; they manage to resolve 95% of all user tickets within the first hour.",
+    "options": [
+      "A) rely",
+      "B) reliable",
+      "C) reliance",
+      "D) reliably"
+    ],
+    "correct_answer": "B) reliable",
+    "explanation": "The sentence requires an adjective to describe the noun 'IT support team'. 'Reliable' is the adjective form of the verb 'rely'.",
+    "tags": [
+      "word formation",
+      "adjectives",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 597,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Phrasal Verbs",
+    "question_text": "The old legacy system was finally ___ after ten years of service, replaced by a modern cloud solution.",
+    "options": [
+      "A) phased out",
+      "B) put off",
+      "C) taken over",
+      "D) broken down"
+    ],
+    "correct_answer": "A) phased out",
+    "explanation": "To 'phase out' means to gradually stop using something, which fits the context of replacing an old system.",
+    "tags": [
+      "phrasal verbs",
+      "IT lifecycle",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 598,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Business Collocations",
+    "question_text": "The startup managed to ___ over $5 million in Series A funding to expand its operations into the European market.",
+    "options": [
+      "A) make",
+      "B) secure",
+      "C) assure",
+      "D) insure"
+    ],
+    "correct_answer": "B) secure",
+    "explanation": "In business, to 'secure' funding or investment means to successfully obtain or get it.",
+    "tags": [
+      "business vocabulary",
+      "funding",
+      "B2"
+    ]
+  },
+  {
+    "id": 599,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Nuanced Nouns",
+    "question_text": "The ___ of the new authentication protocol resulted in a marked decrease in unauthorized access attempts.",
+    "options": [
+      "A) implement",
+      "B) implementation",
+      "C) implementing",
+      "D) implemented"
+    ],
+    "correct_answer": "B) implementation",
+    "explanation": "The sentence requires a noun to act as the subject. 'Implementation' is the noun form of the verb 'implement'.",
+    "tags": [
+      "word formation",
+      "nouns",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 600,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Microservices",
+    "question_text": "In a microservices architecture, individual services communicate with each other via lightweight ___ like REST or gRPC.",
+    "options": [
+      "A) monoliths",
+      "B) protocols",
+      "C) repositories",
+      "D) containers"
+    ],
+    "correct_answer": "B) protocols",
+    "explanation": "Services in a microservices architecture communicate over a network using 'protocols' (like HTTP/REST or gRPC).",
+    "tags": [
+      "microservices",
+      "networking",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 601,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Monitoring",
+    "question_text": "The monitoring dashboard showed a sudden ___ in CPU usage, indicating a potential memory leak in the application.",
+    "options": [
+      "A) drop",
+      "B) spike",
+      "C) baseline",
+      "D) threshold"
+    ],
+    "correct_answer": "B) spike",
+    "explanation": "A 'spike' refers to a sudden, sharp increase in a metric, such as CPU or memory usage.",
+    "tags": [
+      "monitoring",
+      "metrics",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 602,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Future Perfect Continuous",
+    "question_text": "By the end of next year, the core engineering team ___ on this legacy codebase for exactly a decade.",
+    "options": [
+      "A) will work",
+      "B) will be working",
+      "C) will have been working",
+      "D) are going to work"
+    ],
+    "correct_answer": "C) will have been working",
+    "explanation": "The Future Perfect Continuous ('will have been working') emphasizes the duration of an ongoing action up to a specific point in the future ('By the end of next year').",
+    "tags": [
+      "tenses",
+      "future perfect continuous",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 603,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Automation",
+    "question_text": "The DevOps engineer wrote a custom Python ___ to automate the daily database backup process.",
+    "options": [
+      "A) script",
+      "B) blueprint",
+      "C) protocol",
+      "D) manual"
+    ],
+    "correct_answer": "A) script",
+    "explanation": "A 'script' is a small program or sequence of code written to automate specific tasks.",
+    "tags": [
+      "automation",
+      "DevOps",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 604,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Modals of Deduction (Past)",
+    "question_text": "The database was completely wiped at 3 AM. The system administrator ___ have forgotten to apply the latest security patch.",
+    "options": [
+      "A) must",
+      "B) can't",
+      "C) should",
+      "D) would"
+    ],
+    "correct_answer": "A) must",
+    "explanation": "'Must have + past participle' is used to express a strong logical deduction or near certainty about a past event based on evidence.",
+    "tags": [
+      "modals of deduction",
+      "past modals",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 605,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Nuanced Adjectives",
+    "question_text": "The manager's feedback was incredibly ___; it provided clear, actionable steps for improvement rather than vague criticism.",
+    "options": [
+      "A) ambiguous",
+      "B) constructive",
+      "C) detrimental",
+      "D) superficial"
+    ],
+    "correct_answer": "B) constructive",
+    "explanation": "'Constructive' feedback is useful and intended to help someone improve, contrasting with vague or purely negative criticism.",
+    "tags": [
+      "business English",
+      "feedback",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 606,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Cleft Sentences",
+    "question_text": "It was the sudden power outage, rather than the faulty software update, ___ triggered the automated failover sequence.",
+    "options": [
+      "A) which",
+      "B) what",
+      "C) who",
+      "D) that"
+    ],
+    "correct_answer": "D) that",
+    "explanation": "This is an 'It-cleft' sentence used for emphasis. The structure is 'It + be + emphasized element + that/who + clause'.",
+    "tags": [
+      "cleft sentences",
+      "emphasis",
+      "B2 grammar"
+    ]
+  },
+  {
+    "id": 607,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Advanced Verbs",
+    "question_text": "Despite being a new entrant, the startup managed to ___ a significant market share in just six months.",
+    "options": [
+      "A) capture",
+      "B) release",
+      "C) surrender",
+      "D) fabricate"
+    ],
+    "correct_answer": "A) capture",
+    "explanation": "In business, to 'capture' market share means to successfully gain or secure a portion of the total market.",
+    "tags": [
+      "business verbs",
+      "market share",
+      "B2 vocabulary"
+    ]
+  },
+  {
+    "id": 608,
+    "category": "Reading Comprehension",
+    "cefr_level": "B2",
+    "question_type": "Author's Purpose",
+    "question_text": "Read the excerpt: 'It should be acknowledged, however, that the sample size of this technical study is relatively small, which may limit the generalizability of the findings.' Why does the author include this?",
+    "options": [
+      "A) To discredit the entire research project.",
+      "B) To highlight a limitation and demonstrate academic integrity.",
+      "C) To suggest that further funding is required.",
+      "D) To criticize the methodology of previous studies."
+    ],
+    "correct_answer": "B) To highlight a limitation and demonstrate academic integrity.",
+    "explanation": "Acknowledging limitations (like a small sample size) is a standard academic practice that shows objectivity and intellectual honesty.",
+    "tags": [
+      "reading comprehension",
+      "author's purpose",
+      "B2"
+    ]
+  },
+  {
+    "id": 609,
+    "category": "IT & Technology",
+    "cefr_level": "B2",
+    "question_type": "Kubernetes / Cloud",
+    "question_text": "The use of ___ tools like Kubernetes allows teams to manage, scale, and deploy containerized applications automatically across a cluster of servers.",
+    "options": [
+      "A) orchestration",
+      "B) compilation",
+      "C) virtualization",
+      "D) serialization"
+    ],
+    "correct_answer": "A) orchestration",
+    "explanation": "In cloud computing, 'orchestration' refers to the automated configuration, coordination, and management of computer systems and software (like Kubernetes for containers).",
+    "tags": [
+      "Kubernetes",
+      "cloud native",
+      "B2 IT"
+    ]
+  },
+  {
+    "id": 610,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Verb 'to be' (negative)",
+    "question_text": "I ___ a doctor. I am a teacher.",
+    "options": [
+      "A) am not",
+      "B) isn't",
+      "C) aren't",
+      "D) not"
+    ],
+    "correct_answer": "A) am not",
+    "explanation": "The negative form of 'I am' is 'I am not' (or 'I'm not').",
+    "tags": [
+      "verb to be",
+      "negative",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 611,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Present Simple (question)",
+    "question_text": "___ you speak English?",
+    "options": [
+      "A) Does",
+      "B) Do",
+      "C) Are",
+      "D) Is"
+    ],
+    "correct_answer": "B) Do",
+    "explanation": "We use the auxiliary verb 'Do' to form questions in the present simple with the pronoun 'you'.",
+    "tags": [
+      "present simple",
+      "questions",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 612,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Present Continuous",
+    "question_text": "We ___ a movie right now.",
+    "options": [
+      "A) watch",
+      "B) watches",
+      "C) are watching",
+      "D) is watching"
+    ],
+    "correct_answer": "C) are watching",
+    "explanation": "The phrase 'right now' indicates an action happening at the moment of speaking, so we use the present continuous ('are watching').",
+    "tags": [
+      "present continuous",
+      "now",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 613,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Past Simple (regular)",
+    "question_text": "She ___ her homework yesterday.",
+    "options": [
+      "A) finish",
+      "B) finishes",
+      "C) finished",
+      "D) finishing"
+    ],
+    "correct_answer": "C) finished",
+    "explanation": "The word 'yesterday' indicates the past. 'Finished' is the past simple form of the regular verb 'finish'.",
+    "tags": [
+      "past simple",
+      "regular verbs",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 614,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Prepositions (time)",
+    "question_text": "I wake up ___ 7 o'clock.",
+    "options": [
+      "A) in",
+      "B) on",
+      "C) at",
+      "D) to"
+    ],
+    "correct_answer": "C) at",
+    "explanation": "We use the preposition 'at' for specific clock times (e.g., at 7 o'clock, at 5 PM).",
+    "tags": [
+      "prepositions of time",
+      "at",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 615,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Articles",
+    "question_text": "He wants to buy ___ new car.",
+    "options": [
+      "A) a",
+      "B) an",
+      "C) the",
+      "D) some"
+    ],
+    "correct_answer": "A) a",
+    "explanation": "We use the indefinite article 'a' before singular countable nouns that start with a consonant sound ('new').",
+    "tags": [
+      "articles",
+      "a",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 616,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Pronouns (possessive)",
+    "question_text": "Is this ___ book?",
+    "options": [
+      "A) you",
+      "B) yours",
+      "C) your",
+      "D) you're"
+    ],
+    "correct_answer": "C) your",
+    "explanation": "'Your' is a possessive adjective used before a noun ('book') to show who owns it.",
+    "tags": [
+      "possessive adjectives",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 617,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "There is / There are",
+    "question_text": "___ a dog in the park.",
+    "options": [
+      "A) There is",
+      "B) There are",
+      "C) They are",
+      "D) It are"
+    ],
+    "correct_answer": "A) There is",
+    "explanation": "We use 'There is' for singular nouns ('a dog') to say that something exists in a place.",
+    "tags": [
+      "there is/are",
+      "singular",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 618,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Modals (ability)",
+    "question_text": "She ___ play the piano very well.",
+    "options": [
+      "A) can",
+      "B) must",
+      "C) should",
+      "D) would"
+    ],
+    "correct_answer": "A) can",
+    "explanation": "The modal verb 'can' is used to express ability or skill to do something.",
+    "tags": [
+      "modal verbs",
+      "can",
+      "abilities",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 619,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Adverbs of frequency",
+    "question_text": "I ___ go to the gym on Mondays.",
+    "options": [
+      "A) always",
+      "B) yesterday",
+      "C) tomorrow",
+      "D) now"
+    ],
+    "correct_answer": "A) always",
+    "explanation": "'Always' is an adverb of frequency used with the present simple to describe a routine habit.",
+    "tags": [
+      "adverbs of frequency",
+      "present simple",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 620,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Conjunctions",
+    "question_text": "I like tea ___ I don't like coffee.",
+    "options": [
+      "A) so",
+      "B) but",
+      "C) because",
+      "D) or"
+    ],
+    "correct_answer": "B) but",
+    "explanation": "We use 'but' to connect two contrasting ideas. Liking tea contrasts with not liking coffee.",
+    "tags": [
+      "conjunctions",
+      "contrast",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 621,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Question words",
+    "question_text": "___ is your name?",
+    "options": [
+      "A) Who",
+      "B) Where",
+      "C) What",
+      "D) When"
+    ],
+    "correct_answer": "C) What",
+    "explanation": "'What' is the question word used to ask for specific information, like a person's name.",
+    "tags": [
+      "wh- questions",
+      "what",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 622,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Plurals",
+    "question_text": "I need some ___ to write with.",
+    "options": [
+      "A) pen",
+      "B) pens",
+      "C) penes",
+      "D) pen's"
+    ],
+    "correct_answer": "B) pens",
+    "explanation": "To make most nouns plural in English, we simply add an 's' at the end. The plural of 'pen' is 'pens'.",
+    "tags": [
+      "plural nouns",
+      "regular plurals",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 623,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Demonstratives",
+    "question_text": "___ apples here are red.",
+    "options": [
+      "A) This",
+      "B) That",
+      "C) These",
+      "D) It"
+    ],
+    "correct_answer": "C) These",
+    "explanation": "We use 'These' to point to plural objects that are close to the speaker ('here').",
+    "tags": [
+      "demonstratives",
+      "these",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 624,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Object pronouns",
+    "question_text": "Give the book to ___.",
+    "options": [
+      "A) I",
+      "B) me",
+      "C) my",
+      "D) mine"
+    ],
+    "correct_answer": "B) me",
+    "explanation": "'Me' is the object pronoun used after a preposition ('to') or as the object of a verb.",
+    "tags": [
+      "object pronouns",
+      "me",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 625,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Present Simple (he/she)",
+    "question_text": "My sister ___ in a bank.",
+    "options": [
+      "A) work",
+      "B) works",
+      "C) working",
+      "D) worked"
+    ],
+    "correct_answer": "B) works",
+    "explanation": "In the present simple tense, we add 's' to the verb when the subject is third-person singular ('My sister' = she).",
+    "tags": [
+      "present simple",
+      "third-person",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 626,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Past Simple (to be)",
+    "question_text": "They ___ at the party last night.",
+    "options": [
+      "A) was",
+      "B) were",
+      "C) are",
+      "D) is"
+    ],
+    "correct_answer": "B) were",
+    "explanation": "The subject 'They' is plural, and the time is past ('last night'), so we use the past plural form 'were'.",
+    "tags": [
+      "past simple",
+      "verb to be",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 627,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Prepositions (place)",
+    "question_text": "The cat is hiding ___ the bed.",
+    "options": [
+      "A) on",
+      "B) in",
+      "C) under",
+      "D) at"
+    ],
+    "correct_answer": "C) under",
+    "explanation": "We use 'under' to indicate that something is below or beneath something else (the bed).",
+    "tags": [
+      "prepositions of place",
+      "under",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 628,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Quantifiers",
+    "question_text": "I don't have ___ money.",
+    "options": [
+      "A) many",
+      "B) much",
+      "C) a few",
+      "D) several"
+    ],
+    "correct_answer": "B) much",
+    "explanation": "'Money' is an uncountable noun, so we use 'much' in negative sentences. 'Many' is used with countable plural nouns.",
+    "tags": [
+      "quantifiers",
+      "uncountable nouns",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 629,
+    "category": "Grammar",
+    "cefr_level": "A1",
+    "question_type": "Imperatives",
+    "question_text": "___ quiet, please! The baby is sleeping.",
+    "options": [
+      "A) Do",
+      "B) Are",
+      "C) Be",
+      "D) Is"
+    ],
+    "correct_answer": "C) Be",
+    "explanation": "Imperatives (commands) start with the base form of the verb. The base form of 'to be' is 'Be'.",
+    "tags": [
+      "imperatives",
+      "commands",
+      "A1 grammar"
+    ]
+  },
+  {
+    "id": 630,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Food",
+    "question_text": "I drink a glass of ___ every morning.",
+    "options": [
+      "A) milk",
+      "B) bread",
+      "C) rice",
+      "D) cheese"
+    ],
+    "correct_answer": "A) milk",
+    "explanation": "'Milk' is a liquid drink. The other options are solid foods.",
+    "tags": [
+      "food and drink",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 631,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Family",
+    "question_text": "My parents' son is my ___.",
+    "options": [
+      "A) uncle",
+      "B) brother",
+      "C) cousin",
+      "D) grandfather"
+    ],
+    "correct_answer": "B) brother",
+    "explanation": "The son of your parents is your 'brother'.",
+    "tags": [
+      "family tree",
+      "relationships",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 632,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Places",
+    "question_text": "I want to read a book. Let's go to the ___.",
+    "options": [
+      "A) bakery",
+      "B) pharmacy",
+      "C) library",
+      "D) cinema"
+    ],
+    "correct_answer": "C) library",
+    "explanation": "A 'library' is the place where you go to read or borrow books.",
+    "tags": [
+      "city places",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 633,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Weather",
+    "question_text": "It is ___ today. Let's play outside!",
+    "options": [
+      "A) raining",
+      "B) snowing",
+      "C) sunny",
+      "D) windy"
+    ],
+    "correct_answer": "C) sunny",
+    "explanation": "'Sunny' weather is good for playing outside. Rain, snow, or strong wind would keep you inside.",
+    "tags": [
+      "weather",
+      "adjectives",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 634,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Body",
+    "question_text": "I use my ___ to see the world.",
+    "options": [
+      "A) ears",
+      "B) eyes",
+      "C) nose",
+      "D) mouth"
+    ],
+    "correct_answer": "B) eyes",
+    "explanation": "We use our 'eyes' for the sense of sight (to see).",
+    "tags": [
+      "body parts",
+      "senses",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 635,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Animals",
+    "question_text": "A ___ lives in the water and can swim.",
+    "options": [
+      "A) bird",
+      "B) dog",
+      "C) fish",
+      "D) cat"
+    ],
+    "correct_answer": "C) fish",
+    "explanation": "A 'fish' is an animal that lives in water and swims.",
+    "tags": [
+      "animals",
+      "nature",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 636,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Jobs",
+    "question_text": "A ___ helps sick animals.",
+    "options": [
+      "A) doctor",
+      "B) teacher",
+      "C) vet",
+      "D) pilot"
+    ],
+    "correct_answer": "C) vet",
+    "explanation": "A 'vet' (veterinarian) is a doctor who treats sick animals.",
+    "tags": [
+      "jobs",
+      "professions",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 637,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Rooms",
+    "question_text": "I take a shower in the ___.",
+    "options": [
+      "A) kitchen",
+      "B) bedroom",
+      "C) bathroom",
+      "D) garage"
+    ],
+    "correct_answer": "C) bathroom",
+    "explanation": "The 'bathroom' is the room in a house where you take a shower or bath.",
+    "tags": [
+      "house rooms",
+      "daily life",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 638,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Transport",
+    "question_text": "My father goes to work by ___.",
+    "options": [
+      "A) train",
+      "B) bed",
+      "C) house",
+      "D) tree"
+    ],
+    "correct_answer": "A) train",
+    "explanation": "A 'train' is a common form of public transportation used to travel to work.",
+    "tags": [
+      "transport",
+      "travel",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 639,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Clothes",
+    "question_text": "It is raining. Put on your ___.",
+    "options": [
+      "A) t-shirt",
+      "B) shorts",
+      "C) jacket",
+      "D) sandals"
+    ],
+    "correct_answer": "C) jacket",
+    "explanation": "A 'jacket' is a piece of clothing worn to keep warm and dry in the rain.",
+    "tags": [
+      "clothing",
+      "weather",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 640,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Colors",
+    "question_text": "Grass is usually ___.",
+    "options": [
+      "A) blue",
+      "B) green",
+      "C) red",
+      "D) yellow"
+    ],
+    "correct_answer": "B) green",
+    "explanation": "The natural color of healthy grass is 'green'.",
+    "tags": [
+      "colors",
+      "nature",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 641,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Time",
+    "question_text": "There are 60 seconds in a ___.",
+    "options": [
+      "A) minute",
+      "B) hour",
+      "C) day",
+      "D) week"
+    ],
+    "correct_answer": "A) minute",
+    "explanation": "Time measurement: 60 seconds make up one minute.",
+    "tags": [
+      "time",
+      "measurements",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 642,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Shapes",
+    "question_text": "A window is usually ___.",
+    "options": [
+      "A) round",
+      "B) square",
+      "C) triangle",
+      "D) oval"
+    ],
+    "correct_answer": "B) square",
+    "explanation": "Most standard windows are rectangular or 'square' in shape.",
+    "tags": [
+      "shapes",
+      "objects",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 643,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Materials",
+    "question_text": "This shirt is made of ___.",
+    "options": [
+      "A) plastic",
+      "B) cotton",
+      "C) metal",
+      "D) glass"
+    ],
+    "correct_answer": "B) cotton",
+    "explanation": "'Cotton' is a very common natural material used to make clothing like shirts.",
+    "tags": [
+      "materials",
+      "clothing",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 644,
+    "category": "Vocabulary",
+    "cefr_level": "A1",
+    "question_type": "Days",
+    "question_text": "The day after Tuesday is ___.",
+    "options": [
+      "A) Monday",
+      "B) Wednesday",
+      "C) Thursday",
+      "D) Friday"
+    ],
+    "correct_answer": "B) Wednesday",
+    "explanation": "The day that comes immediately after Tuesday is Wednesday.",
+    "tags": [
+      "days of the week",
+      "time",
+      "A1 vocabulary"
+    ]
+  },
+  {
+    "id": 645,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Hardware",
+    "question_text": "I connect my phone to the computer with a ___.",
+    "options": [
+      "A) mouse",
+      "B) keyboard",
+      "C) cable",
+      "D) screen"
+    ],
+    "correct_answer": "C) cable",
+    "explanation": "A 'cable' (or cord/wire) is used to physically connect devices together to transfer data or charge.",
+    "tags": [
+      "IT basics",
+      "hardware",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 646,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Actions",
+    "question_text": "I ___ the wrong button and deleted the file.",
+    "options": [
+      "A) clicked",
+      "B) typed",
+      "C) read",
+      "D) listened"
+    ],
+    "correct_answer": "A) clicked",
+    "explanation": "To press a button on a computer mouse or screen is to 'click' it.",
+    "tags": [
+      "IT actions",
+      "verbs",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 647,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Internet",
+    "question_text": "I need to create a new ___ to join this website.",
+    "options": [
+      "A) password",
+      "B) account",
+      "C) mouse",
+      "D) screen"
+    ],
+    "correct_answer": "B) account",
+    "explanation": "An 'account' is your personal profile on a website that you log into.",
+    "tags": [
+      "internet basics",
+      "websites",
+      "A1 IT"
+    ]
+  },
+  {
+    "id": 648,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Software",
+    "question_text": "I use Word to type ___.",
+    "options": [
+      "A) games",
+      "B) documents",
+      "C) music",
+      "D) videos"
+    ],
+    "correct_answer": "B) documents",
+    "explanation": "Microsoft Word is a word processor used to type text 'documents'.",
+    "tags": [
+      "software",
+      "office",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 649,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Basics",
+    "question_text": "My computer has a virus. I need an ___ program.",
+    "options": [
+      "A) antivirus",
+      "B) email",
+      "C) internet",
+      "D) web"
+    ],
+    "correct_answer": "A) antivirus",
+    "explanation": "An 'antivirus' program is designed to find and remove computer viruses.",
+    "tags": [
+      "software",
+      "security",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 650,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Mobile",
+    "question_text": "I am sending you a text ___.",
+    "options": [
+      "A) message",
+      "B) mouse",
+      "C) screen",
+      "D) keyboard"
+    ],
+    "correct_answer": "A) message",
+    "explanation": "A 'text message' (or SMS) is a short written message sent from one mobile phone to another.",
+    "tags": [
+      "mobile phones",
+      "communication",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 651,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Hardware",
+    "question_text": "I need to buy a new ___ for my computer because the old one is broken.",
+    "options": [
+      "A) mouse",
+      "B) bread",
+      "C) water",
+      "D) shoe"
+    ],
+    "correct_answer": "A) mouse",
+    "explanation": "A 'mouse' is a hardware device used to point and click on items on a computer screen.",
+    "tags": [
+      "hardware",
+      "peripherals",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 652,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Actions",
+    "question_text": "I need to ___ this file to send it to you in an email.",
+    "options": [
+      "A) attach",
+      "B) delete",
+      "C) break",
+      "D) throw"
+    ],
+    "correct_answer": "A) attach",
+    "explanation": "To 'attach' a file means to include it with your email message so the other person can download it.",
+    "tags": [
+      "email",
+      "actions",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 653,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Basics",
+    "question_text": "What is your email ___?",
+    "options": [
+      "A) address",
+      "B) mouse",
+      "C) screen",
+      "D) keyboard"
+    ],
+    "correct_answer": "A) address",
+    "explanation": "An email 'address' is the unique name used to send and receive emails (e.g., name@example.com).",
+    "tags": [
+      "email",
+      "IT vocabulary",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 654,
+    "category": "IT & Technology",
+    "cefr_level": "A1",
+    "question_type": "Troubleshooting",
+    "question_text": "The Wi-Fi is very ___. I cannot load the page.",
+    "options": [
+      "A) slow",
+      "B) fast",
+      "C) hot",
+      "D) cold"
+    ],
+    "correct_answer": "A) slow",
+    "explanation": "When the internet connection is not fast enough to load pages quickly, we say it is 'slow'.",
+    "tags": [
+      "IT troubleshooting",
+      "adjectives",
+      "A1 tech"
+    ]
+  },
+  {
+    "id": 655,
+    "category": "Reading Comprehension",
+    "cefr_level": "A1",
+    "question_type": "Short Sign",
+    "question_text": "Read the sign on the library wall: 'SILENCE'. What does it mean?",
+    "options": [
+      "A) You can sing here.",
+      "B) Do not talk here.",
+      "C) You must shout.",
+      "D) Talk to your friend."
+    ],
+    "correct_answer": "B) Do not talk here.",
+    "explanation": "'SILENCE' means complete quiet. You must not talk or make noise in that area.",
+    "tags": [
+      "reading comprehension",
+      "signs",
+      "A1"
+    ]
+  },
+  {
+    "id": 656,
+    "category": "Reading Comprehension",
+    "cefr_level": "A1",
+    "question_type": "Short Message",
+    "question_text": "Read the text message: 'Hi Dad, I missed the bus. I will be late.' Why is he late?",
+    "options": [
+      "A) He woke up late.",
+      "B) He missed the bus.",
+      "C) He is walking.",
+      "D) He is eating."
+    ],
+    "correct_answer": "B) He missed the bus.",
+    "explanation": "The message explicitly states the reason for being late: 'I missed the bus'.",
+    "tags": [
+      "reading comprehension",
+      "messages",
+      "A1"
+    ]
+  },
+  {
+    "id": 657,
+    "category": "Reading Comprehension",
+    "cefr_level": "A1",
+    "question_type": "Short Email",
+    "question_text": "Read the email: 'Dear Anna, Can you bring my book to school today? Thanks, Ben.' What does Ben want?",
+    "options": [
+      "A) Anna to buy a book.",
+      "B) Anna to read a book.",
+      "C) Anna to bring his book.",
+      "D) Anna to write a book."
+    ],
+    "correct_answer": "C) Anna to bring his book.",
+    "explanation": "Ben explicitly asks: 'Can you bring my book to school today?'",
+    "tags": [
+      "reading comprehension",
+      "emails",
+      "A1"
+    ]
+  },
+  {
+    "id": 658,
+    "category": "Reading Comprehension",
+    "cefr_level": "A1",
+    "question_type": "Simple Description",
+    "question_text": "Read the text: 'My new phone is black and small.' What color is the phone?",
+    "options": [
+      "A) White",
+      "B) Red",
+      "C) Black",
+      "D) Blue"
+    ],
+    "correct_answer": "C) Black",
+    "explanation": "The text directly states the phone's color is 'black'.",
+    "tags": [
+      "reading comprehension",
+      "details",
+      "A1"
+    ]
+  },
+  {
+    "id": 659,
+    "category": "Reading Comprehension",
+    "cefr_level": "A1",
+    "question_type": "Daily Routine",
+    "question_text": "Read the text: 'I play tennis on Saturdays. On Sundays, I play football.' What does he do on Sundays?",
+    "options": [
+      "A) Plays tennis",
+      "B) Plays football",
+      "C) Goes to sleep",
+      "D) Watches TV"
+    ],
+    "correct_answer": "B) Plays football",
+    "explanation": "The text explicitly states: 'On Sundays, I play football'.",
+    "tags": [
+      "reading comprehension",
+      "sequence",
+      "A1"
+    ]
+  },
+  {
+    "id": 660,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Present Perfect (Experiences)",
+    "question_text": "I ___ to Paris three times in my life.",
+    "options": [
+      "A) go",
+      "B) went",
+      "C) have been",
+      "D) was"
+    ],
+    "correct_answer": "C) have been",
+    "explanation": "We use the Present Perfect ('have been') to talk about life experiences without specifying exactly when they happened.",
+    "tags": [
+      "present perfect",
+      "experiences",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 661,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Travel",
+    "question_text": "Don't forget to pack your ___; we need to show it at the airport security.",
+    "options": [
+      "A) passport",
+      "B) receipt",
+      "C) menu",
+      "D) salary"
+    ],
+    "correct_answer": "A) passport",
+    "explanation": "A 'passport' is the official document required for international travel and airport security.",
+    "tags": [
+      "travel",
+      "airport",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 662,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Hardware",
+    "question_text": "I bought a new ___ because I need to work on my documents while traveling on the train.",
+    "options": [
+      "A) desktop",
+      "B) laptop",
+      "C) monitor",
+      "D) printer"
+    ],
+    "correct_answer": "B) laptop",
+    "explanation": "A 'laptop' is a portable computer, perfect for working while traveling.",
+    "tags": [
+      "IT hardware",
+      "computers",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 663,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Infinitive of Purpose",
+    "question_text": "She went to the supermarket ___ some milk and bread.",
+    "options": [
+      "A) for buy",
+      "B) to buy",
+      "C) buying",
+      "D) bought"
+    ],
+    "correct_answer": "B) to buy",
+    "explanation": "We use the infinitive ('to + verb') to express the purpose or reason for doing something.",
+    "tags": [
+      "infinitives",
+      "purpose",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 664,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Health",
+    "question_text": "I have a terrible ___; I need to take some medicine and go to bed early.",
+    "options": [
+      "A) fever",
+      "B) recipe",
+      "C) luggage",
+      "D) salary"
+    ],
+    "correct_answer": "A) fever",
+    "explanation": "A 'fever' is a high body temperature, which is a symptom of illness that requires rest and medicine.",
+    "tags": [
+      "health",
+      "illness",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 665,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Short Email",
+    "question_text": "Read the email: 'Hi team, the client meeting has been moved to Friday at 10 AM. Please update your calendars.' When is the meeting now?",
+    "options": [
+      "A) Thursday at 10 AM",
+      "B) Friday at 10 AM",
+      "C) Friday at 2 PM",
+      "D) Next Monday"
+    ],
+    "correct_answer": "B) Friday at 10 AM",
+    "explanation": "The email explicitly states the new time is 'Friday at 10 AM'.",
+    "tags": [
+      "reading comprehension",
+      "emails",
+      "A2"
+    ]
+  },
+  {
+    "id": 666,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Too / Enough",
+    "question_text": "This coffee is ___ hot. I can't drink it right now.",
+    "options": [
+      "A) enough",
+      "B) too",
+      "C) very",
+      "D) much"
+    ],
+    "correct_answer": "B) too",
+    "explanation": "We use 'too' before an adjective to mean 'more than is wanted or needed' (excessive).",
+    "tags": [
+      "too and enough",
+      "adjectives",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 667,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Shopping",
+    "question_text": "I bought this shirt yesterday, but it doesn't fit. Can I get a ___?",
+    "options": [
+      "A) receipt",
+      "B) discount",
+      "C) refund",
+      "D) salary"
+    ],
+    "correct_answer": "C) refund",
+    "explanation": "A 'refund' is the money returned to you when you take a product back to the store.",
+    "tags": [
+      "shopping",
+      "returns",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 668,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Software",
+    "question_text": "Make sure to ___ the latest security patch to protect your computer from viruses.",
+    "options": [
+      "A) delete",
+      "B) install",
+      "C) uninstall",
+      "D) format"
+    ],
+    "correct_answer": "B) install",
+    "explanation": "To 'install' software or an update means to put it on your computer so it can be used.",
+    "tags": [
+      "IT software",
+      "updates",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 669,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Present Perfect (for/since)",
+    "question_text": "We have lived in this house ___ 2015.",
+    "options": [
+      "A) for",
+      "B) since",
+      "C) in",
+      "D) at"
+    ],
+    "correct_answer": "B) since",
+    "explanation": "We use 'since' with a specific point in time in the past (like a year: 2015) with the Present Perfect.",
+    "tags": [
+      "present perfect",
+      "for and since",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 670,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Jobs",
+    "question_text": "My brother works as a software ___. He writes code for a living.",
+    "options": [
+      "A) developer",
+      "B) mechanic",
+      "C) plumber",
+      "D) cashier"
+    ],
+    "correct_answer": "A) developer",
+    "explanation": "A 'software developer' is a person who writes and tests code for computer programs.",
+    "tags": [
+      "jobs",
+      "IT professions",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 671,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Sign",
+    "question_text": "Read the sign: 'WARNING: Wet floor. Please walk carefully.' Where would you most likely see this sign?",
+    "options": [
+      "A) In a library",
+      "B) In a park",
+      "C) In a supermarket aisle",
+      "D) On a bus"
+    ],
+    "correct_answer": "C) In a supermarket aisle",
+    "explanation": "A 'wet floor' sign is used indoors on tiled or smooth floors, like in a supermarket, to prevent slipping.",
+    "tags": [
+      "reading comprehension",
+      "signs",
+      "A2"
+    ]
+  },
+  {
+    "id": 672,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Reflexive Pronouns",
+    "question_text": "Be careful with that sharp knife! You might cut ___.",
+    "options": [
+      "A) you",
+      "B) your",
+      "C) yourself",
+      "D) yours"
+    ],
+    "correct_answer": "C) yourself",
+    "explanation": "We use reflexive pronouns ('yourself') when the subject and the object of the verb are the same person.",
+    "tags": [
+      "reflexive pronouns",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 673,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Weather",
+    "question_text": "Take an umbrella. The weather ___ says it's going to rain this afternoon.",
+    "options": [
+      "A) forecast",
+      "B) prediction",
+      "C) calendar",
+      "D) diary"
+    ],
+    "correct_answer": "A) forecast",
+    "explanation": "The 'weather forecast' is the standard term for the report that tells you what the weather will be like.",
+    "tags": [
+      "weather",
+      "collocations",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 674,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Internet",
+    "question_text": "If you want to save this webpage to read later, you should add it to your ___.",
+    "options": [
+      "A) history",
+      "B) bookmarks",
+      "C) downloads",
+      "D) spam"
+    ],
+    "correct_answer": "B) bookmarks",
+    "explanation": "'Bookmarks' are saved links to websites that you want to easily find and visit again later.",
+    "tags": [
+      "internet",
+      "browser features",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 675,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Gerunds",
+    "question_text": "I really enjoy ___ movies on the weekend.",
+    "options": [
+      "A) watch",
+      "B) to watch",
+      "C) watching",
+      "D) watched"
+    ],
+    "correct_answer": "C) watching",
+    "explanation": "The verb 'enjoy' is always followed by a gerund (verb + -ing).",
+    "tags": [
+      "gerunds",
+      "verb patterns",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 676,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Food",
+    "question_text": "This soup is delicious! Can you share the ___ with me so I can make it at home?",
+    "options": [
+      "A) receipt",
+      "B) menu",
+      "C) recipe",
+      "D) ingredient"
+    ],
+    "correct_answer": "C) recipe",
+    "explanation": "A 'recipe' is a set of instructions for cooking a particular food dish.",
+    "tags": [
+      "food",
+      "cooking",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 677,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Short Message",
+    "question_text": "Read the text message: 'Hey, I'm at the train station but I forgot my wallet. Can you bring it to me?' What does the sender want?",
+    "options": [
+      "A) To buy a ticket",
+      "B) To get their wallet",
+      "C) To meet at the cafe",
+      "D) To cancel the trip"
+    ],
+    "correct_answer": "B) To get their wallet",
+    "explanation": "The sender explicitly asks: 'Can you bring it [my wallet] to me?'",
+    "tags": [
+      "reading comprehension",
+      "messages",
+      "A2"
+    ]
+  },
+  {
+    "id": 678,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Quantifiers",
+    "question_text": "I don't have ___ money to buy that expensive laptop.",
+    "options": [
+      "A) some",
+      "B) many",
+      "C) much",
+      "D) a few"
+    ],
+    "correct_answer": "C) much",
+    "explanation": "'Money' is an uncountable noun, so we use 'much' in negative sentences.",
+    "tags": [
+      "quantifiers",
+      "uncountable nouns",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 679,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "City",
+    "question_text": "You can't park your car here. Look at the ___ sign.",
+    "options": [
+      "A) speed",
+      "B) stop",
+      "C) no-parking",
+      "D) yield"
+    ],
+    "correct_answer": "C) no-parking",
+    "explanation": "A 'no-parking' sign indicates that you are not allowed to leave your car in that area.",
+    "tags": [
+      "city",
+      "signs",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 680,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Email",
+    "question_text": "I sent you the contract. Please check the ___ line to see what the email is about.",
+    "options": [
+      "A) to",
+      "B) from",
+      "C) subject",
+      "D) cc"
+    ],
+    "correct_answer": "C) subject",
+    "explanation": "The 'subject' line in an email contains a brief summary of what the email is about.",
+    "tags": [
+      "email",
+      "features",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 681,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Past Continuous",
+    "question_text": "While I ___ for the bus, it started to rain heavily.",
+    "options": [
+      "A) wait",
+      "B) waited",
+      "C) was waiting",
+      "D) have waited"
+    ],
+    "correct_answer": "C) was waiting",
+    "explanation": "We use the Past Continuous ('was waiting') for a longer action in the past that was interrupted by a shorter action ('started').",
+    "tags": [
+      "past continuous",
+      "interrupted actions",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 682,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Travel",
+    "question_text": "We arrived at the ___ two hours before our flight to check in and drop off our luggage.",
+    "options": [
+      "A) hotel",
+      "B) airport",
+      "C) station",
+      "D) port"
+    ],
+    "correct_answer": "B) airport",
+    "explanation": "You go to an 'airport' to catch a flight and drop off luggage for a plane journey.",
+    "tags": [
+      "travel",
+      "transport",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 683,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Short Text",
+    "question_text": "Read the text: 'Sarah loves her new job. She works in a modern office, and her colleagues are very friendly. However, the commute takes almost an hour every morning.' What is the negative aspect of Sarah's job?",
+    "options": [
+      "A) Her colleagues",
+      "B) Her office",
+      "C) Her travel time",
+      "D) Her salary"
+    ],
+    "correct_answer": "C) Her travel time",
+    "explanation": "The word 'However' introduces a negative point, which is that the 'commute' (travel time) takes an hour.",
+    "tags": [
+      "reading comprehension",
+      "details",
+      "A2"
+    ]
+  },
+  {
+    "id": 684,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "First Conditional",
+    "question_text": "If you ___ your homework now, you can watch TV later.",
+    "options": [
+      "A) finish",
+      "B) will finish",
+      "C) finished",
+      "D) finishing"
+    ],
+    "correct_answer": "A) finish",
+    "explanation": "In the First Conditional, the 'if' clause takes the present simple tense ('finish').",
+    "tags": [
+      "conditionals",
+      "first conditional",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 685,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Health",
+    "question_text": "I have a terrible ___; I need to go to the dentist this afternoon.",
+    "options": [
+      "A) headache",
+      "B) stomachache",
+      "C) toothache",
+      "D) backache"
+    ],
+    "correct_answer": "C) toothache",
+    "explanation": "A 'toothache' is a pain in your tooth, which is why you need to see a dentist.",
+    "tags": [
+      "health",
+      "body parts",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 686,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Mobile Phones",
+    "question_text": "I need to charge my phone. The ___ is at 2% and it's about to die.",
+    "options": [
+      "A) battery",
+      "B) screen",
+      "C) memory",
+      "D) data"
+    ],
+    "correct_answer": "A) battery",
+    "explanation": "The 'battery' is the component that stores power. When it's at 2%, the phone needs to be charged.",
+    "tags": [
+      "mobile phones",
+      "hardware",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 687,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Articles",
+    "question_text": "She is ___ best student in our English class.",
+    "options": [
+      "A) a",
+      "B) an",
+      "C) the",
+      "D) -"
+    ],
+    "correct_answer": "C) the",
+    "explanation": "We use the definite article 'the' with superlative adjectives ('best').",
+    "tags": [
+      "articles",
+      "superlatives",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 688,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Shopping",
+    "question_text": "This shirt is too small. Do you have a ___ one?",
+    "options": [
+      "A) bigger",
+      "B) taller",
+      "C) wider",
+      "D) heavier"
+    ],
+    "correct_answer": "A) bigger",
+    "explanation": "When clothes are too small, you ask for a 'bigger' size.",
+    "tags": [
+      "shopping",
+      "clothing",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 689,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Notice",
+    "question_text": "Read the notice: 'Library closed for renovations from June 1st to June 15th.' When can you borrow books again?",
+    "options": [
+      "A) June 1st",
+      "B) June 10th",
+      "C) June 15th",
+      "D) June 16th"
+    ],
+    "correct_answer": "D) June 16th",
+    "explanation": "If it is closed 'to June 15th', it means it will reopen the following day, which is June 16th.",
+    "tags": [
+      "reading comprehension",
+      "notices",
+      "A2"
+    ]
+  },
+  {
+    "id": 690,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Indefinite Pronouns",
+    "question_text": "I'm hungry. Is there ___ to eat in the fridge?",
+    "options": [
+      "A) something",
+      "B) anything",
+      "C) nothing",
+      "D) everything"
+    ],
+    "correct_answer": "B) anything",
+    "explanation": "We use 'anything' in questions when we don't know if the thing exists or not.",
+    "tags": [
+      "indefinite pronouns",
+      "questions",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 691,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Weather",
+    "question_text": "It's ___ outside. You need to wear a warm coat and gloves.",
+    "options": [
+      "A) boiling",
+      "B) freezing",
+      "C) humid",
+      "D) breezy"
+    ],
+    "correct_answer": "B) freezing",
+    "explanation": "'Freezing' means extremely cold, which is why you need a warm coat and gloves.",
+    "tags": [
+      "weather",
+      "adjectives",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 692,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Hardware",
+    "question_text": "I plugged in my ___ to listen to the podcast without disturbing other people in the office.",
+    "options": [
+      "A) speakers",
+      "B) headphones",
+      "C) monitor",
+      "D) keyboard"
+    ],
+    "correct_answer": "B) headphones",
+    "explanation": "'Headphones' are worn over the ears to listen to audio privately.",
+    "tags": [
+      "IT hardware",
+      "audio",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 693,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Modals of Obligation",
+    "question_text": "You ___ smoke in the hospital. It's strictly forbidden by law.",
+    "options": [
+      "A) don't have to",
+      "B) shouldn't",
+      "C) mustn't",
+      "D) needn't"
+    ],
+    "correct_answer": "C) mustn't",
+    "explanation": "We use 'mustn't' to express strong prohibition, especially when it is against the rules or law.",
+    "tags": [
+      "modal verbs",
+      "prohibition",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 694,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Jobs",
+    "question_text": "She applied for the manager ___ and had an interview last week.",
+    "options": [
+      "A) salary",
+      "B) position",
+      "C) uniform",
+      "D) colleague"
+    ],
+    "correct_answer": "B) position",
+    "explanation": "A 'position' is a job or role within a company that you can apply for.",
+    "tags": [
+      "jobs",
+      "applications",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 695,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Email",
+    "question_text": "Read the email: 'Dear Mr. Smith, Thank you for your order. Your package has been shipped and should arrive by Wednesday.' What is the main purpose of this email?",
+    "options": [
+      "A) To complain about a delay",
+      "B) To inform about delivery",
+      "C) To request a refund",
+      "D) To change an address"
+    ],
+    "correct_answer": "B) To inform about delivery",
+    "explanation": "The email states the package 'has been shipped and should arrive', which is informing the customer about the delivery status.",
+    "tags": [
+      "reading comprehension",
+      "emails",
+      "A2"
+    ]
+  },
+  {
+    "id": 696,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Past Simple (Irregular)",
+    "question_text": "We ___ a great time at the concert last night.",
+    "options": [
+      "A) have",
+      "B) has",
+      "C) had",
+      "D) having"
+    ],
+    "correct_answer": "C) had",
+    "explanation": "The time marker 'last night' indicates the past simple. The past form of 'have' is 'had'.",
+    "tags": [
+      "past simple",
+      "irregular verbs",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 697,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Food",
+    "question_text": "I'm on a diet, so I try to avoid eating too much ___ in my coffee.",
+    "options": [
+      "A) sugar",
+      "B) water",
+      "C) salad",
+      "D) chicken"
+    ],
+    "correct_answer": "A) sugar",
+    "explanation": "'Sugar' is a common sweetener added to coffee that people often try to reduce when on a diet.",
+    "tags": [
+      "food",
+      "diet",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 698,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Internet",
+    "question_text": "The website is loading very slowly. Let me check my ___ connection.",
+    "options": [
+      "A) Wi-Fi",
+      "B) USB",
+      "C) HDMI",
+      "D) Bluetooth"
+    ],
+    "correct_answer": "A) Wi-Fi",
+    "explanation": "'Wi-Fi' is the wireless connection used to access the internet. USB, HDMI, and Bluetooth are for connecting devices, not internet.",
+    "tags": [
+      "internet",
+      "connections",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 699,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Comparatives",
+    "question_text": "Learning English is ___ than learning math for me.",
+    "options": [
+      "A) easy",
+      "B) easier",
+      "C) easiest",
+      "D) more easy"
+    ],
+    "correct_answer": "B) easier",
+    "explanation": "We are comparing two things. For short adjectives ending in 'y', we change 'y' to 'i' and add '-er' (easier).",
+    "tags": [
+      "comparatives",
+      "adjectives",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 700,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Travel",
+    "question_text": "The flight was delayed, so we had to wait at the ___ for three hours.",
+    "options": [
+      "A) baggage claim",
+      "B) departure gate",
+      "C) passport control",
+      "D) customs"
+    ],
+    "correct_answer": "B) departure gate",
+    "explanation": "The 'departure gate' is the area in the airport where you wait to board your plane.",
+    "tags": [
+      "travel",
+      "airport",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 701,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Short Message",
+    "question_text": "Read the message: 'Mom, I finished my exam! I'm going to grab a coffee with friends and will be home around 6.' When will the sender be home?",
+    "options": [
+      "A) Right now",
+      "B) At 6 PM",
+      "C) After dinner",
+      "D) Tomorrow"
+    ],
+    "correct_answer": "B) At 6 PM",
+    "explanation": "The message explicitly states: 'will be home around 6'.",
+    "tags": [
+      "reading comprehension",
+      "messages",
+      "A2"
+    ]
+  },
+  {
+    "id": 702,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Present Perfect (never)",
+    "question_text": "I ___ eaten sushi before. I want to try it for the first time today.",
+    "options": [
+      "A) have never",
+      "B) has never",
+      "C) didn't never",
+      "D) never"
+    ],
+    "correct_answer": "A) have never",
+    "explanation": "We use 'have never' with the past participle ('eaten') to talk about something we haven't done in our life up to now.",
+    "tags": [
+      "present perfect",
+      "never",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 703,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "City",
+    "question_text": "The ___ is very heavy this morning. I think I will be late for work.",
+    "options": [
+      "A) traffic",
+      "B) pedestrian",
+      "C) crossing",
+      "D) pavement"
+    ],
+    "correct_answer": "A) traffic",
+    "explanation": "'Traffic' refers to the vehicles on a road. 'Heavy traffic' means there are too many cars moving slowly.",
+    "tags": [
+      "city",
+      "transport",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 704,
+    "category": "IT & Technology",
+    "cefr_level": "A2",
+    "question_type": "Software",
+    "question_text": "I accidentally ___ an important file. Is there any way to recover it from the Recycle Bin?",
+    "options": [
+      "A) saved",
+      "B) deleted",
+      "C) copied",
+      "D) moved"
+    ],
+    "correct_answer": "B) deleted",
+    "explanation": "When you 'delete' a file, it is removed and usually sent to the Recycle Bin, where it can be recovered.",
+    "tags": [
+      "IT software",
+      "file management",
+      "A2 tech"
+    ]
+  },
+  {
+    "id": 705,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Future (will)",
+    "question_text": "I think it ___ rain tomorrow. The sky is very dark.",
+    "options": [
+      "A) will",
+      "B) is",
+      "C) does",
+      "D) has"
+    ],
+    "correct_answer": "A) will",
+    "explanation": "We use 'will' with 'I think' to express a prediction or belief about the future.",
+    "tags": [
+      "future forms",
+      "will",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 706,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Health",
+    "question_text": "You look very tired. You should get some ___ and go to bed early.",
+    "options": [
+      "A) medicine",
+      "B) rest",
+      "C) exercise",
+      "D) water"
+    ],
+    "correct_answer": "B) rest",
+    "explanation": "When you are tired, the best thing to do is get some 'rest' (sleep or relax).",
+    "tags": [
+      "health",
+      "advice",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 707,
+    "category": "Reading Comprehension",
+    "cefr_level": "A2",
+    "question_type": "Sign",
+    "question_text": "Read the sign: 'No pets allowed in the restaurant.' What does this mean?",
+    "options": [
+      "A) You can bring your dog.",
+      "B) You must leave your pet outside.",
+      "C) The restaurant sells pets.",
+      "D) Pets can eat here."
+    ],
+    "correct_answer": "B) You must leave your pet outside.",
+    "explanation": "'No pets allowed' means animals are strictly prohibited from entering the building.",
+    "tags": [
+      "reading comprehension",
+      "signs",
+      "A2"
+    ]
+  },
+  {
+    "id": 708,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Conjunctions",
+    "question_text": "I wanted to go to the beach, ___ it was raining heavily.",
+    "options": [
+      "A) so",
+      "B) because",
+      "C) but",
+      "D) although"
+    ],
+    "correct_answer": "C) but",
+    "explanation": "We use 'but' to connect two contrasting ideas (wanting to go vs. the bad weather).",
+    "tags": [
+      "conjunctions",
+      "contrast",
+      "A2 grammar"
+    ]
+  },
+  {
+    "id": 709,
+    "category": "Vocabulary",
+    "cefr_level": "A2",
+    "question_type": "Shopping",
+    "question_text": "I need to go to the ___ to buy some fresh vegetables, fruit, and milk.",
+    "options": [
+      "A) pharmacy",
+      "B) bakery",
+      "C) grocery store",
+      "D) bookstore"
+    ],
+    "correct_answer": "C) grocery store",
+    "explanation": "A 'grocery store' (or supermarket) is the place where you buy food and household items.",
+    "tags": [
+      "shopping",
+      "places",
+      "A2 vocabulary"
+    ]
+  },
+  {
+    "id": 710,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Present Perfect",
+    "question_text": "I ___ my homework, so I can watch TV now.",
+    "options": [
+      "A) finish",
+      "B) have finished",
+      "C) am finishing",
+      "D) finished"
+    ],
+    "correct_answer": "B) have finished",
+    "explanation": "We use the Present Perfect ('have finished') for a completed action that has a result in the present (I can watch TV now).",
+    "tags": [
+      "present perfect",
+      "results in present",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 711,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Present Perfect (for/since)",
+    "question_text": "She has lived in London ___ 2015.",
+    "options": [
+      "A) for",
+      "B) since",
+      "C) in",
+      "D) at"
+    ],
+    "correct_answer": "B) since",
+    "explanation": "We use 'since' with a specific point in time in the past (like a year: 2015) with the Present Perfect.",
+    "tags": [
+      "present perfect",
+      "for and since",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 712,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Present Perfect (ever/never)",
+    "question_text": "This is the most delicious pizza I have ___ eaten.",
+    "options": [
+      "A) never",
+      "B) ever",
+      "C) always",
+      "D) already"
+    ],
+    "correct_answer": "B) ever",
+    "explanation": "We use 'ever' in questions and superlative structures with the Present Perfect to mean 'at any time in your life'.",
+    "tags": [
+      "present perfect",
+      "ever and never",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 713,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Past Simple vs. Present Perfect",
+    "question_text": "I ___ him yesterday, but I ___ him since 2010.",
+    "options": [
+      "A) saw / haven't seen",
+      "B) have seen / didn't see",
+      "C) saw / didn't see",
+      "D) have seen / haven't seen"
+    ],
+    "correct_answer": "A) saw / haven't seen",
+    "explanation": "'Yesterday' requires Past Simple ('saw'). 'Since 2010' requires Present Perfect ('haven't seen').",
+    "tags": [
+      "past simple vs present perfect",
+      "tenses",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 714,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Past Continuous",
+    "question_text": "While I ___ down the street, I saw an old friend.",
+    "options": [
+      "A) walk",
+      "B) walked",
+      "C) was walking",
+      "D) have walked"
+    ],
+    "correct_answer": "C) was walking",
+    "explanation": "The Past Continuous ('was walking') is used for a longer action in the past that was interrupted by a shorter action ('saw').",
+    "tags": [
+      "past continuous",
+      "interrupted actions",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 715,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "First Conditional",
+    "question_text": "If it ___ tomorrow, we will cancel the picnic.",
+    "options": [
+      "A) rains",
+      "B) will rain",
+      "C) rained",
+      "D) would rain"
+    ],
+    "correct_answer": "A) rains",
+    "explanation": "In the First Conditional (real future possibility), the 'if' clause takes the present simple tense ('rains').",
+    "tags": [
+      "conditionals",
+      "first conditional",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 716,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Second Conditional",
+    "question_text": "If I ___ a million dollars, I would buy a big house.",
+    "options": [
+      "A) have",
+      "B) had",
+      "C) will have",
+      "D) would have"
+    ],
+    "correct_answer": "B) had",
+    "explanation": "In the Second Conditional (hypothetical/unreal present), we use the past simple in the 'if' clause ('had').",
+    "tags": [
+      "conditionals",
+      "second conditional",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 717,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Passive Voice (Present Simple)",
+    "question_text": "English ___ in many countries around the world.",
+    "options": [
+      "A) speaks",
+      "B) is spoken",
+      "C) spoke",
+      "D) has spoken"
+    ],
+    "correct_answer": "B) is spoken",
+    "explanation": "The present simple passive is formed with 'am/is/are + past participle'. English receives the action of being spoken.",
+    "tags": [
+      "passive voice",
+      "present simple",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 718,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Passive Voice (Past Simple)",
+    "question_text": "The window ___ by the children yesterday.",
+    "options": [
+      "A) broke",
+      "B) was broken",
+      "C) is broken",
+      "D) has broken"
+    ],
+    "correct_answer": "B) was broken",
+    "explanation": "The sentence requires the past simple passive voice because the action happened in the past ('yesterday') and the subject receives the action.",
+    "tags": [
+      "passive voice",
+      "past simple",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 719,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Modals of Obligation",
+    "question_text": "You ___ wear a seatbelt when you are driving. It's the law.",
+    "options": [
+      "A) might",
+      "B) should",
+      "C) must",
+      "D) could"
+    ],
+    "correct_answer": "C) must",
+    "explanation": "We use 'must' to express strong obligation, especially when it is a rule or a law.",
+    "tags": [
+      "modal verbs",
+      "obligation",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 720,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Gerunds vs. Infinitives",
+    "question_text": "I enjoy ___ movies on the weekend.",
+    "options": [
+      "A) watch",
+      "B) to watch",
+      "C) watching",
+      "D) watched"
+    ],
+    "correct_answer": "C) watching",
+    "explanation": "The verb 'enjoy' is always followed by a gerund (verb + -ing).",
+    "tags": [
+      "gerunds",
+      "verb patterns",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 721,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Relative Clauses",
+    "question_text": "That's the restaurant ___ we had our first date.",
+    "options": [
+      "A) which",
+      "B) who",
+      "C) where",
+      "D) when"
+    ],
+    "correct_answer": "C) where",
+    "explanation": "We use the relative adverb 'where' to refer to a place (the restaurant) where an action happened.",
+    "tags": [
+      "relative clauses",
+      "where",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 722,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Work & Business",
+    "question_text": "She received a ___ for her excellent performance and high sales this quarter.",
+    "options": [
+      "A) prize",
+      "B) bonus",
+      "C) gift",
+      "D) present"
+    ],
+    "correct_answer": "B) bonus",
+    "explanation": "A 'bonus' is extra money added to an employee's salary as a reward for good performance.",
+    "tags": [
+      "work",
+      "business",
+      "B1 vocabulary"
+    ]
+  },
+  {
+    "id": 723,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Environment",
+    "question_text": "We should recycle plastic and paper to protect the ___.",
+    "options": [
+      "A) environment",
+      "B) entertainment",
+      "C) equipment",
+      "D) education"
+    ],
+    "correct_answer": "A) environment",
+    "explanation": "The 'environment' refers to the natural world, which we protect by recycling.",
+    "tags": [
+      "environment",
+      "nature",
+      "B1 vocabulary"
+    ]
+  },
+  {
+    "id": 724,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Software Maintenance",
+    "question_text": "Make sure to ___ your antivirus software regularly to protect against new viruses.",
+    "options": [
+      "A) delete",
+      "B) update",
+      "C) ignore",
+      "D) uninstall"
+    ],
+    "correct_answer": "B) update",
+    "explanation": "To 'update' software means to install the latest version, which includes new security patches.",
+    "tags": [
+      "software",
+      "cybersecurity",
+      "B1 tech"
+    ]
+  },
+  {
+    "id": 725,
+    "category": "IT & Technology",
+    "cefr_level": "B1",
+    "question_type": "Internet Basics",
+    "question_text": "I can't connect to the ___. What is the password?",
+    "options": [
+      "A) Wi-Fi",
+      "B) printer",
+      "C) mouse",
+      "D) screen"
+    ],
+    "correct_answer": "A) Wi-Fi",
+    "explanation": "'Wi-Fi' is the wireless network connection that requires a password to access the internet.",
+    "tags": [
+      "internet",
+      "Wi-Fi",
+      "B1 tech"
+    ]
+  },
+  {
+    "id": 726,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Phrasal Verbs",
+    "question_text": "The important meeting was ___ until next week because the manager is sick.",
+    "options": [
+      "A) put off",
+      "B) called off",
+      "C) looked after",
+      "D) taken off"
+    ],
+    "correct_answer": "A) put off",
+    "explanation": "To 'put off' means to postpone or delay an event to a later time.",
+    "tags": [
+      "phrasal verbs",
+      "business English",
+      "B1 vocabulary"
+    ]
+  },
+  {
+    "id": 727,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Collocations",
+    "question_text": "Could you please do me a ___ and help me carry these heavy boxes?",
+    "options": [
+      "A) help",
+      "B) favor",
+      "C) good",
+      "D) service"
+    ],
+    "correct_answer": "B) favor",
+    "explanation": "The fixed expression in English is 'do someone a favor', meaning to help them.",
+    "tags": [
+      "collocations",
+      "requests",
+      "B1 vocabulary"
+    ]
+  },
+  {
+    "id": 728,
+    "category": "Reading Comprehension",
+    "cefr_level": "B1",
+    "question_type": "Signs and Notices",
+    "question_text": "Read the sign: 'WARNING: Wet floor. Please walk carefully.' Where are you most likely to see this sign?",
+    "options": [
+      "A) In a library",
+      "B) In a park",
+      "C) In a supermarket aisle",
+      "D) On a bus"
+    ],
+    "correct_answer": "C) In a supermarket aisle",
+    "explanation": "A 'wet floor' sign is used indoors on tiled or smooth floors, like in a supermarket, to prevent slipping.",
+    "tags": [
+      "reading comprehension",
+      "signs",
+      "B1"
+    ]
+  },
+  {
+    "id": 729,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Adjectives (-ed/-ing)",
+    "question_text": "The documentary about space was very ___. I learned a lot of new facts.",
+    "options": [
+      "A) interest",
+      "B) interested",
+      "C) interesting",
+      "D) interests"
+    ],
+    "correct_answer": "C) interesting",
+    "explanation": "We use adjectives ending in '-ing' (interesting) to describe the thing that causes the feeling. '-ed' describes how someone feels.",
+    "tags": [
+      "adjectives",
+      "feelings",
+      "B1 vocabulary"
+    ]
+  },
+  {
+    "id": 730,
+    "category": "Vocabulary",
+    "cefr_level": "B1",
+    "question_type": "Confusing Words",
+    "question_text": "The new data privacy regulations will have a significant ___ on how we collect user information.",
+    "options": [
+      "A) affect",
+      "B) effect",
+      "C) effort",
+      "D) afford"
+    ],
+    "correct_answer": "B) effect",
+    "explanation": "'Effect' is a noun meaning a result or consequence. 'Affect' is usually a verb. The sentence requires a noun after 'significant'.",
+    "tags": [
+      "confusing words",
+      "effect vs affect",
+      "B1 vocabulary"
+    ]
+  },
+  {
+    "id": 731,
+    "category": "Grammar",
+    "cefr_level": "B1",
+    "question_type": "Used to",
+    "question_text": "I ___ live in Paris, but now I live in London.",
+    "options": [
+      "A) use to",
+      "B) used to",
+      "C) am used to",
+      "D) was used to"
+    ],
+    "correct_answer": "B) used to",
+    "explanation": "'Used to' + base verb is used to talk about past habits or states that are no longer true.",
+    "tags": [
+      "used to",
+      "past habits",
+      "B1 grammar"
+    ]
+  },
+  {
+    "id": 732,
+    "category": "Reading Comprehension",
+    "cefr_level": "B1",
+    "question_type": "Short Text",
+    "question_text": "Read the text: 'The museum is open from 9 AM to 5 PM, but it is closed on Mondays.' Can you visit on Sunday at 10 AM?",
+    "options": [
+      "A) No, it's closed.",
+      "B) Yes, you can.",
+      "C) Only at 5 PM.",
+      "D) Only on Monday."
+    ],
+    "correct_answer": "B) Yes, you can.",
+    "explanation": "Sunday is not Monday, and 10 AM is between 9 AM and 5 PM, so the museum is open.",
+    "tags": [
+      "reading comprehension",
+      "details",
+      "B1"
+    ]
+  },
+  {
+    "id": 733,
+    "category": "Grammar",
+    "cefr_level": "B2",
+    "question_type": "Mixed Conditionals",
+    "question_text": "If the system ___ properly yesterday, we ___ dealing with this outage right now.",
+    "options": [
+      "A) had functioned / wouldn't be",
+      "B) functioned / won't be",
+      "C) has functioned / aren't",
+      "D) would function / weren't"
+    ],
+    "correct_answer": "A) had functioned / wouldn't be",
+    "explanation": "Mixed conditional: past unreal condition with present unreal result.",
+    "tags": [
+      "mixed conditionals",
+      "advanced grammar"
+    ]
+  },
+  {
+    "id": 734,
+    "category": "IT & Technology",
+    "cefr_level": "C1",
+    "question_type": "Cloud Computing",
+    "question_text": "The shift from on-premise servers to a serverless infrastructure allowed the company to scale resources dynamically based on demand.",
+    "options": [
+      "A) monolithic",
+      "B) serverless",
+      "C) legacy",
+      "D) proprietary"
+    ],
+    "correct_answer": "B) serverless",
+    "explanation": "Serverless infrastructure dynamically allocates compute resources based on demand.",
+    "tags": [
+      "cloud computing",
+      "serverless",
+      "C1 IT"
+    ]
+  },
+  {
+    "id": 735,
+    "category": "Vocabulary",
+    "cefr_level": "B2",
+    "question_type": "Collocations",
+    "question_text": "The development team decided to address the technical debt before adding new features.",
+    "options": [
+      "A) accumulate",
+      "B) address",
+      "C) ignore",
+      "D) amplify"
+    ],
+    "correct_answer": "B) address",
+    "explanation": "Address is the correct collocation with technical debt.",
+    "tags": [
+      "collocations",
+      "business English"
+    ]
+  },
+  {
+    "id": 736,
+    "category": "Grammar",
+    "cefr_level": "A2",
+    "question_type": "Present Perfect",
+    "question_text": "She has drunk three cups of coffee since morning.",
+    "options": [
+      "A) drinks",
+      "B) drank",
+      "C) has drunk",
+      "D) is drinking"
+    ],
+    "correct_answer": "C) has drunk",
+    "explanation": "Present perfect connects a past action to the present time frame.",
+    "tags": [
+      "present perfect",
+      "tenses"
+    ]
   }
 ]

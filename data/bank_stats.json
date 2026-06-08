@@ -1,0 +1,19 @@
+{
+  "total_unique_questions": 735,
+  "total_parsed": 1548,
+  "duplicates_removed": 812,
+  "invalid_skipped": 1,
+  "categories": {
+    "Grammar": 251,
+    "IT & Technology": 181,
+    "Reading Comprehension": 105,
+    "Vocabulary": 198
+  },
+  "options_distribution": {
+    "A": 215,
+    "B": 358,
+    "C": 160,
+    "D": 2
+  },
+  "generated_at": "2026-06-08T18:11:47"
+}

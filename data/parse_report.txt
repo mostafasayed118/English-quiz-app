@@ -1,0 +1,27 @@
+============================================================
+  QUESTION BANK PARSING REPORT
+============================================================
+Timestamp:  2026-06-08T18:11:47
+
+─ Counts ─
+  Total parsed:      1548
+  Duplicates removed: 812
+  Invalid skipped:   1
+  Final unique:      735
+
+─ Categories ─
+  Grammar                        251
+  IT & Technology                181
+  Reading Comprehension          105
+  Vocabulary                     198
+
+─ Answer Distribution ─
+  A: 215 (29.3%)
+  B: 358 (48.7%)
+  C: 160 (21.8%)
+  D: 2 (0.3%)
+
+─ Errors/Skipped (2 total, first 20) ─
+  ✗ questions_8.json: Expecting property name enclosed in double quotes: line 315 column 42 (char 18993)
+  ✗ #989 [questions]: empty option
+============================================================
